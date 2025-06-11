@@ -1,21 +1,39 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "smorales120",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183627597?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "llilasbenson",
+    "is_private": false,
+    "title": "Latino USA",
+    "description": "This project annotates the first year of the Latino USA radio program in 1993.",
+    "language": "en",
+    "slug": "latinousa",
+    "creator": "llilasbenson",
+    "authors": "Sergio Morales",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [
+      {
+        "login_name": "smorales120",
+        "avatar_url": "https://avatars.githubusercontent.com/u/183627597?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-06-11T14:41:14.028Z",
+    "updated_at": "2025-06-11T14:41:14.028Z"
   }
 }
