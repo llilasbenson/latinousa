@@ -28,13 +28,19 @@
     "authors": "Sergio Morales",
     "media_player": "avannotate",
     "auto_populate_home_page": false,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "amtellez16",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164238240?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2025-06-11T14:41:14.028Z",
-    "updated_at": "2025-06-11T15:19:51.467Z",
+    "updated_at": "2026-03-02T20:36:11.997Z",
     "generate_pages_site": true
   },
   "annotations": {},
