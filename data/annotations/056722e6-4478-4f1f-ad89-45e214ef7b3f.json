@@ -1,5 +1,4847 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Opening theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "d8618c36-c619-49f2-8389-223fb5b62a19"
+    },
+    {
+      "start_time": 10,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, a radio journal of news and culture. I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "b3c92582-137b-4439-b2a7-f6276a9d08bb"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today on Latino USA, lobbying for a Hispanic on the US Supreme Court."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "8ea73548-2fa0-48a1-9fd3-c25f7cd491ac"
+    },
+    {
+      "start_time": 23,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's never been a Hispanic American on the Supreme Court in more than 200-year history of our country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ortiz-Carlos",
+          "category": "People"
+        }
+      ],
+      "uuid": "df8d658f-d997-4f1c-aed9-a957b2a1b84a"
+    },
+    {
+      "start_time": 30,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New Mexico magic from novelist Ana Castillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "dc347cf1-9aa6-43e5-91ed-c9053eabeb62"
+    },
+    {
+      "start_time": 33,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wouldn't call it magic realism. I would call it a book based on faith."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        }
+      ],
+      "uuid": "623b63a8-b417-44fb-a9ab-ecbf0676ef21"
+    },
+    {
+      "start_time": 38,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also on Latino USA, a lesson in Latin music appreciation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "2a4675a2-4ea8-47b2-9fd4-458cbce7c937"
+    },
+    {
+      "start_time": 42,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The clave pattern is found in many different styles of music, besides rumba and salsa. It is found in meringue, guaracha, danzÃ³n, cha-cha-cha, and even boleros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        }
+      ],
+      "uuid": "8f3e0bdd-9108-463b-a1e8-4cac0686b244"
+    },
+    {
+      "start_time": 53,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All this and more on Latino USA, but first, las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "7029d516-b746-4ae2-8166-511e3e9d0ba4"
+    },
+    {
+      "start_time": 58,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I'm Maria Martin. An association of Latino attorneys is lobbying the President to name a Hispanic to the nation's highest court. From Miami, Emilio San Pedro reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Baca-Joseph",
+          "category": "People"
+        },
+        {
+          "tag": "Morales-Dan",
+          "category": "People"
+        },
+        {
+          "tag": "Martinez-Wilmer",
+          "category": "People"
+        },
+        {
+          "tag": "Hispanic National Bar Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "82eaccf2-3dfe-432e-9430-23ff0bcd0594"
+    },
+    {
+      "start_time": 111,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Latino community is the second largest and fastest-growing minority group in the United States, but a Latino has never served on the United States Supreme Court. That's the premise on which the Hispanic National Bar Association, the HNBA, based its campaign to President Bill Clinton to appoint a Latino to the Supreme Court. HNBA National President Carlos Ortiz says that not only is it important to have a Latino on the Supreme Court for the sake of equal representation, but also, he says a qualified Latino Justice could bring a unique perspective to the court."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Baca-Joseph",
+          "category": "People"
+        },
+        {
+          "tag": "Morales-Dan",
+          "category": "People"
+        },
+        {
+          "tag": "Martinez-Wilmer",
+          "category": "People"
+        },
+        {
+          "tag": "Hispanic National Bar Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "135c424f-f76e-4ba5-8f49-8d2b6b684331"
+    },
+    {
+      "start_time": 143,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We feel that with a new perspective on that court, that the arguments that could be made by and between the judges that have to make them in order to arrive at a decision that will impact upon the 250 million Americans that have to follow the Supreme Court's law, that Hispanics can greatly contribute to the development of that new law, and then the administration of justice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ortiz-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Baca-Joseph",
+          "category": "People"
+        },
+        {
+          "tag": "Morales-Dan",
+          "category": "People"
+        },
+        {
+          "tag": "Martinez-Wilmer",
+          "category": "People"
+        },
+        {
+          "tag": "Hispanic National Bar Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "379b221f-5d6a-4604-8ac8-d447d27b6ac4"
+    },
+    {
+      "start_time": 204,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The short list of seven potential nominees was presented to President Clinton on March 21st. They include Joseph Baca, a Justice on the New Mexico Supreme Court, Texas Attorney General Don Morales, and Wilmer Martinez, former President and General Counsel of MALDAEF, the Mexican American Legal Defense and Education Fund. For Latino USA, I'm Emilio San Pedro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Baca-Joseph",
+          "category": "People"
+        },
+        {
+          "tag": "Morales-Dan",
+          "category": "People"
+        },
+        {
+          "tag": "Martinez-Wilmer",
+          "category": "People"
+        },
+        {
+          "tag": "Hispanic National Bar Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "346bfdd4-4982-4194-8d34-8443c2cc4f15"
+    },
+    {
+      "start_time": 225,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "13 years of English-only in increasingly Spanish-speaking Dade County, Florida have come to an end. An amendment prohibiting the use of Spanish in county government was repealed after a noisy five-hour hearing that had opposing sides singing \"God Bless America\" and the Cuban National Anthem. With the repeal of the English-only amendment, information about AIDS, child abuse, and transportation will be available in Spanish, and Dade County can hire Spanish language interpreters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Dade County",
+          "category": "Places"
+        },
+        {
+          "tag": "Dade County Government",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "83b90e2c-f212-49c8-8d03-721c4aebc69b"
+    },
+    {
+      "start_time": 254,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A Hispanic coalition has issued a report card grading President Clinton's appointment of high-level Latinos to his administration. As Patricia Guadalupe reports from Washington, the President earned high marks in some departments, low marks in others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico",
+          "category": "People"
+        },
+        {
+          "tag": "Newton-Frank--Frank Cota-Robles",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "201b0097-9583-401b-a2cb-2618d2ef3d14"
+    },
+    {
+      "start_time": 308,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The National Hispanic Leadership Agenda, a coalition of 28 Latino agencies, examined President Clinton's first 100 days. They found that only 16 Hispanics have been appointed to top White House and Cabinet posts. That is less than 5% of all positions available. Four departments; Agriculture, Labor, State, and Veteran Affairs, received an F for having no Hispanics in positions requiring Senate confirmation. The National Hispanic Leadership Agenda applauded the appointments of cabinet secretaries Henry Cisneros and Federico Pena. Still, coalition Director Frank Newton said the overall picture for Hispanics was disappointing. For it's high-level Hispanic appointments, the coalition gave the Clinton Administration an overall grade of C-. For Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico",
+          "category": "People"
+        },
+        {
+          "tag": "Newton-Frank--Frank Cota-Robles",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "57fe8236-4397-4b77-800c-f35bd74182aa"
+    },
+    {
+      "start_time": 356,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "7a7841c5-eb7d-4b30-bf4e-4a899faf381c"
+    },
+    {
+      "start_time": 359,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The debate over healthcare reform continues. In a full page ad in the New York Times, three California Latino organizations urged President Clinton to include everyone, even the undocumented, in his upcoming healthcare plan. From Sacramento, Armando Botello reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6deb49c5-9d8a-4958-9afb-499acc11fc0e"
+    },
+    {
+      "start_time": 416,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Latino issues for a Mexican American political association and American GI forum based their petition on the assumption that preventive healthcare is a good investment. John Gamboa is President of the Latino Issues Forum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Botello-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6c29122a-bdf2-45dc-a7fa-96cac4ccf689"
+    },
+    {
+      "start_time": 428,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's no real good reason why these people should not be counted. First, it's un-American. Second, it doesn't save money. Third, if we don't cover them, the health of everybody else is in jeopardy because a communicable disease that could be prevented may spread to other people and increase the cost, and get other people sick simply because we won't cover them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gamboa-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6c60f223-8959-4971-ab9f-2f54efb754fc"
+    },
+    {
+      "start_time": 452,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Gamboa, the only criticism to their petition has come from anti-immigrant groups. However, Arnoldo Torres, former National Director of the League of Latin American Citizens, says the plan is not feasible because of an anti-immigrant climate, a shortage of funds, lack of Latino health professionals, and a lack of consensus among the Latino community to back the proposal. Torres however offers an alternative which would be linked to the Free Trade Agreement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Botello-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ca32c5c7-6c3a-4a9f-b8f3-74e44cb8412f"
+    },
+    {
+      "start_time": 517,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the revenue and benefit that Mexico will receive from this, and as well as the US, ought to be providing... It should be put into some reserve/trust fund to cover some of the healthcare costs of undocumented people in this country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Torres-Arnoldo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6b23e2b6-ec15-4222-9eec-6640229b1237"
+    },
+    {
+      "start_time": 528,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far, the only response to the proposal has come from the California Congressional Delegation, which has asked the President to look into it. In Sacramento, California, I'm Armando Botello reporting for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Botello-Armando",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1efc55b6-87a1-4cda-9171-e85fa198f7cf"
+    },
+    {
+      "start_time": 539,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seasonal farm workers have been left out of Washington State's newly-enacted healthcare law, considered the most sweeping in the nation. Farm worker health advocates call the exclusion \"unwise and unconstitutional\", and plant a core challenge. I'm Maria Martin. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Sacramento",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Latino Issues Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American GI Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1d7d8899-e880-485a-b69d-d57b44ae6c77"
+    },
+    {
+      "start_time": 557,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Saxophone and guitar music transition]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "f0929b58-707c-4212-aa97-2b75c019ffc4"
+    },
+    {
+      "start_time": 558,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background music] I'm Maria Hinojosa. The word \"alien\" writes New York Times columnist, AM Rosenthal, \"Should be saved for creatures that jump out of bellies at movies.\" In a recent column, Rosenthal recalls how he came to this country without immigration papers as a child, along with this Russian-born father. He remembers how much he detested to hear himself referred to as an alien. Like Rosenthal, many Latinos find the use of the label \"illegal alien\" offensive, as offensive as the word \"wetback\" was to an earlier generation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Transition--Music--Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a671f248-a8ec-4a0d-9514-66d7f25e6ce2"
+    },
+    {
+      "start_time": 645,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background music] Producer Betto Arcos, along with Mexican performance artist, Guillermo Gomez-Pena, actress Yareli Arizmendi, and rock musician Sergio Arau, have given some though to the use of these labels. âAhi Les Va Un audio essay.â Here's their audio essay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6e16e69f-67b9-4ea9-9c08-ddc850c3c2e3"
+    },
+    {
+      "start_time": 702,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember the little song we learned yesterday?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arizmendi-Yareli",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "608631b1-780c-4378-971e-4c0024312b31"
+    },
+    {
+      "start_time": 705,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I remember."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arau-Sergio",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "8b6b0c42-11c0-4e14-ba97-7ec65766e3f5"
+    },
+    {
+      "start_time": 707,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's sing it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arizmendi-Yareli",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5027fc2b-35a9-4808-bf70-24d2e491c381"
+    },
+    {
+      "start_time": 708,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. (singing)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arau-Sergio",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "f56319ec-457e-47ec-825c-33dc69b7ba3e"
+    },
+    {
+      "start_time": 709,
+      "end_time": 721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One little, two little, three little aliens. Four little, five little, six little aliens. Seven little, eight little, nine little aliens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arizmendi-Yareli",
+          "category": "People"
+        },
+        {
+          "tag": "Arau-Sergio",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "391ecbf0-bbdd-4b22-9dc5-ecd67dbc08bf"
+    },
+    {
+      "start_time": 721,
+      "end_time": 728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[recorded voice] To find out how to report illegal aliens or employers of illegal aliens, dial six now. [beep]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "17508e77-5d09-4eff-9c68-52c655b3461a"
+    },
+    {
+      "start_time": 728,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alien nation. Alien nation. Alien action. Alien native. Alguein-ated. Alien hatred. Aliens out there. Hay alguien out there. Aliens the movie. Aliens the album. Cowboys versus aliens. Bikers versus aliens. Hippies versus aliens. The wetback from Mars. The Mexican transformer and his radioactive torta. The Conquest of Tenochtitlan by Spielberg. The Reconquest of AztlÃ¡n by Monte Python. The brown wave versus the microwave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a2c71c16-5d4c-431b-a12e-cd30541b5f1e"
+    },
+    {
+      "start_time": 829,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is estimated that there are approximately six million undocumented or illegal aliens living and working in the United States at this time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unidentified Speaker"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "387be076-a448-4a2a-90af-53299e5bd6d8"
+    },
+    {
+      "start_time": 839,
+      "end_time": 847,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sergio is an illegal. Guillermo is a wetback. Is Sergio a wetback?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arizmendi-Yareli",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "fbc4d988-4f30-41b7-a25b-16f49ad681c4"
+    },
+    {
+      "start_time": 847,
+      "end_time": 855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, Sergio is not a wetback. Sergio is an illegal. Guillermo is a wetback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arau-Sergio",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d351f481-42c8-4eae-9576-80bee35d41d2"
+    },
+    {
+      "start_time": 855,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arizmendi-Yareli",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "89e3a979-6845-4a7b-8177-9baf813b8bee"
+    },
+    {
+      "start_time": 856,
+      "end_time": 910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am, therefore, I cross. My rationale for crossing is simple, survival plus dignity equals migration minus memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d43a9f04-a346-440b-8a84-b5330a28eeed"
+    },
+    {
+      "start_time": 910,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Recorded Sound] Come in Border Patrol. Border Patrol. I'm in Chopper One. [Sounds of breathing] I need help. I need assistance. I need assistance. [inaudible 000919]. [Hip-hop music] Come in, come in Border Patrol, please. Come in. We need assistance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Natural sounds--Border Patrol radio",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "bd6230f3-effa-4aad-a8ae-b605b67f81db"
+    },
+    {
+      "start_time": 924,
+      "end_time": 929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Hip-Hop Music] The helicopter flies like an eagle. Made it to the other side now. We're illegal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d05aebe7-dad4-4414-8f30-05b086ad4595"
+    },
+    {
+      "start_time": 929,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This audio essay with music by The Latin Alliance was produced by Beto Argos in Boulder, Colorado, along with Guillermo Gomez-Pena, Yareli Arizmendi, and Sergio Arau."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Rosenthal-A M",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Audio essay--Ahi Les Va",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "75e3cc2d-fc12-48be-a3ac-5903d87c8654"
+    },
+    {
+      "start_time": 940,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Hip hop music transition]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "4e74c5a2-2a03-4af1-98b0-90e1ae34c598"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certain instruments, like certain rhythms, are characteristic of Latin music. For instance, in Cuban rumba or salsa we hear instruments such as congas, bongos, and timbales. At the heart of Latin music are two simple wooden sticks known as the \"clave\". Without this simple instrument, Latin music would not be the same. From Boston, Producer Marta ValentÃ­n prepared this appreciation of Latin music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "9e8dfe52-a22f-43c9-b757-da8b5bba4076"
+    },
+    {
+      "start_time": 1028,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Salsa music highlight]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Salsa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a0d375d9-877b-497c-8861-9adc0ce73224"
+    },
+    {
+      "start_time": 1033,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A few months ago, while out with an American coworker, I had a great experience while listening to Latin music at a small club here in Cambridge. As I am a Latin woman, it was obvious to me that we were listening to the music in different ways. After watching her tap to the wrong beat for some time, it occurred to me that I could point out an aspect of the music that would enhance her listening, get her tapping on the right beat, and thus make the night more enjoyable for her. [Latin jazz music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Latin Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "80dd022e-1d9a-470f-93bc-067522bd1591"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Latin jazz music] I asked her what she liked so much about Latin music, salsa and Latin jazz in specific. She told me, \"The feeling that you get when listening to it. The pulse,\" she went on to say, \"That feels like everyone's heartbeat is one, coming from the earth and reaching to the sky.\" I smiled, not only because I liked the metaphor, but also because I felt great pride in my music and my culture. I decided it was time to let her in on what that heartbeat is, the clave, or \"key\" as it is appropriately named, two sticks of wood that are banged together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Latin Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "34243e7a-7f38-4dd0-87e8-ec1285af3643"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Latin jazz music] In fact, the heartbeat of Cuban rumba and salsa music. That feeling she was referring to is known as the \"clave feeling\", and comes out of the five-stroke two-measure pattern that identifies it. [Clave sound] This pattern is perceived as a thymic clock that keeps the musicians on the same wavelength. However, when the actual claves are not present in a song, that feeling continues by virtue of melodic phrasing and percussion patterns. Although there are different claves, the two most popular are the Cuban clave, or rumba clave. [Clave sound] And the sone clave. [Clave sound]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Latin Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Highlight--Music--Clave rhythm",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0b0a1f51-0560-48c3-b491-0c98ff0d5d56"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As you can hear, the Cuban clave is a half beat later on the third stroke. Listen, Cuban. [Clave sound] And sone [Clave sound]. Although they sound almost the same, they aren't. That's why a musician's ability to not only play in clave, but distinguish the two, is not only attended, key to their success. Let's listen to a little Cuban rumba. This is âOrquestra Original de Manzanilloâ, with ComenzÃ³ La Fiesta, the Party Has Begun. (âComenzo La Fiesta Music highlight). In Cuba, the claves are considered to be one male, which is eight inches, and the other female, which is four inches long. Holding the female in a cupped hand, the male bangs against her middle repeatedly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Latin Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Highlight--Music--Clave rhythm",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c299d8b9-ee40-40e0-aa92-9c625faf077a"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This gender designation comes from the African influence on the Cuban culture. It is interesting to note also that although the claves themselves are wholly Cuban, never having been found in Africa or Europe, the clave rhythm had permeated African music for centuries. The clave pattern is found in many different styles of music besides rumba and salsa. It is found in meringue, guaracha, danzon, cha-cha-cha, and even boleros. Here's Juan Luis Guerra's bolero,âSeÃ±ales de Humoâ, âSmoke Signalsâ. (Highlight âSeÃ±ales de Humoâ)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Latin Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6046d5d9-bd87-4178-9c29-c3675d1d6285"
+    },
+    {
+      "start_time": 1508,
+      "end_time": 1547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in salsa music, the clave is regarded as beginning as soon as the music begins, and continuing without interruption until the last note. Even when the music is silent due to rests or changes in the arrangement break the flow, the clave pattern is holding it all together and creating that clave feeling that my coworker loves so much. So next time you listen to Latin music, whether it be rumba, salsa, bolero, Latin jazz, whatever, try tapping along with the clave. It's simple when you can hear the actual claves, but then graduate to a more complex piece if you're up for the challenge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d1e414a5-1629-4316-81b3-1aca24d867bb"
+    },
+    {
+      "start_time": 1547,
+      "end_time": 1608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here's Seis del Solar, Una Sola Casa, One House. From Boston, I'm Marta ValentÃ­n. [Highlight âUna Sola Casaâ)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Orquesta Original de Manzanillo",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Latin Jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Comenzo la Fiesta",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Senales de Humo",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Una Sola Casa",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6f0b656d-328a-471d-bd72-7ab089bfd3cc"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been viewed by thousands of people in Los Angeles, Denver, Albuquerque, El Paso, Washington DC, and the Bronx in New York. Now the art exhibit known as the CARA show opens at its last venue of it's two year run in San Antonio. The exhibit examines the Chicano art movement of the 60s and 70s, through a wide range of multimedia, including posters, holograms, and altars. Latino USA's Maria Martin prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Chicano Art Resistance and Affirmation--CARA",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1960s",
+          "category": "Dates"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "1e83d4e4-8538-429c-a2c2-969c93daf0cc"
+    },
+    {
+      "start_time": 1639,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tejano music background] The exhibit known as the CARA show, the acronym for Chicano Art Resistance and Affirmation, is the first-ever to focus specifically on Chicano art as opposed to Hispanic or Latin American art. Tomas Ybarra-Frausto, an art specialist with the Rockefeller Foundation and a member of the show's planning committee, calls the CARA show a landmark art exhibit which will put Chicano art on the map."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Tejano",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Exhibition--Chicano Art Resistance and Affirmation--CARA",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "34aa1f73-08bb-4e46-be8e-d6e394e30b9f"
+    },
+    {
+      "start_time": 1704,
+      "end_time": 1746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the United States it's very difficult for Chicano art to get a hearing. First of all, because even today all the Latinos are lumped under the word Hispanic. And so, Chicano immediately separates out in a very particular way from that Hispanic rubric, which in a way many people, of course don't like because it means that it does away with your Indigenous and your African element, and only proclaims the European Spanish element. So, in that sense, because Chicano art is an art that fractures the myth of consensus, it's unknown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ybarra-Frausto-Tomas 1938-",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Chicano Art Resistance and Affirmation--CARA",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "3c87d06c-bfc4-437e-a68e-775bbb7df4e9"
+    },
+    {
+      "start_time": 1747,
+      "end_time": 1757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sound, clapping] Playwright Luis Valdez, a member of CARA's National Honorary Committee, talked about the connection that Chicano art has with his pre-Hispanic roots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Clapping",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Exhibition--Chicano Art Resistance and Affirmation--CARA",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6122f837-d805-43e4-92aa-b887ffe6f19d"
+    },
+    {
+      "start_time": 1757,
+      "end_time": 1850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Aztecs had a term for growing up, for maturing, for living. All human beings in the process of their life acquired a face. And so, here the name of this exhibit, CARA, invokes this ancient concept. But it is not just the face of the Chicano community. It is not just the face of the Hispanic community. It is the face of America, and that is why I want to correct the usage of a certain title. I am not per se a Hispanic. I am a pre-Hispanic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valdez-Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Chicano Art Resistance and Affirmation--CARA",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2fceb0e8-3adc-4601-815c-ed8761c30431"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 1904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Officials at the San Antonio Museum of Art are hoping for a record turnout for the CARA show, which will be accompanied by a number of community events, and a low rider parade on opening day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Cambridge",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Guerra-Juan Luis",
+          "category": "People"
+        },
+        {
+          "tag": "Rockefeller Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "San Antonio Museum of Art",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--Chicano Art Resistance and Affirmation--CARA",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c4cdc985-4781-4e5e-a6ec-ffb2f786e7c4"
+    },
+    {
+      "start_time": 1904,
+      "end_time": 1912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ranchera music transition]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Regional Mexican",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "df26a796-b1a2-4921-8408-175511966840"
+    },
+    {
+      "start_time": 1912,
+      "end_time": 1939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ranchera music transition] The Chicana writer, Ana Castillo, had an abuelita, a grandmother who signed her name with an X. Castillo's father dropped out of high school. Her mother only finished primary school. But all three had an indelible impact on Castillo as a writer. They told her stories, or cuentos, and in her latest novel, So Far From God, Ana Castillo brings these cuentos to life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Transition--Music--Regional Mexican",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c44d0efa-da3d-485a-8447-7ef8dcd40817"
+    },
+    {
+      "start_time": 1939,
+      "end_time": 2005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An account of the first astonishing occurrence in the lives of a woman named Sophia and her four fated daughters, and the equally astonishing return of her wayward husband. La Loca was only three years old when she died. Her mother Sophie woke at 12 midnight to the howling and neighing of the five dogs, six cats, and four horses, whose custom it was to go freely in and out of the house. Sophie got up and tiptoed out of her room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c39536f2-21d0-46f8-aa84-3482c34bf4e5"
+    },
+    {
+      "start_time": 2005,
+      "end_time": 2028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So Far From God is based in New Mexico, where Castillo who grew up in Chicago, has been living for the past two years. The book has been called a telenovela, a Chicano soap opera. In fact, Castillo deals with some pretty heavy topics in her book, among them women's rights, environmental racism, sexuality, Catholicism, and the Gulf War, just to name a few. Thanks for joining us on Latino USA, Ana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d705d905-54db-483c-9b32-e1653bdadcb7"
+    },
+    {
+      "start_time": 2028,
+      "end_time": 2045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In your book, what's interesting, what caught my eye was that you have a lot of Spanish phrases with no translation at all. Is that one way in which you wanted to kind of deal with that schizophrenia of being bilingual and bi-cultural in just saying, \"This is who we are,\" and it's not going to be translated?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "566cdaac-3410-48d7-a88e-972e78c46ce0"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, well of course, that is our reality. Lots of times when I would go to universities to read and I'd see the flyers, Ana Castillo, poet. I always say, \"Chicana in search of her identity.\" I stopped before I did anything. I said, \"I want people to know that I'm very aware of my identity. What I would like to do is assert that identity to the public.\" And so, part of our identity is not so much as schizophrenia. It's the denial from society that this is our language. So if this is an oral storyteller, she or he would say this, would talk this way, would not be inclined to translate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6044da4c-d8e8-413a-93d4-84238f873284"
+    },
+    {
+      "start_time": 2122,
+      "end_time": 2155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In literature, once you see that in print, obviously it would be very redundant to say, âCallate. Shut up,\" he told me, or something like that. I work at what I had to do to compromise for everybody. It's a compromise because some Latinos do not read any Spanish, and some Chicanos won't understand this particular Spanish, is then you work it into the text. Sophie put the baseball bat that she had taken with her when checking the house back under the bed, just in case she encountered some tonto who had gotten ideas about the woman who lived alone with her four little girls by the ditch at the end of the road."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "4e922342-8211-46d6-839a-823cfc1983e9"
+    },
+    {
+      "start_time": 2155,
+      "end_time": 2157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was then that she noticed the baby-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "01008da9-b9af-43bd-9c1a-a138f312737a"
+    },
+    {
+      "start_time": 2157,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After growing up Chicago as I did, which is not necessarily a very magical realist place, although it has its moments, was magical realism a part of your moving to the Southwest? [laughing] Because you talk about the Southwest and New Mexico as an integral part of this novel of yours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6ed4c3e5-e408-46d1-b6f4-ea0b14d170f4"
+    },
+    {
+      "start_time": 2220,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's just kind of deconstruct this magical realism catch word I think that's associated with Latin American literature, but also with the Latino reality I think. That's why I laugh, because I think it's more like this, this is a reality and magical realism is what motivates us. I did not have that intention at all to do that in my literature, in this particular book. What happened was that I think I was possessed, and I was there immersed, baptism by fire in Nuevo Mexico. Much of what comes out in here is material that is based on faith, whether it's Catholic faith, it's Pueblo Indian mythology faith, or the creation story that is told here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "687ae431-292d-45d0-bbe5-7676472c5091"
+    },
+    {
+      "start_time": 2308,
+      "end_time": 2333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's sort of diluting to simply say it's magic realism. I'm not saying there's a, \"Now what can I do that's very extraordinary?\" Well everything around me is very extraordinary. What's probably... I couldn't beat the reality here. I wouldn't call it magic realism. I would call it a book based on faith."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c7c12db4-868c-40cd-8e58-04540f364f3a"
+    },
+    {
+      "start_time": 2333,
+      "end_time": 2416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reading] Esperanza let out a shriek long and so high-pitched it started some dogs barking in the distance. Sophie had stopped crying to see what was causing the girl's hysteria, when suddenly the whole crowd began to scream and faint, and move away from the priest who finally stood alone next to the baby's coffin. The lid had pushed all the way open and the little girl inside sat up just as sweetly as if she had woken from a nap, rubbing her eyes and yawning, \"Mami?\" She called, looking around and squinting her eyes against the harsh light. Father Jerome got hold of himself and sprinkled holy water in the direction of the child, who for the moment was too stunned to utter so much as a word of prayer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "f63608a1-a95a-4880-9838-b8d158448207"
+    },
+    {
+      "start_time": 2416,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reading] Then as if all this was not amazing enough, as Father Jerome moved toward the child she lifted herself up into the air and landed on the church roof. \"Don't touch me. Don't touch me,\" she warned. This was only the beginning of the child's long life's phobia of people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ec48902d-e7af-4fe4-8528-594f3fa79e23"
+    },
+    {
+      "start_time": 2432,
+      "end_time": 2440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highlight--music--Violin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Transition--Music--Folk music",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a999fd7f-9bfc-46d3-95b7-5ce59c9cf071"
+    },
+    {
+      "start_time": 2440,
+      "end_time": 2514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's been a lot of attention given to this book, So Far From God. You've gotten a lot of press, you've been doing readings, you've been traveling starting at 500 in the morning and ending at 900 at night, reading in many, many different places. But this isn't your first novel. You've written other novels and other books of poetry before. So why now? Why do you think there's this interest now? Is it because there's all of sudden this general incredible interest in Chicana/Latina writers, or what? Or do you think it's just because hey, it just was the right historical moment? How are you interpreting it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ff462463-03dc-4599-99d5-7e027bc7bdd1"
+    },
+    {
+      "start_time": 2514,
+      "end_time": 2553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since I've been writing and publishing now for almost 20 years, I had that vision that it would take that long as a Chicana. I don't know how I had it, but I did have it. Unfortunately, that was an analysis that I understood in terms of racism, sexism, and classism, which that is something that we can say most Chicanas, Latinas, do experience in this country. You are not Native American. You are not European. What you are is a drone that should just go and work, and don't worry. Nobody wants to hear what you have to say. When you're a writer, that's what it's about, is what you have to say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "f0453cb0-19fa-4ce9-a0d2-d01be85105aa"
+    },
+    {
+      "start_time": 2553,
+      "end_time": 2631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, I worked for many years as a poet. People still see me primarily as a poet. Then I thought, how can I really get the word out? Well, not that many people read poetry, and that's when I started teaching myself how to write fiction. It took me a number of years before I did The Mixquiahuala Letters, which I thought I would die with it stuck between the mattress and the bedspring, and nobody would ever see it or want to see it. When it was accepted so quickly and so highly-acclaimed critically by the Chicano scholars, that literary audience, it really took me aback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "bd70029f-b4e3-4aaa-97e9-6955d54ce187"
+    },
+    {
+      "start_time": 2631,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess, finally, what do you say to young Chicanos and Chicanas, but I guess primarily Chicanas, who are probably maybe even listening to this, who are sitting in their little casita who knows where, or in their dorm room if they're in a university and saying, \"I don't have anything to say, and my voice is strange. No one understands me.\" How do you try to convince them to trust their voice as you have finally come to trust yours?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1d3ad456-c54e-42cb-8b63-400e72934e95"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 2738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have to have great tenacity about this, great personal conviction, that this is what you want to do, that you love to do. I would say, write, write, write, write, and read everything you can read, and brace yourself because we all get rejected. I still get rejected. Sandra Cisneros still gets rejections. You say, \"Well in comparison the success or to acknowledge when who cares,\" but everybody at some point and continuously will get that when they're sticking by their convictions, and when you're trailblazing with a machete to try to make a little pathway there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "557d8f37-1ed8-4559-bcb7-d8225907eb9f"
+    },
+    {
+      "start_time": 2738,
+      "end_time": 2748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would say to young Chicanos and Latinos who want to write, to read, read, read, write, and to believe in yourself. How can you go wrong when you're doing what you believe in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c7393b4d-c0c5-4ed8-ba96-3a9b5fc88a4c"
+    },
+    {
+      "start_time": 2748,
+      "end_time": 2757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for joining us on Latino USA. It's been a pleasure Ana, un placer. Ana Castillo's latest book, So Far From God, is published by Norton. Muchas gracias, Ana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "01feb916-6bc8-476f-b0e7-50668a87075d"
+    },
+    {
+      "start_time": 2757,
+      "end_time": 2759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cisneros-Sandra",
+          "category": "People"
+        },
+        {
+          "tag": "W W Norton and Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fiction",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--So Far From God",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7f6ba2d2-73f0-4382-97e4-337f87db83d4"
+    },
+    {
+      "start_time": 2759,
+      "end_time": 2850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y para esta semana, this has been Latino USA, the radio journal of news and culture. Latino USA is produced and edited by Maria Emelia Martin. We had help this week from Vidal Guzman, Angelica Luevano, Neil Rousch, Franc Contreras, and Nina Tyschel. Latina USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. We really want to hear from you, so call us on our toll-free number, 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. This program is distributed by the Longhorn Radio Network. Y hasta la proxima, until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "f47338ec-3be4-494c-9ef0-bd0a46d7f1e9"
+    }
+  ],
   "set": "Default",
   "event_id": "67b1c269-9483-4ff3-b21f-6f2fe4714b2c",
   "source_id": "77048050-4fe6-4986-ac07-2a01c80b4149"
