@@ -1,5 +1,4026 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Opening--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "86d0c629-fcc8-4f4c-a926-e585fe1133df"
+    },
+    {
+      "start_time": 10,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, a Radio Journal of News and Culture. I'm Maria Hinojosa. Today on Latino USA, a break in the investigation of the murder of New York journalist Manuel DeDios."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "237273d5-af3c-4afe-98a8-617c1bbdc855"
+    },
+    {
+      "start_time": 25,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was killed because he had the courage to speak out because he exercised his first amendment rights as a journalist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brown-Richard",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "c307955c-7e55-40a1-a916-18c6ff242db9"
+    },
+    {
+      "start_time": 33,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, the salsa star with political ambitions, Ruben Blades."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "e0c1b3d0-e221-46a9-8691-633b491d1600"
+    },
+    {
+      "start_time": 38,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't feel that politics is in any way a step up. I look at politics as a step down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blades-Ruben",
+          "category": "People"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "341020ca-819d-49f7-b7f0-a7a835171413"
+    },
+    {
+      "start_time": 44,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on Latino USA, Tejano music is sweeping the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "5580d594-05b6-43b5-8a0f-49107a6b2cd2"
+    },
+    {
+      "start_time": 48,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see the rise of Tejana music as being parallel to the rise of Hispanics in this country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burr-Ramiro",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b6c9c459-cc17-4f06-9799-fb222784136f"
+    },
+    {
+      "start_time": 54,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This and more on Latino USA. But first, Las Noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "f2221317-c5f3-4061-8b8d-b407c8460f06"
+    },
+    {
+      "start_time": 59,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I am Maria Martin. Several congressional house members led by Democratic representative Xavier Becerra of California are calling for legislation to investigate human rights abuses by federal agencies along the US-Mexico border. From Washington, Franc Contreras reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5d341ae1-c15f-496f-b1e0-b65517989bcf"
+    },
+    {
+      "start_time": 77,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Widespread allegations of abuses by the US Border Patrol, the Immigration and Naturalization Service, and Customs have prompted this legislation. It would create a commission with the power to recommend, not mandate disciplinary actions against those three agencies. Currently, people with complaints must either go through the agency they're complaining against or go through the Inspector General's office. The problem is that most complainants are not familiar enough with the system to use it. This proposed bill would address those problems, say congressional supporters. The panel would have seven members appointed by the president and confirmed by the Senate. This legislation has support from Representative Jose Serrano, chairman of the Congressional Hispanic Caucus, and representative John Conyers, chairman of the Government Operations Committee. Since the commission would have no enforcement powers, the legislation is expected to pass easily. For Latino USA, I'm Franc Contreras in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contreras-Franc",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Serrano-Jose E 1943-",
+          "category": "People"
+        },
+        {
+          "tag": "Conyers-John-Jr 1929-2019",
+          "category": "People"
+        },
+        {
+          "tag": "US Customs and Border Protection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Office of Inspector the General",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Senate",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus Institute",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "97667271-b20d-40ee-8da5-07494c4b6094"
+    },
+    {
+      "start_time": 132,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everybody out here keep the strength going because we need all the support for all of our brothers and sisters. There's about 90 of them in jail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "aa39dae8-6c09-47b6-ba6b-5eee26e83b53"
+    },
+    {
+      "start_time": 139,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexican-American students at the University of California at Los Angeles continue to demand a Chicano Studies department, one demonstration protesting budget cuts for the Chicano Resource Center. And UCLA Chancellor Charles Young's opposition to an independent Chicano Studies department resulted in over 90 arrests as students occupied the campus faculty center and allegedly caused over $50,000 in damages. UCLA student Benny Madera was among those joining the protests. He spoke with Latino USA's Alberto Aguillar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Madera-Benny",
+          "category": "People"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b4d65394-d11f-411f-a006-e2e2c1029515"
+    },
+    {
+      "start_time": 170,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been too long that they've kept our history from us. It's 1993 and they're still trying to keep our history from us. They don't want to give us a Chicano Studies program. We've been asking for it for years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Madera-Benny",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fba96a3c-efa7-42df-b1ba-72816b5cf19c"
+    },
+    {
+      "start_time": 184,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it do for you, Chicano Studies?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aguilar-Alberto",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "734cbc9c-5a4e-4977-8686-d49b1c1580c5"
+    },
+    {
+      "start_time": 188,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First of all, it tells me who I am, where I came from. It gets rid of that low self-esteem that the gabacho puts us through. You know that gabacho grinder system were put through growing up in this society, but without finding out who we are, where we came from, we don't have that amor proprio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Madera-Benny",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4003710d-6894-4a0a-98ef-265e767410c7"
+    },
+    {
+      "start_time": 205,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "UCLA Chancellor Young has said keeping Chicano Studies an interdisciplinary program gives it intellectual vitality. Young was in Japan and unavailable for comment, but Vice Chancellor Andrea Rich says the protest would not make the chancellor change his mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Rich-Andrea L",
+          "category": "People"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1f6bdf4c-5775-4630-b84c-5ad33be51eff"
+    },
+    {
+      "start_time": 220,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "73911573-164b-4987-9a0f-7b62be27394c"
+    },
+    {
+      "start_time": 222,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Orlando, proceedings are underway in the retrial of Miami policeman William Lozano, whose shooting of an African American in 1989 sparked three days of disturbances in Miami. Losano was convicted of two counts of manslaughter in an earlier trial, but that verdict was overturned when an appeals court ruled it may have been influenced by fears of inciting racial violence. The volatile case was moved from Miami to Orlando, then to Tallahassee and then back to Orlando, which has a larger percentage of Latinos than Tallahassee. A recent national survey says Hispanic parents differ from other ethnic groups in their support for the public schools. From Washington, Patricia Guadalupe reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Tallahassee",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "4c45722a-1839-4ec4-9c60-0780dcfe736e"
+    },
+    {
+      "start_time": 264,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to a survey released May 11th in Washington DC by the National Parent Teachers Association, Hispanic parents are more confident than Anglo parents at the quality of public schools will improve. The survey, commissioned by Newsweek Magazine for the PTA, found that close to half of the Hispanic parents surveyed believe schools will improve over the next five years as compared to a third of Anglo parents. Carlos Sarsed, Director of News Stats in Austin, Texas compiled and analyzed the survey's Hispanic data."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "National Parent Teacher Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Newsweek",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "5e04cdf7-8384-4947-b661-7742dcd4d154"
+    },
+    {
+      "start_time": 294,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hispanic parents are feeling very responsible for the education of their kids, and interestingly, even Hispanic parents who were interviewed in Spanish who are primarily Spanish speakers, help their kids a lot in school. In many respects, the parents are learning themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sarsed-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "f345aeef-85b2-4193-a7af-33a570970801"
+    },
+    {
+      "start_time": 310,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The survey also found that Hispanic parents, more than others, believe funding for schools is inadequate. For Latino USA. I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "bdeab295-509d-46a9-b4db-37b25d1320a8"
+    },
+    {
+      "start_time": 320,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the US census, more than 4 million Latinos voted in last year's presidential elections. Analysis of the data by NALEO, the National Association of Latino Elected and Appointed Officials, indicates Latino voter registration increased by 12%, nearly double the national average. Latino voter turnout is still well below the national average. I'm Maria Martin. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Latino Elected and Appointed Officials",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "aca1fd5d-a651-4bbb-a277-231f8bdb6a6b"
+    },
+    {
+      "start_time": 345,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "3ed3ca74-ebaf-4e4e-a181-ecde5eeeba77"
+    },
+    {
+      "start_time": 357,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Maria Hinojosa. In February of 1991, a hard-hitting newspaper reporter and radio commentator was assassinated in New York City. Many theories have since surfaced as to who had reasons to kill Manuel de Dios Unanue. The combative journalist had written about corruption in Puerto Rico and angered anti-Castro groups by advocating better relations between the US and Cuba. Now, as Mandalit del Barco reports from New York, law authorities are linking the De Dios's murder to a Colombian cocaine cartel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "Unanue-Manuel de Dios",
+          "category": "People"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "579b1315-a08b-42c7-be90-da3b06be5ba9"
+    },
+    {
+      "start_time": 392,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A special investigative team called Redrum, that's murder spelled backwards, is looking into reports that notorious drug lord, Joses Santacruz LondaÃ±o put out a $20,000 bounty on Manuelo De Dios Unanue. US attorney Mary Jo White announced the indictments of two Colombian men in the killing of the journalist known as an anti-drug crusader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "Unanue-Manuel de Dios",
+          "category": "People"
+        },
+        {
+          "tag": "Santacruz Londono-Jose",
+          "category": "People"
+        },
+        {
+          "tag": "White-Mary Jo 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fe378108-e4f6-4559-8d0c-1ddaf094fcee"
+    },
+    {
+      "start_time": 413,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is believed that the order for this murder came from the highest levels of the Cali cartel in Columbia. It is believed that De Dios was killed because of his vigorous reporting on the activities of the Cali cartel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "White-Mary Jo 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cali Cartel",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "06f2abc2-d7c1-4606-b259-0c746be07ece"
+    },
+    {
+      "start_time": 428,
+      "end_time": 451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For years, De Dios worked to investigate and expose international reports of drugs and crime, first as editor of New York's largest Spanish language newspaper El Diario, and later as the publisher of two crime magazines. In 1991, he was shot point-blank while sitting in his favorite restaurant in Queens. Richard Brown is the district attorney from Queens who worked with federal agents on the case."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Queens",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-Richard",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a747d6bb-95e9-450e-8506-ea917f3497e2"
+    },
+    {
+      "start_time": 451,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The same tactics repeatedly used by Colombian cocaine traffickers in South America to silence their critics, were used here. He was killed because he had the courage to speak out. Because he exercised his first amendment rights as a journalist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Brown-Richard",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d62f2e4f-132a-46e3-8a38-72a23bf331b3"
+    },
+    {
+      "start_time": 467,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After De Dios was killed, there was some concern that law enforcers had not moved enough to solve his murder. Some said that, had De Dios been an English language journalist, the investigation would've moved faster. Many journalists like Juan Gonzalez pressed for more action by the investigators."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0f3b91f8-51b5-4cdf-9e28-8ff46cd53747"
+    },
+    {
+      "start_time": 484,
+      "end_time": 500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If the people who they've arrested are the right people and are the guilty parties, then I think it's going to be, it's going to send a message, obviously, that you're not going to be able to get away with this kind of stuff in the United States. Hopefully that will have a deterrent effect on any kind of a drug syndicates in the future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6981cf8e-e5f1-4a74-897b-7c470add0792"
+    },
+    {
+      "start_time": 500,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While killings of journalists in this country are rare, that's not the case in many Latin American countries. Blanca Rosa Vilchez reports out of New York for Univision Television, which broadcasts throughout the Americas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Univision--Television network",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "34512bd2-bea0-4d03-93a0-dadba02b8ed0"
+    },
+    {
+      "start_time": 512,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I left Peru in 1983, I thought that by leaving Peru and leaving Latin America, just the idea of getting killed in a mission was going to be gone and I was going to leave that feeling in the international airport in Lima, and actually I left, but the feeling still remains. And every time that a journalist gets killed, like in this situation, the feeling of being in a country like Peru or Colombia comes back to me and it's kind of difficult to say it, but the more they kill journalists, the more we fight back because we know that it has to be said. And even though it involves a great personal risk, this is what we are here for and we keep on doing it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vilchez-Blanca Rosa",
+          "category": "People"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru--Lima",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d6d7dd61-0c17-433f-ade6-97c1752e7d44"
+    },
+    {
+      "start_time": 559,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some reporters and editors at De Dios's old newspapers say they're very much relieved by the investigation and the message this sends to would-be assassins. El Diario editor-in-chief Fernando Moreno says that the death of Manuel De Dios has actually inspired other reporters to follow his journalistic lead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7fd9fb57-0c86-49c1-b197-f24ba1d711d3"
+    },
+    {
+      "start_time": 578,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because he was killed, many people who'd never dream of reporting on these issues are reporting now these issues. I mean, I think that's solidarity of the press show in this country and internationally with his killing has given new ideas and new investigators are coming out because they killed Manuel De Dios. So I think that instead of stopping the reporting on the issue has done completely the opposite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Moreno-Fernando",
+          "category": "People"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "969edcdc-04a2-4c79-87e2-9245dff3c201"
+    },
+    {
+      "start_time": 605,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Law enforcers are now trying to extradite the Colombians who allegedly ordered the killing of journalist Manuel De Dios Unanue. For Latino USA, I am Mandelita Delbarco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Unanue-Manuel de Dios",
+          "category": "People"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Murder",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Organized crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "119b9951-abec-4b9d-bda5-9eb172654528"
+    },
+    {
+      "start_time": 616,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From acclaimed director Alfonso Arau, a sensuous portrait of love and enchantment, change and revolution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "Arau-Alfonso",
+          "category": "People"
+        },
+        {
+          "tag": "Transition--Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "62a72bf7-4233-4818-8e14-7277add12eec"
+    },
+    {
+      "start_time": 629,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This year, the Mexican cinema is enjoying a revival with such films as \"El Danson\" and \"Como Agua para Chocolate\", \"Like Water for Chocolate\". \"Like Water for Chocolate\" is a saying, un dico, meaning that something is near the boiling point. And in her film and the haunted narrative of her novel, screenwriter and author Laura Esquivel, finds the boiling point in the kitchen and in relationships between men and women. From Boulder, Colorado, Betto Archos prepared this report.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Esquivel-Laura 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Film--Danzon",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "aa9a266d-866a-4c21-ae4b-61b6c44109a4"
+    },
+    {
+      "start_time": 662,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tal parecÃ­a que en un extraÃ±o fenÃ³meno de alquimia su ser se habÃ­a disuelto en la salsa de las rosas, en el cuerpo de las codornices, en el vino y en cada uno de los olores..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "47ec5c2d-7402-4fed-97c3-b7cca38fa6fc"
+    },
+    {
+      "start_time": 672,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the essence of love, femininity, and the affirmation of human nature that Laura Esquivel conveys through a novel which evolved when the author was cooking in her home in Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "Esquivel-Laura 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6eb6b2e5-2a68-42d4-9514-a1da0f68c5dd"
+    },
+    {
+      "start_time": 682,
+      "end_time": 717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, me vino mientras cocinaba. Porque a mi me encanta cocinar... [transition to English dub] And it came to me when I was cooking my family's recipes. I would always go back to the past and clearly remember my grandmother's kitchen and the smells and the chats. And I always thought that it would be very interesting to adapt this natural human mechanism to literature. And in the same way that one describes how to make a recipe, be able to narrate a love story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Esquivel-Laura 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Translation--Dub--English",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "25644bb1-b400-4962-b1d5-88ae371b5604"
+    },
+    {
+      "start_time": 717,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Set in a border ranch during the Mexican Revolution, \"Like Water for Chocolate\" is the story of Tita, the youngest of three daughters born to Mama Elena. It is a family tradition that the youngest daughter not marry, but stay at home to care for her mother. Soon, however, Tita falls in love, but her tyrannical mother makes no exception and arranges for Tita's older sister, Rosaura to marry Tita's love, Pedro. Tita's sister is played by actress Yareli Arizmendi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "Arizmendi-Yareli",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "bc64e1d3-91e4-4c00-a314-ad5539613ef2"
+    },
+    {
+      "start_time": 747,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que tenemos pendiente una conversacion, no crees? Creo que fue desde que te casaste con mi novio. Empecemos por ahÃ­ si quieres... In this scene from the film \"Like Water for Chocolate\", the two sisters confront each other about the family tradition Tita refuses to uphold. Ya no hablemos del pasado, Pedro se caso conmigo y punto. Y no voy a permitir que ustedes dos se burlen de mÃ­... But most of the action in \"Like Water for Chocolate\" centers around the kitchen. After the family cook dies, Tita takes over the kitchen responsibilities, and in her hands every meal and dessert becomes the agent of change. Anyone who eats her food is transformed by it, and sometimes in very surprising ways, according to Laura Esquivel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "Esquivel-Laura 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Film--Like Water for Chocolate",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "dc4361e0-dd06-4e86-ad39-abb7b0ea01d4"
+    },
+    {
+      "start_time": 792,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo tengo una teorÃ­a que atraves de la comida se... I have a theory that through food, gender roles are interchanged and the man becomes the passive one and the woman the active one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Esquivel-Laura 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Translation--Dub--English",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "135accd5-9a1b-4e33-807a-99bf40afa6a2"
+    },
+    {
+      "start_time": 810,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What drew my interest more in terms of this use of recipes and cooking and all of this, this presence of it, is really the issue that's been dealt with quite a bit by the feminists, which is female space."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Williams-Raymond L",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ee76f8b7-38c8-4510-b8b2-791e9c527bde"
+    },
+    {
+      "start_time": 825,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Raymond Williams, professor of Latin American literature and coordinator of the novel of the America Symposium at the University of Colorado in Boulder says that \"Like Water for Chocolate\" is a novel that goes against a traditional literary point of view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Williams-Raymond L",
+          "category": "People"
+        },
+        {
+          "tag": "The University of Colorado Boulder",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "fbe5764c-c08f-4e9b-9ddf-1b21203f16d6"
+    },
+    {
+      "start_time": 839,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Departing from the female space of a kitchen rather than departing from, say, the great Western adventure stories that were typically kind of the male stories of the traditional novel. And I think that's that female space is one what really drew my attention in my first reading of the novel and my first viewing of the film."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Williams-Raymond L",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6df1c0c5-230b-4b88-98ab-d2c11a2bdc8d"
+    },
+    {
+      "start_time": 859,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recipes in \"Like Water for Chocolate\", which range from turkey mole with almonds and sesame seeds to chilis in walnut sauce, are far removed from fast food and frozen dinners. They require a lot of dedication and can take days or weeks to prepare. And in the age of microwave ovens and technology, Esquivel says, people have moved away from that which is naturally human."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7a2b4038-fcc8-4bdb-9f1c-d9d9371b6325"
+    },
+    {
+      "start_time": 882,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para nosotros, el elaborar la cena, es el carÃ¡cter de una ceremonia... For us, cooking is like a ceremony and has nothing to do with a commercial. It really is a ritual, a ritual in which the family participates, and by doing so, one heightens his human quality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Esquivel-Laura 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Translation--Dub--English",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "16ebac28-9f3f-44a2-a4c6-637c0e1065b3"
+    },
+    {
+      "start_time": 899,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last year, the film \"Like Water for Chocolate\" received over 10 international awards, including one for best actress at the Tokyo Film Festival, and for Best Picture, Mexico's Ariel Award. The film is a collaboration between Esquivel and director Alfonso Arau, one of Mexico's leading filmmakers and Esquivel's husband. The novel has been published in English by Doubleday. The film is currently playing in major theaters across the country. For Latino USA, this is Beto Arkos in Boulder, Colorado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Colorado--Boulder",
+          "category": "Places"
+        },
+        {
+          "tag": "Arau-Alfonso",
+          "category": "People"
+        },
+        {
+          "tag": "Doubleday",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican literature",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--Like Water for Chocolate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e2fddd05-c591-4611-b45d-ec0e04eb8737"
+    },
+    {
+      "start_time": 930,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Tierra Dura",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "67c81576-0a5f-464a-b6f6-fe6b1248e7c5"
+    },
+    {
+      "start_time": 943,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Singer, songwriter, Hollywood actor, Harvard Law School graduate. These are just a few of the personas of Panamanian-born Ruben Blades. A Renaissance man, if there ever was one. Blades and his group, Seis del Solar, have just completed what may be their last tour for a good while because Blades is looking to begin a new career. As he told reporters in San Antonio recently, he'll be returning to his native Panama to head up a new political party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Panama",
+          "category": "Places"
+        },
+        {
+          "tag": "Blades-Ruben",
+          "category": "People"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "843f4767-6322-4006-984b-766a862f58ec"
+    },
+    {
+      "start_time": 972,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The group is already together. It's called Papa EgorÃ³, which means 'Mother Land' in the EmberÃ¡ language. I wanted to use an indigenous, a palliative to the movement, so we don't end up calling ourselves one of those slogan-ish pamphlet-sounding, demagogic-sounding names of party for the democracy of the people, and then they turn out to be anything but."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blades-Ruben",
+          "category": "People"
+        },
+        {
+          "tag": "Papa Egoro",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f0200e70-7e74-4735-80d8-a89dfaf15726"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blades' new party was recognized earlier this year by Panama's National Electoral Tribunal. Still, Blades says he is not currently a candidate for president, but that his move into politics will give the Panamanian people an option."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Panama",
+          "category": "Places"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7a6d3dda-a7f9-4d9b-93be-512440a38063"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the first time you have a political party that has been created because the people are sick and tired of being abused by left and by right. So we have now a scenario here where we may create the kind of infrastructure that really addresses the issues of the nation and not the issues of special interest groups, and I'm very hopeful about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blades-Ruben",
+          "category": "People"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5ad6b52b-4ea9-4548-ab3d-d6369460b9ce"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blades says that given the breakdown of Panama's economy and infrastructure, it's going to take honesty, organization and a lot of education to turn things around for the country. When asked whether he'd like to see US troops leave Panama, Blades replies that he wants his native land to take care of itself. As to charges that his campaign is one of demagoguery that is far removed from the lives of everyday Panamanians, Blades said this:"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Panama",
+          "category": "Places"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "493196fc-96c0-4831-8b79-13867e6cb19b"
+    },
+    {
+      "start_time": 1067,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scenario in Panama will be determined by the Panamanian people, by its will and its desire to carry out a specific position. And if you try to become a Messiah, and if you try to become a demagogue, you're going to end up with pie all over your face because people are going to determine whether what you're spouting or defending is going to work or not. What good is it for you to say, \"Oh, do this,\" and then have 60, 70% of the country say, \"That's not what we're going to do.\" Well then, what do you do? What do you do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blades-Ruben",
+          "category": "People"
+        },
+        {
+          "tag": "Panama",
+          "category": "Places"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f8efb73c-ec37-4d4d-9f12-d1597c095c34"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, Blades says, for him, there is no contradiction between his career as an artist and musician and a future as a politician."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c6428ddc-b85e-4572-aea1-a047f4809794"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't find that there is a scenario of antinomy or any kind of contradiction. On the contrary, I think that the fact that I was involved in the arts is giving me the kind of credibility amongst the majority of Panamanians who are sick and tired of business as usual in politics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blades-Ruben",
+          "category": "People"
+        },
+        {
+          "tag": "Panama",
+          "category": "Places"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Panamanians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "afa2cb2c-35df-4b44-9fcf-0bb4370ac54d"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Buscando America",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "960dd4d2-16f0-4274-87dc-5e92387a7ee6"
+    },
+    {
+      "start_time": 1172,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Arizona, from Lansing, Michigan, all the friends from Lansing, from New York City. Ooh, what a day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Michigan--Lansing",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9b80c85a-3b90-4ba5-a23b-57c79283902b"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was that time of year in San Antonio, again. Time for fans of the TexMex accordion to make the pilgrimage to Rosedale Park for the 12th-Annual Tejano Conjunto Festival."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano Conjunto Festival",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Sounds--Person speaking",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1d8ae505-9b2d-4d16-8694-d3db2225bf70"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Transition--Music--Tejano music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "cfc44cd6-2a1a-4200-b607-bb7036033561"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's not only a part of the Tejano Chicano culture, but it's an art form, and people from all over the world come to experience it. That's what's special about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "09090f16-bd02-4f8c-9131-26fc6824232e"
+    },
+    {
+      "start_time": 1227,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't know a damn thing about Conjunto music till a few days ago. Now I'm a real fan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1295f255-7181-4f63-9548-aede73a2215b"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It just brings out the spirit and the heart that has brought to you that you're raised with it, your parents loved it, and you continue to love it as well. It's just there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8d21c628-7c14-4f51-bd8d-0b5b6d945a50"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See, I grew up listening to Conjunto music when my parents would take us to the dance hall as little kids. So it's not just what we're listening to now, but it's also a way of passing on culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 8"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1d269b3d-0f09-41c9-a4c9-4d4225dc7f48"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beat. The beat, it just, I mean, it just keeps your body going. You don't have to understand it to enjoy. But if you are fortunate enough to understand the language, pues esta mejor. Que viva conjunto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 9"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cad51679-8651-4704-b307-c819c1a9e2d3"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This year's festival featured traditional Conjunto as well as its more modern musical cousin, Tejano music. As Elena Quezada reports from Austin, in the last few years, Tejano music is enjoying an unprecedented boom in popularity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "39988695-e311-41b5-b930-7444cfc60661"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's past midnight at Dance Across Texas, a popular dance club in Austin where nearly 2000 bodies are pressed up against the stage in anticipation of tonight's show."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background---Sounds--Event",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "a3a45a2d-4281-4f7c-8079-92a70a6b66f4"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not just any performance, this is a Tejano show. The very name means Texan in Spanish. The term Tejano has come to define regional TexMex music, and tonight it's Emilio Nevida and his group Rio from San Antonio, Texas. With hits like \"Naciste Para Mi\", they have become one of the most popular bands in Tejano music. The popularity of Emilio Nevida and other interpreters of Tejano music is selling out concerts and packing glitzy new nightclubs throughout the Southwest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ba3c4b99-4de7-43f7-90ac-ca0c88306cdb"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now, another 40 minutes of continuum, on San Antonio's Numero Uno, Number One Tejano 107FM."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 10"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Transition--Sounds--Radio bumper",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "f236b11d-259f-42d0-aa7d-69a782414409"
+    },
+    {
+      "start_time": 1348,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another sign of Tejano music's popularity is that, in the last two years, radio stations across the Southwest, California and in Mexico are changing to a Tejano music format, dropping their contemporary pop or salsa formats and switching to a Tejano style."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Tejano music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "dd474334-9970-492c-b2e2-a1df08bef5e1"
+    },
+    {
+      "start_time": 1364,
+      "end_time": 1379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see the rise of Tejana music as being parallel to the popularity or the rise of Hispanics in this country, economically, politically, culturally. They said the eighties was the decade of the Hispanics, and then they quickly said, \"Nope, this is going to go on for a while.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burr-Ramiro",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9e2a4282-cbf7-4d87-9074-edfcbde4fa8a"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ramiro Burr is an entertainment reporter who covers at the Tejano music scene for the San Antonio Express-News. He says that Tejano music, which was once thought of as the traditional music of older generations, now has legions of younger fans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "San Antonio Express-News",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d051996f-4bcd-4bd5-a69c-b795a5a5eccb"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see that when I go to Tejano shows and I see kids from five, six years old, eight years old, singing the lyrics to these people. Now I go back to '80 and I can't remember a time when they were teens or pre-teens that considered Tejano artists heroes. But now they do. Now they buy their t-shirts, their coffee cups, their caps. That shows me that there's a future for this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burr-Ramiro",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "63a98adf-fec3-4143-a572-6ebd549543d2"
+    },
+    {
+      "start_time": 1414,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With its sounds of the accordion, the bass and the guitar, Tejano music came out of the Norteno style, developed along the Texas-Mexico border. This style, also called Conjunto, was born when Mexican and Mexican-American musicians borrowed the accordion from their German and Czech neighbors in Texas. Tejano roots can also be traced to the early orchestra sounds of Little Jo and La Familia and others like Sonny Ozuna from the late fifties and sixties. Tejano music of the nineties consists of rancheras, polkas, ballads, and cumbias. With influences of pop, rap country and rock."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Little Joe--Vocalist",
+          "category": "People"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Tejano",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "0147ca3f-ce60-4781-949a-121d6513b2c8"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Buscando America",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "6cae1578-e898-42f0-b36f-ee25d9367947"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "21-year-old Selena Quintanilla from Corpus Christi, Texas has been number one on the regional Mexican charts of Billboard Magazine for the past seven months. Selena and other young artists have added their own touches to the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "United States--Texas--Corpus Christi",
+          "category": "Places"
+        },
+        {
+          "tag": "Selena 1971-1995",
+          "category": "People"
+        },
+        {
+          "tag": "Billboard Publications-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--amame",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1b8dffde-a7e1-48fd-9c93-4d402dd0814a"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We consider Tejano music like a folk music. It's always been here. It's never changed. It's like country music. But we feel that it's getting stronger now because it's more progressive. Now there's keyboard synthesizers and it's a lot more modern. And I think it's great now because now the young people are turning back to TexMex music and wanting to get more closer to their roots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Selena 1971-1995",
+          "category": "People"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1973c99a-f5e1-48aa-b59b-b4e25b9f8fc0"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "$33.39âput the guarantee on here. We have a 30-day guarantee on our cassettes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 11"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Money transaction",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "8f9e6991-5d01-4f28-88d5-af234c6f4c1b"
+    },
+    {
+      "start_time": 1507,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the past year alone, Tejano music sales have exploded from 3 million in 1980 to an estimated 16 million dollars in 1992. Artists like La Mafia, Selena and Moz can now sell more than 1 million records."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3818b485-f51e-4084-b2cd-bddebf4dd0cf"
+    },
+    {
+      "start_time": 1522,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Transition--Music--Estas Tocando Fuego",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "123d7d40-d7cd-4fb4-831a-9912afb1635f"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Major record companies like Capitol, EMI, Sony, and Warner Brothers have noticed that Tejano music's enormous market potential. They've signed on artists who previously recorded for small regional labels. Now their sales have escalated. This year, the 13th annual Tejano Music Awards were broadcast live for the first time via satellite to 32 markets, many of them outside of Texas. Another sign that Tejano music is reaching out beyond traditional borders is that this year the band which was recognized as the most promising in Tejano music is fronted by an African-American. Dee Burleson, lead singer of a group called Culturas, believes that this boom in Tejano music has only just begun."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "Burleson-Dee",
+          "category": "People"
+        },
+        {
+          "tag": "Capitol Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "EMI Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sony Music Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Warner Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano Music Awards",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "95084dab-d85b-47a1-b878-ffd6aa30f985"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It used to be like almost a mom-and-pop operation. Dad would go out and promote son and daughter for their band or whatever. Now they've got big sponsors and they've got huge industry behind them, and it's a great thing. It's a great, it's a building process and right now it's reaching all around the world. It's a rave thing in Germany right now, and Great Britain. So, Tejano music is finally getting the recognition it deserves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burleson-Dee",
+          "category": "People"
+        },
+        {
+          "tag": "Germany",
+          "category": "Places"
+        },
+        {
+          "tag": "England",
+          "category": "Places"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a4302135-dd08-4a6e-b02a-bc5ed19641fe"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Major corporations are also recognizing this music's potential. Coca-Cola, Miller Light and GMC Trucks are just a few of the many investors in this musical style. For Latino USA en Austin, I'm Elena Quesada. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Quesada-Elena"
+        },
+        {
+          "tag": "The Coca-Cola Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Miller Lite",
+          "category": "Organizations"
+        },
+        {
+          "tag": "GMC",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Que Me Entierren Cantando",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "a2065aec-b371-4aa4-91dd-a282221dbaf0"
+    },
+    {
+      "start_time": 1633,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitional Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tejano music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Conjunto music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Transition--Music--Cuatro o Cinco Farolazos",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "6df62317-abde-424f-8585-6e120273b76f"
+    },
+    {
+      "start_time": 1633,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Closing Theme]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "5f778362-fe57-4b4d-8b2b-26c8de5efabf"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y para esta semana, this has been Latino USA, a radio journal of news and culture. Latino USA is edited and produced by Maria Emilia Martin. Associate producer is Angeli Galvenano. We had help this week from Videl Guzman, the Guadalupe Cultural Arts Center in San Antonio, Texas, and Manolito Guevero. Latino USA is produced at the studios of KUT, in Austin, Texas. The technical producer is Walter Morgan. We want to hear from you, so call us on our toll-free number. It's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. The program is distributed by the Longhorn Radio Network. Y hasta la prÃ³xima, until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "0117983b-162e-449d-b708-7810796d55b6"
+    }
+  ],
   "set": "Default",
   "event_id": "2a003c43-d7fe-4d21-9e70-a02bce76a4a4",
   "source_id": "41ff7767-a537-45a7-9cdb-c59cdc4766e8"
