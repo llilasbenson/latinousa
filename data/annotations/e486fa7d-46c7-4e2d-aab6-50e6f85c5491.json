@@ -1,5 +1,7001 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Opening theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "f83014c2-62c3-4f40-afe0-34ed74461f99"
+    },
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture. I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "b4321c5d-cdd5-433b-ac03-317d64ede658"
+    },
+    {
+      "start_time": 15,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If we can't be race-conscious in things like drawing majority-minority districts, then how do we make the Voting Rights Act a reality?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carbo-Steven",
+          "category": "People"
+        }
+      ],
+      "uuid": "25792b3f-1355-43c1-85a2-611081cddbb5"
+    },
+    {
+      "start_time": 24,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today on Latino USA, a setback for minority-controlled districts, also a united Latino front against AIDS."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "3f41074e-c4c0-4f09-8037-7dc54af915fb"
+    },
+    {
+      "start_time": 33,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are telling our communities si se puede. We can do it and we can do it united in a coalesced form."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Eunice",
+          "category": "People"
+        }
+      ],
+      "uuid": "82440b3e-2de2-4ad4-bfd8-07650ad84e33"
+    },
+    {
+      "start_time": 41,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Sesame Street goes Latino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "33a59597-9f99-4ce2-9101-34bd623e6bc0"
+    },
+    {
+      "start_time": 43,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm trying to let them know that if they speak Spanish like me and English, they have to feel proud because they're very lucky to speak two languages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rosita",
+          "category": "People"
+        }
+      ],
+      "uuid": "a6c84bd4-2472-489a-9dfd-629e8cb42cb7"
+    },
+    {
+      "start_time": 53,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's today on Latino USA, but first, las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "344b283d-6312-41e7-9a36-a8b14c645c54"
+    },
+    {
+      "start_time": 59,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I'm Maria Martin. The future of the North American Free Trade Agreement remains in question. Since the US district judge ruled the Clinton administration may not present NAFTA for approval in Congress until its impact on the environment is determined."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Canada",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Richey-Charles R",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Chamber of Commerce",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AFL-CIO",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Environmental protection",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "78d8c00e-72c6-4d0e-869a-d88dc9904f4b"
+    },
+    {
+      "start_time": 76,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It caught some people by surprise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guerra-Abel",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Canada",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Richey-Charles R",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Chamber of Commerce",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AFL-CIO",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Environmental protection",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "19b02b03-6487-4d76-8ed6-f544dd277356"
+    },
+    {
+      "start_time": 78,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Judge Charles Richey's ruling was a victory for environmentalists opposed to NAFTA and a disappointing setback to its supporters like Abel Guerra of the National Hispanic Chamber of Commerce."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Canada",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Richey-Charles R",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Chamber of Commerce",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AFL-CIO",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Environmental protection",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c2d958ff-6e7d-49b0-a1bf-edc0887bfe61"
+    },
+    {
+      "start_time": 89,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We feel NAFTA provides many environmental safeguards, which are now nonexistent. The defeat of NAFTA would actually harm the environment more than these environmental groups know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guerra-Abel",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Canada",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Richey-Charles R",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Chamber of Commerce",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AFL-CIO",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Environmental protection",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "45d222d1-e09a-49c6-a869-27f9364431af"
+    },
+    {
+      "start_time": 99,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opponents of the present trade agreements say the court ruling validates their long-standing concerns about the treaty. Labor organizer Victor Munoz of the AFL-CIO says he's hopeful the recent court decision will lead to negotiating an entirely new trade agreement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Canada",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Richey-Charles R",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Chamber of Commerce",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AFL-CIO",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Environmental protection",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "24d33d13-9fe8-49e8-a2d3-e2154249f9ab"
+    },
+    {
+      "start_time": 113,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If it could be renegotiated completely, I think it would give us a very good opportunity to create a much better trade agreement than the one we have right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Munoz-Victor",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Canada",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Richey-Charles R",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Chamber of Commerce",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AFL-CIO",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Environmental protection",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8f6f5ded-0169-4015-a196-c1e5a8461fd0"
+    },
+    {
+      "start_time": 126,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Clinton administration says it will appeal Judge's Richey's ruling and continue negotiations with Canada and Mexico. In California, the United Farm Workers Union says despite losing a nearly $3 million lawsuit, it will not hand over a single dollar to the lettuce grower, which sued the union and one. Jose Gaspar reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Keene",
+          "category": "Places"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church Incorporated",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "89dc146c-ba1f-4763-81cc-9c04893a459f"
+    },
+    {
+      "start_time": 146,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "United Farm Workers Union President Arturo Rodriguez admits the union doesn't have 3 million dollars if it is forced to pay Salinas-based lettuce grower, Bruce Church Incorporated."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gaspar-Jose",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Keene",
+          "category": "Places"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church Incorporated",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cd99b639-53e5-46df-9472-4a92592826d1"
+    },
+    {
+      "start_time": 156,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As of yet, there's been no attempt to take that money and to attach any of our assets or anything of that particular nature. And so that we're going to go in through the legal process, we're going to file the appeals, and we're going to do everything that we can to prevent Bruce Church from getting any of that money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Arturo 1949-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Keene",
+          "category": "Places"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church Incorporated",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0c27c427-b445-4504-b411-333d6df6f921"
+    },
+    {
+      "start_time": 178,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The giant lettuce grower said the UFW's claims of mistreatment of farm workers and improper use of pesticides were false and they alleged the resulting boycott her business. A jury agreed and awarded Bruce Church 2.9 million dollars. The UFW has tried to put this most damaging suit in the best light, saying the original suit against them was for $9 million. Farm workers have supported the union very strongly in the past, but it's been the type of support that is more of a fraternal nature rather than one measured in dollars. And right now, the union needs lots of them. For Latino USA, I'm Jose Gaspar in Keene, California."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gaspar-Jose",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Keene",
+          "category": "Places"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church Incorporated",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2a092488-64fc-4090-ab5e-f5a4ba6d9a0e"
+    },
+    {
+      "start_time": 215,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A majority of Americans favor curbs on immigration. This includes many Latinos. According to a recent New York Times CBS poll, 53% of Latinos interviewed said immigration levels should be decreased. 77% said they would welcome immigrants in their neighborhood compared with 67% of all respondents to the survey. From Austin, Texas, you're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "New York Times Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "CBS News",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public opinion",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2e8b357b-9186-4979-8a9e-3502f83211c9"
+    },
+    {
+      "start_time": 241,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a narrow five-to-four decision in a case challenging the North Carolina Congressional District, which for the first time since Reconstruction has selected an African American, the US Supreme Court has ruled that minority districts drawn with widely separated boundaries may violate the rights of white voters. Reaction to the ruling by minority voting rights organizations was universally negative. Patricia Guadalupe has this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--North Carolina",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Supreme Court",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Judicial review",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7e969fe0-9ba9-4153-a433-6e8e4910b74f"
+    },
+    {
+      "start_time": 266,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino reaction was highly critical of the Supreme Court decision, allowing challenges to congressional districts that were specifically drawn to increase Black and Hispanic representation in Congress. Steven Carbo of the Mexican-American Legal Defense and Educational Fund in Washington DC."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--North Carolina",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Supreme Court",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Judicial review",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "661e56b9-def4-4627-b14a-dc843989f74c"
+    },
+    {
+      "start_time": 282,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been recognized that in order to overturn what historically has happened, that legislatures would have to be race-conscious and maximize political opportunities by creating majority-minority districts. The decision by the Supreme Court seems to question that whole framework. Frankly, if we can't be race-conscious in things like drawing majority-minority districts, then how do we make the Voting Rights Act a reality?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carbo-Steven",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--North Carolina",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Supreme Court",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Judicial review",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "163adf76-9675-4b63-aabe-84b2c762842b"
+    },
+    {
+      "start_time": 306,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two of the congressional districts that could be affected by the Supreme Court decision, one in New York and one in Illinois, have a majority population of Latinos and were created only recently to represent that majority. Democratic Congressman Luis Gutierrez of Chicago represents one of the districts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--North Carolina",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Supreme Court",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Judicial review",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "18f30c9c-5482-4d3e-8550-54917b048d00"
+    },
+    {
+      "start_time": 323,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's 65% Hispanic, but only 40% of the voters are Hispanic so that non-Hispanics make up the vast majority and indeed are the single largest group. I never believe in an electoral process that you guarantee any ethnic or racial group a seat in the Congress of the United States. But you do have to guarantee us a fair and equitable opportunity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gutierrez-Luis V 1953-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--North Carolina",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Supreme Court",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Judicial review",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4068476b-2c5b-4642-af5e-606fd1100079"
+    },
+    {
+      "start_time": 347,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even though Latino groups said they were surprised and caught off guard, all are mounting legal fights around the country to challenge the Supreme Court decision. For Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--North Carolina",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Illinois--Chicago",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Supreme Court",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Education Fund--MALDEF",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Judicial review",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4b4b9999-9bb0-418d-a6d4-a85ba6721b31"
+    },
+    {
+      "start_time": 358,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA in Austin, I'm Maria Martin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "08f3bccf-3971-4ef1-acf5-09279b1e0657"
+    },
+    {
+      "start_time": 364,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In press conferences held in Washington, New York, San Antonio, Chicago, and Los Angeles, over a hundred Latino health and community organizations joined with Hispanic political officials to announce a major effort to combat the devastating effect of AIDS on the nation's Latino community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f1d674aa-60e1-43bb-994d-dc69e0df019b"
+    },
+    {
+      "start_time": 392,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're united in purpose. We understand how the AIDS epidemic is devastating our communities. We've let that be known for some time, but we did not have consensus and a unity of purpose and a strategy to work out among ourselves. And now this is different because today we announced to the world that, in fact, it's happening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ba221ca4-09c7-411c-a933-622587db57bf"
+    },
+    {
+      "start_time": 411,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The announcement of the formation of the National Hispanic Latino AIDS Coalition followed shortly after the release of the final report of the National Commission of AIDS, created four years ago by Congress to advise the nation about AIDS and HIV. With us on the phone from Santa Barbara to speak about the commission's work and the Hispanic AIDS Coalition is commission member Eunice Diaz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "aa9c48f5-f5c0-4e7d-ac43-f4bb3acd96a4"
+    },
+    {
+      "start_time": 436,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eunice, the AIDS Commission ended its work with a report expressing frustration at what you called the lack of political will to carry out effective HIV prevention programs across the country. But what thoughts do you have about the political will to do something specific about the disproportionate number of AIDS cases in Latino and other minority communities?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "086dc08d-52a5-4145-90e6-445f0c0abcc8"
+    },
+    {
+      "start_time": 459,
+      "end_time": 500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the things that we were frustrated about is that after the end of four years of ardent effort and work around the country, there are so many unresolved issues 12 years into this epidemic. And the mobilization and development of leadership at many levels, including the federal level, has taken so long. And at the same time, we see in many of our communities, yet evidences of intolerance and inhumanity reflected in the response of so many to this epidemic and those afflicted. Therefore, the response to our community, the Hispanic community, is just part and parcel of how this nation needs to be organized to address the issues that are posed before us that are unresolved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Eunice",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0ba72bc6-9f9e-4a4c-900e-b3d8bdc3f0d1"
+    },
+    {
+      "start_time": 500,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are hopeful for a new day ahead. Being that just recently, this administration, the president appointed Kristine Gebbie, formerly the director of health for the state of Washington to really lead the country in an organized response to the AIDS epidemic. And we hope that that will now create the momentum we've been waiting for at least four years at the commission level. And then look at the needs of all communities, including the very specific needs of the Latino-Hispanic community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Eunice",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "503fdd8d-fd13-47c7-8422-99b5e8613591"
+    },
+    {
+      "start_time": 531,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well now, one of the positive aspects of this, as you said, is the formation of the national Hispanic-Latino AIDS Coalition, a national organization to investigate the issue of AIDS in the Latino community. But to what extent is this really a new effort? And what does it say about the political will of Latino political leadership to also deal with this issue?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f09e97fe-23c1-4249-9172-c4a1df3a6bfb"
+    },
+    {
+      "start_time": 557,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the creation of the national Hispanic Latino AIDS Coalition represents a coming together of many organizations, national and throughout the country that spent years fighting the AIDS epidemic. And at this point, we were ready to do that and we were ready to call on our policy-makers at all levels, the national level, state, and local level to say, \"We've got to be joined in our response to AIDS.\" And that is unprecedented. That's never happened. And for me, it represented a moment of triumph, a moment of significant push behind this epidemic. That now, we are telling our communities, si se puede, we can do it. And we can do it united in a coalesced form."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Eunice",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "16bdda80-898d-4787-babb-11374024250b"
+    },
+    {
+      "start_time": 598,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you very much, Eunice Diaz, the only Latino or Latina member of the National Commission on AIDS, which completed its four-year term in June."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "Gebbie-Kristine M",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "27fafbee-c015-4a87-8fd7-e3e9cd49f4d2"
+    },
+    {
+      "start_time": 607,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This poem was written after a conversation with a friend who is very frustrated over trying to get funds to help educate Latinos about AIDS."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Men",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a1cd5396-71fb-4044-be7d-9168c2333882"
+    },
+    {
+      "start_time": 617,
+      "end_time": 627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boston poet Martha Valentin has this commentary directed at the Latino agencies now coming together to help educate the Latino community about the AIDS virus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Men",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "90d4a5b3-4dae-466e-b0b7-595ef7f2d475"
+    },
+    {
+      "start_time": 627,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Deadly Games People Play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Men",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "65752074-1d90-44f6-82e0-779a6e666da1"
+    },
+    {
+      "start_time": 630,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because we did not get the funds, we cannot do the workshops. And though you did not get the funds either, your agency is responsible for doing the workshops anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Men",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c01bd538-c37e-4805-b9e0-d30563db46c7"
+    },
+    {
+      "start_time": 641,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Every day, one agency of Mercy argues, competing with the other over who will educate Latinos on the evils of AIDS and the ways to be safe. And while they're arguing, every day three more Latinos die of AIDS. Macho men too proud to wear condoms, every day infect young, beautiful life-giving women who no one has taught that to demand protection is to express love. And every day, little people are born who will not be around to engage in the deadly games people play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valentin-Marta I",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Men",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fd8d68f4-d49f-4e0a-8aba-e321e2d7422d"
+    },
+    {
+      "start_time": 679,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marta Valentin is a poet, musician, and radio producer living in Boston."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Santa Barbara",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Massachusetts--Boston",
+          "category": "Places"
+        },
+        {
+          "tag": "National Hispanic Latino AIDS Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US National Commission on Acquired Immune Deficiency Syndrome",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Men",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c64fd32f-1d84-49d6-86fa-8d02e28a0bb9"
+    },
+    {
+      "start_time": 692,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to a CBS news poll, the majority of Americans supported President Clinton's decision to bomb selected Iraqi targets. Bombing raids began on June 26th in retaliation for a plot to assassinate former President George Bush. Well, here at Latino USA, we wanted to get an idea of the sentiment for President Clinton's action among Latinos. We have reports from two Latino communities, the first from Emilio San Pedro in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f919d074-cb82-461f-85ed-939642013ac1"
+    },
+    {
+      "start_time": 725,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds of neighborhood] I'm Emilio San Pedro, en la Calle Ocho, Southwest 8th Street in Miami. Here, some people support the recent US bombing of Iraq while others question the necessity for such an action."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Neighborhood ambience",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "3ea01949-3228-43ee-a612-1f7d512b36ed"
+    },
+    {
+      "start_time": 736,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si ellos quieren hacer algo verdad, que vayan aâ[English translation dub]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "874076c1-082a-453d-bad7-dca1250b683a"
+    },
+    {
+      "start_time": 741,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[English translation dub] Well, I think if they want to attack, well, they should attack Hussein. He's just playing with them. Really, it's a political game that we're going to show the world we're powerful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Translator"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b106b426-1b75-4bd6-9b69-e93258041439"
+    },
+    {
+      "start_time": 753,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel that President Clinton did the right thing. We can't be taking the pressure from the Middle East all the time, you know. Man did what he had to do. He did the right thing. He had to make sure that take a stand against people like that, like Gaddafi and this other guy he got rid of. That's the main thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d6278eb4-56bf-4c2c-840a-af68bce72215"
+    },
+    {
+      "start_time": 778,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me opongo porque seâ[English translation dub] Well, I'm opposed. If we keep attacking, then they keep attacking, and it's never going to end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 8"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ed495bf4-b6c6-46ca-8362-333371081f36"
+    },
+    {
+      "start_time": 786,
+      "end_time": 798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Los Angeles, few residents inteviewed have taken the time to analyze the recent bombings in Iraq. And some worry about the military implications, other wonder about other priorities like finding a job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aguilar-Alberto",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e42390f7-d457-4615-a324-2e5f1318d94e"
+    },
+    {
+      "start_time": 798,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahorita ultimamente no me entero de nada noticas por la radio. Lo relacionado a que estan sin trabajo se dedica mas tiempo en el trabajo si."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 9"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5dc6c01d-8379-4c02-8f15-f2aae65555ec"
+    },
+    {
+      "start_time": 798,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel good about it. [Laughter] I'm glad they did. Because if you don't stop them, they'll just keep going. And who knows where it will end up. A nuclear war?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 10"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ba1a070c-bb00-4146-a97c-0d6fa5d2ab36"
+    },
+    {
+      "start_time": 819,
+      "end_time": 827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In my opinion. Yeah, it was wrong. It was justified at that time to invade Iraq. They were a threat, I believe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 11"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5ec69715-4f6a-4eab-8c9f-fefca0c772cf"
+    },
+    {
+      "start_time": 827,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't listen to the news."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 12"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "405cf607-d6dd-4446-ad00-ca1cd80c6dbf"
+    },
+    {
+      "start_time": 829,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno si si hubo motivo pues esta bien que lo hagan hecho [English translation dub]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 13"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "163d2e8b-0908-40d6-8427-55c919761393"
+    },
+    {
+      "start_time": 833,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[English translation dub] If there was a reason, then it's good. But if there was no reason, then it jeopardized world peace. And that's something that all of us on this planet long for."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Translator"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5929d495-7c1c-4694-ad8d-7acecc19499e"
+    },
+    {
+      "start_time": 842,
+      "end_time": 847,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Los Angeles for Latino USA, this is Alberto Aguilar reporting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aguilar-Alberto",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Iraq",
+          "category": "Places"
+        },
+        {
+          "tag": "US Department of Defense",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Battles",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Sound montage--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ceba6895-915d-4cd2-b157-50903ee1f595"
+    },
+    {
+      "start_time": 847,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long before the word âmulticulturalâ came into popular usage, it was reflected on the public television children's program, Sesame Street. Now, the program is making an extra effort targeting minority children with special cultural curricula. This year, the Emmy award-winning show is placing an emphasis on Latino culture as Mandalit del Barco reports from New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0ec7be29-65a1-4c02-882d-dee927e5aae8"
+    },
+    {
+      "start_time": 872,
+      "end_time": 881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Latino Sesame Street Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "3244dcb3-9bac-4433-a939-11be58b184b0"
+    },
+    {
+      "start_time": 881,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Sesame Street becomes more bilingual, even the theme song incorporates Latino rhythms. [Latino Sesame Street Music Highlight] With this season's emphasis on Latino cultures, viewers can watch Big Bird leading a mariachi band and Oscar the Grouch dancing the Mambo with Tito Puente. Sesame Street is visited by Chicano rock band Los Lobos and New York's Puerto Rican folk music group, Los Pleneros de la 21. The show goes on location to barrios in Los Angeles where kids paint a Mexican mural, and in New York where they make Puerto Rican masks, and visit a community center known as La Casita. This year, the spotlight will also be on the new fluffy blue bilingual Muppet, Rosita."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Lobos--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Pleneros de la 21--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Sesame Street music",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "3b952adc-fd34-40f2-b505-10766b6c8f83"
+    },
+    {
+      "start_time": 925,
+      "end_time": 926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hola amigos como estan?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rosita",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5f7a0bb3-769a-4f2c-9793-db2c518548a5"
+    },
+    {
+      "start_time": 926,
+      "end_time": 931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muppet Rosita is played by Mexican puppeteer Carmen Osbahr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1cd78f94-126f-488d-ada8-d973371ab191"
+    },
+    {
+      "start_time": 931,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si, si. Yes. Yeah. I'm trying to help my friends to speak Spanish. And all my other friends that they're watching us, I'm trying to let them know that if they speak Spanish like me, and English, they have to feel proud because they're very lucky to speak two languages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rosita",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d3a5be1c-626e-4dc5-b30a-86df915ed9bc"
+    },
+    {
+      "start_time": null,
+      "end_time": 959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Clip of Sesame Street] Abierto? Yes, certainly. Abierto is the Spanish word for open. Abierto!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Big Bird",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "12f47253-8d4b-4995-8f31-e9fc8f7d578b"
+    },
+    {
+      "start_time": 959,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For many years now, Sesame Street has been teaching kids a few words in Spanish like hola and adios. But what's different is that with its new Latino curriculum, preschool viewers will also be taught an appreciation of the diversity of Latino cultures."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "691ba579-3f2a-421d-bea3-f106fa6c5499"
+    },
+    {
+      "start_time": 973,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Mundo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Big Bird",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "17853343-655e-473d-932e-365eb2ce4ad9"
+    },
+    {
+      "start_time": 974,
+      "end_time": 978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Clip of Sesame Street] That's the word, all right? And we are moving into..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 14"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "49e93521-c457-4c97-8066-7bbd39b0dd97"
+    },
+    {
+      "start_time": 978,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background music] Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Big Bird",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Other Media--Sesame Street",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "cbbba3f5-eee3-4260-8d7d-b6517458a04c"
+    },
+    {
+      "start_time": 979,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background music] Puerto Rico, it is, but look."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 15"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Other Media--Sesame Street",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "3c5379f6-ae6b-4278-9aa3-e49132242037"
+    },
+    {
+      "start_time": 982,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cotorra!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Big Bird",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7f4989e4-c53a-43d0-999e-e08e1c34af7b"
+    },
+    {
+      "start_time": 984,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background sounds of Sesame Street]In studies of preschoolers, researchers for Sesame Street found Puerto Rican children have poorer self images than white or African-American children. The Latino kids had negative feelings about their hair and skin color, and the majority of white and African-American children in this study said their mothers would be angry or sad if they were friends with a Puerto Rican child. Actress Sonia Manzano, who plays the character Maria on the show says that's why the Sesame Street producers decided to devote the season to addressing issues of self-esteem and pride among Latinos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Other Media--Sesame Street",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c441a635-0d15-4b63-929e-77eff9c4b614"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had the opportunity to write a show where Maria's family comes to visit. And I wanted everyone in Maria's family to be a different skin color because that occurs in a lot of Hispanic families, Puerto Rican especially, is that there are people of different skin colors in the same family. And actually have a puppet say, \"Wow, but he's darker than you. How could he be related? Or she's lighter than you. How could she be related to you?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manzano-Sonia 1950-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7eb850ac-f38a-483c-b538-9cd8baf4c530"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the last 20 years, Maria and Luis have been two of the human characters on the show. In that time, they got married, had a child, and are partners in Sesame Street's fix-it shop"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1ad6a6df-7f53-452c-a286-7d4b96b0ccfd"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, Luis and Maria, who are both Latinos are regular people. I mean, they own a business, they have a family, they're just regular people. They work like everybody else. They brush their teeth, they comb their hair, whatever. It's the role model is, hey, they're just like everybody else. And that's important to show."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 16"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "74464f67-2840-414d-b643-76a4dd194dff"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actor Emilio Delgado, who plays Luis, says, since its beginning, Sesame Street was way ahead of most US television shows in realistically portraying Latinos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1225751a-24b5-41ba-8186-6bc775aefd6c"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "20 years ago, when we first started doing this, I don't remember any Latinos on a regular basis on television. As a matter of fact, I can't think of any right now either. [Background sounds of Sesame Street music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delgado-Emilio 1940-2022",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Other Media--Sesame Street",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0ff8225b-8558-457d-8efb-bdeb4d994e15"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sesame Street is now in its 24th season. For Latino USA, I'm Mandalit del Barco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "de667db7-3721-4652-8826-34ba4d1e7530"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, that was great. Well, this is big bird leaving you with one final word, Viva! [laughter] [Children yelling] [Wooshing sound]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Big Bird",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Osbahr-Carmen",
+          "category": "People"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Sesame Workshop",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Early childhood education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Television--Sesame Street",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "eb9c4dc6-d95c-4dda-845d-015403d0e03b"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government of Cuba recently announced it's willing to compensate US companies for properties confiscated on the island more than 30 years ago. Also, a group of retired US military officers announced a visit to the island. Dialogue with Cuba has not been officially announced by the Clinton administration, but the mere possibility of dialogue has split the Cuban American community. With us from Miami to speak about the political climate in the Cuban community are reporters, Ivan Roman of El Nuevo Herald, Nancy San Martin, the Fort Lauderdale Sun-Sentinel, and Latino USA correspondent Emilio San Pedro of WLRN Radio in Miami. Welcome. Is there a growing division between more conservative elements of the Cuban community in Miami versus more modern elements? And what are those divisions based on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c95c5c5f-542b-4fb2-b1cf-4a236c27cb61"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Emotions are extremely high. We've had a couple of outbreaks between anti-Castro exiles and what we've termed sympathizers. And I think those incidents where there was actual fistfights surely indicate that there is a growing division between those who believe that peace talks are the way to go, and those who believe that tightening the embargo and perhaps only a violent overthrow is the way to go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Martin-Nancy",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "75311300-02f8-4114-89ad-6bacf3137719"
+    },
+    {
+      "start_time": 1201,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So people in the area near Miami actually talk about the need to have a violent overthrow of Castro's Cuba that is put together by the United States? A military overthrow?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "616df7ec-afd5-40c5-bbff-ed7fbaa7d128"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Interruption]I'm sorry. They don't only talk about it, but you have the paramilitary groups that actually plan for it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Martin-Nancy",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "82abd0c4-f120-4a5a-8f98-bb0c52ff3358"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've always lived in Miami. And that's been a discussion in Miami for the last 30 years. I can guarantee you of that. But the thing is, I think primarily, that now you see people that have not been in the United States for 30 years or 25 years, people who came in 1980 from Cuba, people who came in the 80s, people who have recently arrived, and they feel a much deeper connection to Cuba in the sense of, I have a mother that lives in Cuba, or I have a sister that lives in Cuba and that I keep in contact with on a regular basis. And a lot of those people are the ones that are saying, \"I want to be able to know that my relatives in Cuba are okay. I don't agree with the system over there. I don't like the system, but I don't want to punish the people who live there that are my relatives.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1980s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "e2a2bf8d-224a-4c6f-b5f6-224f16c2f0ab"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's a very definitive group in the community that really feels strongly that there should be supplies, that there should be trade of some sort, so that the people receive just the basic essentials so that they can get back on their feet. And the anger is evident as it was outside of the radio station Radio Mambi recently when people really went at each other and they were all Cubans. Everybody that was punching each other for the first time, I think, really we're all Cubans fighting over this issue. And they were all beating each other up and screaming and calling each other communists or, you want to starve my kids, and all kinds of things like that. And the media, unfortunately, really hasn't helped much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "bddba933-b040-4b91-b5bf-b23154f06f85"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tensions continue because certain people who want a certain resolution in Cuba, who favor a hard line towards Cuba don't look toward very kindly towards any media that either advocates a different solution or simply tries to report the different points of view. And here in Miami, reporting two sides of the story can get you labeled as a communist in a second, and that happens, and that's happened for decades."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Roman-Ivan",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "67d267b3-4ae6-4212-b5ab-0b15b5926ec0"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And from your insider's perspective, who has President Clinton's ear on the issue? One group more than the other, or where does Clinton stand on this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2a85a1e9-ecaa-40bd-a498-8133285ffbac"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 1363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Definitely the hardliners because they're the ones who got him some more Cuban votes, even though it wasn't overwhelming, but they're -- the most activist Cubans in his campaign who are speaking with the loudest voice are people who favor a hard line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Roman-Ivan",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f746582f-28a8-43df-9cd4-441d80135405"
+    },
+    {
+      "start_time": 1363,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, there are people who think that he can't possibly be as inclined towards a hard line as President Bush or Reagan may have been. And so there's that other group that is kind of waiting to see if there's some change in the policy from Washington, but really there hasn't been any significant policy since Clinton took office, so it's almost hard to gauge where he's going to come out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cfbc6567-035c-494c-9e77-1b34819aa226"
+    },
+    {
+      "start_time": 1384,
+      "end_time": 1426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree. I think he is playing both sides of the field. I think while he has publicly come out saying that he's not going to soften the embargo, at the same time, the State Department recently approved the humanitarian aid flotilla that left from Key West to Cuba in April. And that was the first time that a flotilla of that kind went to Cuba and the approval was almost immediately and a lot of people down here saw that as a shift in policy. So I think we're not exactly sure on how he's going to come out on this issue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Martin-Nancy",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "adcaa2f5-a4e9-47c3-9659-f35a0ee659b9"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you all very much. Ivan Roman of El Nuevo Herald, Nancy San Martin, a general assignment reporter for the Sun-Sentinel, and a Emilio San Pedro of WLRN public radio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Key West",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of State",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Economic sanctions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Embargoes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1b19026d-a0d3-4a74-ba63-e50fe9f4a4a5"
+    },
+    {
+      "start_time": 1437,
+      "end_time": 1486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bullets, guns, violence, and gangs are a fact of life for an ever-growing number of young people in this country; white, African-American, Asian, and Latino. Many Latino kids know this reality only too well and too early in their lives. John Guardo, who came to New York City when he was only 12 years old, was a member of a crew for most of his teenage life. Crews are what gangs are called in New York City. Now, John Guardo is trying to leave that life behind, but as he tells us in this commentary, leaving his crew may be easier than escaping the violence of the streets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police-community relations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Weapons",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mass incarceration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "7d4e4398-cfb5-4e3a-a0cf-4a2ef114b7c5"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Hip hop music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police-community relations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Weapons",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mass incarceration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ceeefe0b-b2b7-4cdc-9b75-16ed89aabe0f"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Hip hop music] Last night, I was speaking to my girl on the phone, telling her how bad things were getting around my block and that I decided to buy a gun. She got mad, raising her voice and asking me, \"How could you be that ignorant? You know what would happen if you got caught with one?\" I said to her, \"Yo, I ain't going to be carrying it around and showing it off. I'm going to keep it at home in case someone tries to break in or mess with my family.\" She got quiet then. I was searching for a better answer. I realized what a vicious cycle I was willingly getting into. You see, around my neighborhood, things ain't no joke. I'm a former gang member, so I know what dangers roam the streets. Drug dealers, stick-up kids, crackheads, the whole nine, a glance is reason enough to get jumped."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police-community relations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Weapons",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mass incarceration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "bd7ef791-1507-4a1a-9c13-97373f4d3575"
+    },
+    {
+      "start_time": 1550,
+      "end_time": 1613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Having outgrown that lifestyle though, I'm trying to live a regular life working and going to school. Unfortunately, that also means my family's been taken off the untouchables list. We have all become prey to these urban predators. Now, under this new set of rules, what am I to do with this trouble? Call the cops? Huh, no one I know, including myself, would do that in case of an emergency. In my eyes, cops are more interested in filling their quota than in serving their community. Dialing 911 has simply become taboo. At this point, I'm sandwiched between two problems. Number one, I don't trust the police. The only times they've been there for me was to ram flashlights into my skull while cursing me out. If not that, they've stopped me in front of my building to frisk me as my neighbors watch. Number two, if I remain vulnerable for too long, something bad may happen to my loved ones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police-community relations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Weapons",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mass incarceration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "d1a04fe6-1cdf-4136-bc02-e4a62656ce80"
+    },
+    {
+      "start_time": 1613,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What can I do? I can't join a crew. I just renounced one, but I got to protect myself. So the only thing left for me is to get a gun. Or is it? You see, I really believe, if the cops got their act together, there wouldn't be so much static in the streets. What I mean is, not that we like police presence, but that it doesn't matter if there's cops on every corner when they're going to be there to magnify the distrust we already have for them. Policemen should figure out who the real criminals are. I know. And go after them instead of treating all of us like such. They're the ones who have to change since the problems of the street are always going to be there. There's always going to be crime and we need protection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police-community relations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Weapons",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mass incarceration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "c4c00695-20c7-4742-8d58-b405905f196e"
+    },
+    {
+      "start_time": 1661,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These issues may be the bigger picture, but I'm still unable to answer my girl. Every day I have to deal with these problems. And although I may forget about them, what worries me is that it might be one of my friends who falls into the cycle and goes out to buy the nine. In street slang, that's a nine-millimeter handgun. I'm John Guardo, speaking for the street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police-community relations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Weapons",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mass incarceration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "cb397bd6-ea99-4983-acb6-4c60a9eee281"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y por esta semana, this has been Latino USA, the radio journal of news and culture. Latino USA is produced and edited by Maria Amelia Martin. The associate producer is Angelica Luevano. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. We want to hear from you. So why don't you call us on our toll-free number 1-800-535-5533. That's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Y hasta la proxima. Until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "fa2334e9-7904-465a-bb98-b27b007af846"
+    }
+  ],
   "set": "Default",
   "event_id": "3ea3fb09-78bc-41ba-a47f-1543b5fb8560",
   "source_id": "aaa8c36f-73a5-4be5-b435-6ac4d075b4cf"
