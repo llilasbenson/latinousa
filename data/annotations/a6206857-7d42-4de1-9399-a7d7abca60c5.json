@@ -1,5 +1,6302 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio Journal of News and Culture. [opening music 0:00:05] I'm Maria Martin. Today on Latino USA, Latinos react to the President's health plan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Opening--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "0f6fca24-b85e-480d-888f-a00a4b520df4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The plan does not at all address the border healthcare as a major issue. The strategies should not just be from our country, but should be bi-national."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "e8caedc1-b2a7-4e2f-a2d3-65f5ec458d5f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, a controversy over a border fence in Arizona and this year's winner of the National Professor of the Year Award."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Background--Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "efa1789f-b85a-4c3a-9875-d1fe2c14a7c3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was the first one to go into college. My father was born in a ranch, born in cowboy, worked as a cowboy before he got married, never went to school. My mother was born in Monterrey, Mexico, moved over here when she was nine or ten and went as far as the fifth grade."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Monterrey",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        }
+      ],
+      "uuid": "3a8466b1-4aa3-496f-b757-7abdfac178e0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That and more coming up on Latino USA, but first,las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        }
+      ],
+      "uuid": "db3ed425-de4b-48d7-9602-a60b356b9f66"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA . Iâm Vidal GuzmÃ¡n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        }
+      ],
+      "uuid": "b4fb645a-1af4-45f0-91a9-09def94502da"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This healthcare system of ours is badly broken and it is time to fix it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Background--Natural Sounds--Crowd cheering",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "8fe95538-4100-4ae3-8eee-8c82d889fac6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nothing short of a social revolution is how some describe President Clinton's attempt to reform the nation's health system and provide comprehensive health coverage for all Americans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "ea4d8bc3-50e3-4879-9296-46e94da7cd3d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you lose your job or you switch jobs, you're covered. If you leave your job to start a small business, you're covered."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "df34163d-6876-4ac1-a73e-23475c5c7a76"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As many as a third of you as Latinos now lack health coverage. Perhaps no group stands to benefit more from an extension of health insurance, but members of the Hispanic Medical Association, a coalition of 25 Latino health groups say they have several concerns about the administration's health plan. Among these, what happens to community health clinics and to the public health if there is no coverage for the undocumented. Association president, Dr. Elena Rios."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "National Hispanic Medical Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Background--Natural Sounds--People talking",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "58269089-9cd9-4137-a105-9b7192f2f9e7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very few Latinos have been involved with the policymaking process and we think that we can add more of our own insight if we can be involved at every level, but we think that once the new health system happens, in whatever form, that Latino representation be mandated."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "0c6ab4fe-28ad-4e09-8118-db1f6e5b6da9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino health advocates also want to see a health system that is culturally and linguistically accessible to the country's 24 million Latinos. Mexican president Carlos Salina de Gortari paid a visit to the US recently to promote the embattled North American Free Trade Agreement. In California, Salina said free trade is the key to stopping illegal immigration from Mexico. Isabella Legria reports"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "9fe6b903-63ef-4bf7-9e6c-52ceda3a1f07"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a speech before corporate VIPs from 65 countries meeting in San Francisco, Salina said Mexico needs to invest in itself if it is to curb the flight of Mexicans to the US in search of work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Legria-Isabella",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "8de85f57-f233-4aee-880d-bfcd41376243"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I will also emphasize that we want trade and not aid. It is trade that will provides us with the opportunities to invest more, to produce more, to create more job opportunities in Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "d6131abb-03fb-4d06-9647-1a54bc095a33"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salinas went on to say that undocumented Mexican immigrants are wrongly accused of relying on government support at the expense of US taxpayers who see them as a burden, not a resource."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Legria-Isabella",
+          "category": "People"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "eba98295-6dcc-46f0-8c1d-2d6ae04200c0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexicans who come to the US looking for jobs in this country take risks, are very courageous and very talented people. That is why we want them in Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "6997fca4-ed83-45b1-911b-9bd71d8354c7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Earlier this month, California governor Pete Wilson wrote to the Mexican president saying that NAFTA was endangered by a perception that Mexico was not making efforts to curb the illegal immigration of Mexicans to the US. Wilson has proposed denying healthcare and access to public education to the undocumented in California. For Latino USA, I'm Isabella Lagria in San Francisco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Legria-Isabella",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Rios-Elena V",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Governors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "acb6a2c1-6d5d-4776-8743-d32d2f50af35"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. Hundreds of Border Patrol agents lined up along 20 miles of the El Paso Juarez international border line in around the clock operation being dubbed Operation Blockade. Luis Saenz reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "7c245bee-a527-46ff-92d9-d8842cac87cc"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go ahead and move between the two cement bridges, see if we can cover both of those areas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Background--Natural Sounds--Helicopter",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b848e3ec-e9d9-455e-ac26-f52c1a3e195b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As helicopters fly over the Rio Grande, one can see Border Patrol units about every hundred yards. This is Operation Blockade. A strategy which Border Patrol Chief Sylvester Reyes says will cut down on the number of illegal entries into the US. Reyes says that the operation may also cut down on crimes committed along the US Mexico border."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Background--Natural Sounds--Helicopter",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "27c0a346-d077-4e2f-b155-1dfb0d45e4b7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First thing that people want to do, particularly in this community is blame undocumented workers, illegal aliens for all the troubles of the area. This will give us a good solid gauge to judge that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "10bf275c-5b40-49b6-a320-d9773e2aaada"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin Sanchez is with the Border Rights Coalition, an umbrella group of immigration rights activists who are concerned about the increase of Border Patrol activity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Texas Border Coalition",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "fb9402a9-fefc-45a9-8477-e5dd104d4ee8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blocking of the border has created an ambiance of terror, I think on some people's minds, particularly people who work on this side of the border."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "3849b40f-f15d-4f51-9067-72e29e3b6a74"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About 50 yards from where agents are looking through binoculars, a group of women carrying children are wading across the Rio Grande from Mexico. One of the women says the blockade hasn't affected her personally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Highlight--Natural Sounds--Water Splashing",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "fdadf6f1-e742-40f8-b2b6-a41d5b1e0e25"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno mira, yo con mio yo no lo siento tanto como los hombres que pasan a trabajar, Â¿verdad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "37296d0a-087e-4533-a6b8-fd1dec231439"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She says it is hard for the men who cross to work. She asks, are the Americans now going to do the work that is done by Mexicans? She says she has the patience to wait until the blockade is over, but not everyone is patient. Recently, Mexican workers staged a protest on the international bridges, halting traffic for several hours. But for the Border Patrol, Operation Blockade is doing what it's set out to do. Officials say the number of arrests of undocumented immigrants has dropped by 90%. For Latino USA I'm Luis Saenz in El Paso, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Saenz-Louie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua--Ciudad Jaurez",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Reyes-Silvestre",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Martin",
+          "category": "People"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Translation--Dub--English",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "473e04af-1fc3-4d2f-99c6-44e650d30c6a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        }
+      ],
+      "uuid": "53c3021b-3c51-44cd-8a77-0a3e418e8e64"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "85fe06fb-d896-4023-804b-72bb8c555437"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Martin. Reaction to and debate about President Clinton's Health Security Act of 1993 began long before the act was unveiled officially and is still going strong. Latino USA's Patricia Guadalupe spoke with Latino legislators and policy makers in the nation's capital. She prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "5a9edc1f-2231-4817-98d1-070d0bdd8374"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In what is called by analysts the most ambitious economic and social reform since President Franklin Roosevelt proposed social security more than half a century ago, President Clinton delivered his long promised plan to reform the current healthcare system. In a joint session of Congress, he outlined what he called six guiding principles. Security, simplicity, savings, choice, quality and responsibility, with the focus on universal access. Although President Clinton offered very little detail, particularly on how to pay for the new system, it was welcomed by both Democrats and Republicans in Congress. Democratic representative Ed Pastor of Arizona called this a first step in the right direction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "80dc9184-4d88-4448-857c-4e336b32dec5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People want change and I'm happy that he took this bold step. It'll probably be the only step we'll have to change our health system and now it's up to us. He made the challenge to us. He said, \"Here's a blueprint. Congress a year from now, give me the legislation back that makes every American secure in their in that they know they have health service available to them.\" And now the challenge is to us, and I hope we do it in a very nonpartisan way and get it done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "4b6352b2-0f2d-46ab-a5d0-025d7d2e9636"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When President Clinton speaks of universal access to the healthcare system, he includes Puerto Rico. Under his plan, residents of the island will receive the same amount of Medicaid payments as those who live on the mainland. Under the current system, Puerto Ricans on the island receive only 20% of what they would receive if they lived here. Resident commissioner Carlos Romero Barcelo, Puerto Rico's representative in Congress, is pleased with the proposed change."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "a9fb44f0-6d62-4b00-aff2-0944a1d7aa10"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the first time in our history, we're now going to be covered in equal terms with all citizens in the nation. Up to now, the Medicaid has not covered Puerto Rico. We have only gotten 79 million dollars and now for the first time we are going to be treated as equals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "74ae84eb-c801-421a-9afa-8abef5e646c5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when President Clinton speaks of universal access, he doesn't include undocumented workers. Under his plan, only US citizens and legal residents will be included. Ira Magaziner, our chief advisor to the president on healthcare, explains why."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "e89dba58-0525-4b58-818f-e8bdd1204bfd"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're guaranteeing something to all American citizens. And they're not American citizens, they're not here legally and there's something that we think is not quite right about saying people who are illegally here should get a legal benefit from the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "6d1df165-9346-42bd-a7b7-0526732c4ac3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Activists have complained that this will actually cost more in the long run. Some go a step further and say excluding undocumented workers is discriminatory. Cecilia Munoz, Senior. Immigration Policy Analyst at the National Council of La Raza is one of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "e3eb13c2-989e-4a47-82cd-bd5a1a0d0cdc"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's pretty clear that the decision's politically motivated, that the administration doesn't want to find itself in a position of having to defend taxpayer dollars being used to cover undocumented immigrants. Unfortunately, that decision's really not in the best interest of the public health in the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "c227fbf4-fcb7-462e-ae51-a688056ac542"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unlike some of the president's earlier speeches. Republican response to this one was generally favorable. While some said the proposed changes would create a huge unmanageable bureaucracy, most said they recognized the need for change. Republican representative Lincoln Diaz-Balart, Florida, says he wants to see change but not at the expense of what he calls the best system in the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "4a3effe8-2fbe-4ace-8e55-e48073ca4bd9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's one of the problems when you have these socialized systems like in England where I hear that the people in Great Britain are extraordinarily dissatisfied with their system now because of the lack of quality and also the total bureaucratic morass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "England",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "654590dc-eac3-4ac5-8573-ad5101f4f245"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the next few weeks, president Clinton is expected to present to Congress details on how he plans to pay for the new system. It is on that particular issue where much debate is anticipated. For Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Romero Barcelo-Carlos 1932-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Magaziner-Ira",
+          "category": "People"
+        },
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "Roosevelt-Franklin D--Franklin Delano 1882-1945",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Legislative hearings",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "492dc5cc-38f7-490e-9fee-b72bc20021f4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The reality is that the nature of Mexico's economic and political system is such that workers will be asked to bear the burden of an agreement that doesn't address."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        }
+      ],
+      "uuid": "54f2c450-cb3f-4f85-acb7-e27c59f05fc7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now that Missouri congressman Richard Gehart has announced his opposition to NAFTA, analysts say its proponents will have an even more difficult time gaining support for the North American Free Trade Pact. Andrew Hernandez, of the Latino consensus on NAFTA, agrees but believes many of the arguments being used against the treaty including the loss of jobs to Mexico obscure what he calls the real issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Art 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "b46e2c41-c46a-402e-bdbd-2d01d186254a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's easy to scare the American workers about jobs leaving to Mexico because we are in a recession. People need a scapegoat when they start losing their jobs, when they start facing economic hardships and the most convenient scapegoat right now are immigrants and Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hernandez-Andrew",
+          "category": "People"
+        },
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Art 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "6edb4331-0023-41fd-8791-f55f4fa52de7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to ask each and every one of you to please produce your birth certificates. We want to make sure that you're legally here in the United States. I doubt if any of you could do so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Torres-Art 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "a45ed5d1-d425-43c6-9caf-e29a453f4e26"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "California State Senator Art Torres was in Washington recently at a speech before the National Policy Council. Torres called for a cooling off period on anything having to do with the increasingly emotional issue of immigration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Art 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "5ac1107f-6559-483a-8697-5b3afd0300dd"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A cooling off period on legal immigration, illegal immigration, legislation, legislative efforts in states and in the Congress until people get a realistic hold of what's in front of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Torres-Art 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "dfa6a767-752b-4a3f-ba9a-d65b5b8bfc9c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Torres feels immigration should be dealt with in all of its complexities as an international issue.[Transitional Guitar Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Gerhart-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Art 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Transnationalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "f0768422-b937-45d3-b94d-d0817039ef72"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This year the Council for the Advancement and Supportive Education in Washington DC chose out of almost 400 nominations, Dr. Vicente Domingo Villa as the recipient of the National Professor of the Year Award. Dr. Villa is a professor of biology at Southwestern University in Georgetown, Texas. First of all, felicidades to Dr. Villa who now joins us on Latino USA. Dr. Villa, I understand that when you first started teaching at Southwestern University eight years ago that there were no Latino students there studying the sciences and now eight years later that almost 20% of those who graduate in the sciences from Southwestern are Hispanic students. So what happened and how can it happen in other places where it doesn't?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Georgetown",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Council for Advancement and Support of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Southwestern University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b08ab353-82ce-4d0a-9bcb-9e2434297890"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indeed, the numbers have changed in the last eight years. I arrived at Southwestern University in '85 and not unlike what happens in many other institutions, unless you get a critical mass, unless you get someone working actively at encouraging the young people, the young Hispanics to come into the sciences, it happens, but it happens very slowly in some instances as the critical number goes up, the students themselves do the recruiting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Southwestern University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7b135d95-c47c-4945-878a-f293af2d0e0d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From everything that I've read, you just don't inspire from the lecture hall, but you take a very proactive, dynamic relationship with your students. Someone described you as part teacher, part parent, part pit bull. Is that correct?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "abd89b8b-4472-4a20-9f24-1a5b65313d2e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughter] Well, that is correct to up to a certain point. I do agree with your statement that teaching, if I just restricted to the lecture hall and even the laboratory, the job is incomplete. Teaching means sharing and giving, and the bulk of the teaching actually occurs in my own experience at the level of what I call study with a prof sessions. I love to have a time period at the end of the day, at least once a week if not twice a week, where I ask my students, \"Come and visit. If you're going to study on your own, why don't you come and spend that hour or two with me and let's study with together.\" At those sessions, I really get to know my students. I really get to know and get a good feel for where they're at, how well they're understanding the concepts. I also discover where they're going and I'm in a unique position of encouraging them. If they have a certain goal, I will encourage them to consider other options, especially if I can detect and I can see that they have the talent and they're just not shooting high enough. What a privilege to be in a position like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "56d70c98-3176-4732-92be-57cf9d3f2ef5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What advice would you have for parents or young students about education and then perhaps not just in the sciences but in general?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "105f5769-38e4-443e-b25d-6fe644d75420"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was able to get an education because my education started at home and the parents play a key, key role. I come from a family that I was the first one to go into college. My father was born in a ranch, born a cowboy, worked as a cowboy before he got married, never went to school. My mother was born in Monterrey, Mexico, moved over here when she was nine or ten and went as far as the fifth grade. They played a key role in terms of the encouragement that they gave me. So to parents, I would stress that even if they have not obtained an education, they are involved in the process of educating their children and preparing them to get an education. The question may come up, \"Well, but how can I?\" Encouragement is a bottom line, encouragement. I was prepared for college work along the way and indeed my father always stressed, \"Get an education. Get an education.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "387bdccd-e7bd-432f-9a60-a8d41a8cd8b7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In his case, the experience that he went through, growing up in a ranch in south Texas, he never learned English. So then World War II comes around, he's drafted, here he's having to go serve and he doesn't know the language. So he went through some very, very trying times and I think that that was a lesson that was so well-placed in his own mind and his own heart that he would not have his children go through that. Now education is a sacrifice and if I were to tell you that getting an education is not a sacrifice, I would be lying to you. It's going to require work, but the beautiful thing about it is that it is a kind of work and a sacrifice that becomes fun as you become successful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6efb78c0-d95c-4d31-baff-33b0b4032afe"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. Dr. Vicente Domingo Villa of Southwestern University in Georgetown, Texas. Dr. Villa has been named the National Professor of the Year by the Council for the Advancement and Support of Education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Georgetown",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Villa-Vicente Domingo",
+          "category": "Places"
+        },
+        {
+          "tag": "Council for Advancement and Support of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Southwestern University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4ce30a72-bb9e-46f2-aecb-1f65ca11d366"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f21bb9b-850a-4593-be43-d191fcb148b3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For weeks now, residents of several Southern Arizona communities have been debating a proposal by the Border Patrol to build a series of steel walls along their border with Mexico. The final decision rests with each of the local communities. Nogales, Douglas, and Naco. Reporter Manuel La Cadia was in the community of Naco, Arizona recently where a town forum about the issue took place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona--Naco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona--Nogales",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona--Douglas",
+          "category": "Places"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "6842ba63-bd5a-4c77-a31c-c3786f560527"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Supporters of the Border Patrol's proposal to build the wall in the border of town of Naco, Arizona sat across the room from members of Hermanos Unidos against the construction of the wall, a coalition of human rights organizations. Mary McGrath, spokesperson for Hermano Unidos expressed the group's principal concerns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona--Naco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Hermanos Unidos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "c9f388e5-a290-48d0-a777-44dd4362c9a3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This wall is racist and I know that no one likes that word, but that's the truth. You would never see this wall on the Canadian border. The difference is the people on the other side of a Canadian border would never put up with it, and they are also usually white."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "de98475a-3c5a-4cf6-bf78-1382b8dba6cc"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Supporting the Border Patrol's contention that the four-mile-long structure is necessary to curtail illegal immigration and keep out criminals and drug traffickers. Members of the NACO Trade Alliance agree with Border Patrol officer Steve McDonald, who has been traveling throughout communities in southern Arizona trying to gain support for the wall."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "d3d41bc2-1d38-4d10-9dab-65459a5cb606"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was very high, it was very thick. People will needed a blow torch to cut through it. We feel that it is needed because of the problems of cross-border criminals in these local areas. Problems of drug trafficking through these local areas and the problems of illegal immigration coming in the United States. We as an agency are tasked with enforcing that law, these immigration laws in the United States, and we feel it is necessary to help us regain control of our borders here in the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "cdbdaf27-a21d-4b93-bd59-894e69549802"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to talk about his, really get away from the emotional issues of the wall and talk about the aesthetics of that wall."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "62c1ff7e-6573-4c5b-a3f3-407f3844ff1e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Border Patrol not only has to contend with political opposition to the wall. Outspoken citizens are concerned that the wall won't be an eyesore. Builder David Epoli of the NACO Trade Alliance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "ecc0bd83-42a2-433f-851c-854f69cad14b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that I perhaps have found a way that we could make the walls look good. In Arizona, Cactus, I started building walls that look like falling down Santa Fe style adobe walls, they're plywood plastered over. That's all it is, plywood plastered over going onto an existing fence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "bc98f43e-c426-4862-ae44-45bc627cbe88"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opponents of the wall are not convinced that the wall is justified no matter how refined the structure. Guadalupe Castillo member of the La Semilla Organizing Project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "371e2167-7f38-455b-be4c-a99a1dbf896a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To me, it would even be more offensive to have an aesthetic wall. It would be like saying the Berlin Wall looked beautiful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "The Semilla Project",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "5a123167-768b-46a9-a9a0-8db0464da49b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To Guadalupe Castillo. There is always the danger of militarizing the border with the wall being step in that direction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "dd5cfcab-14a5-44d3-9263-00128486a74b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We try to put again the issue as a law enforcement one, we militarize the zone, bring more Border Patrol, bring the Marines, bring the National Guard, bring the DEA. We can pour billions of dollars as we did in Vietnam and it will not resolve the problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "0e141f5e-2315-432e-8649-e5f5a0a607e1"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But to those who are concerned about an increasing military presence along the border, Steve McDonald, Public Affairs officer for the Border Patrol is prompt to point out the limited role of the military in this endeavor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "67bd77d3-916c-48d6-a167-6ec655e15d93"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military role in this is to supply the labor, the engineering expertise, and the material for the fence. The landing mat that you have seen, at the NACO Station, that the fence is going to be made out of, they are not going to be down here in a enforcement role in the United States. The military cannot enforce civilian law, so they're only going to be here to build this fence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "48739e15-ff82-45b1-81b6-e054b040c6f4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Border Patrol has already built a barrier project along the border in St. Luis Rio, Colorado. In Nogales, the proposal to build the fence there was first rejected, but now the board of supervisors is reconsidering. While in Douglas, Arizona, the proposal was flatly rejected. For Latino USA, this is Manuel La Cardia in Tucson, Arizona."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona--Nogales",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Sonora--San Luis Rio Colorado",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Sonora",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona--Tucson",
+          "category": "Places"
+        },
+        {
+          "tag": "McGrath-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "McDonald-Steve",
+          "category": "People"
+        },
+        {
+          "tag": "Epoli-David",
+          "category": "People"
+        },
+        {
+          "tag": "Castillo-Guadalupe",
+          "category": "People"
+        },
+        {
+          "tag": "Mexican-American Border Region",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Armed forces",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "7a7f4768-f7d2-4002-901e-e5c52c75574f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ae5afe1-6bbc-4c4e-b8a0-58475fb59210"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last year, the so-called Quincentenary, the commemoration of the 500 years since Columbus encountered this hemisphere, caused a great deal of controversy and also inspired many artists. The Columbus theme, and the stereotypical images in history and popular culture of the natives, the conqueror and the conquered, still continue to be a source of artistic inspiration. Recently, an interdisciplinary arts project curated by artists Coco Fusco and Latino USA commentator Guillermo Gomez-Pena opened at the Otis Art Gallery in Los Angeles. It's called The Year of the White Bear, and it features performance, visual arts, and radio art. Betto Arcos prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5a946d8b-7093-4f50-8bc0-936eb21dd744"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a visitor walks into the exhibition of The Year of the White Bear, images of the past and the present provoke a sense of humor and seriousness. With the title Mickey Meets His Match, a ceramic figure of a pre-Hispanic warrior sits next to a Mickey Mouse doll on a wall, a painting of Columbus holding a slice of pizza by Chicano artist Alfred Quiroz. Across from it, a custom of Queen Isabella designed by Puerto Rican artist Pepon Osorio and worn by one of the curators during a performance. The Year of the White Bear was conceived as a reflection on the 500 years of the so-called discovery of America, and according to one of the curators, performance artist Guillermo Gomez-Pena, the exhibition is also meant to dispute preconceived notions of what constitutes political art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d56ab9b5-cf2f-4429-9ae2-dcd69bd01b30"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Political art is not supposed to be humorous. Political art is supposed to be solemn, didactic, somber, and I think that there is more sneaky ways to be politically effective. Now, the common goal is to begin a reflection about the Columbus question and what is after the Columbus question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "475494c4-cc62-4a85-81c4-a2fe1e59f571"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The title of the exhibition was taken from the name given to the Spaniards by the Paez Indians of Colombia. They called the Europeans, \"Pale in color and covered with hair, White Bears\" Gomez-Pena says that the main idea behind the installation of The Year of the White Bear is to create a multicentric, multifaceted portrait of the debates that were generated around the quincentenary and that still have not been resolved. Within this debate, a number of issues are touched on including the North American Free Trade Agreement and the current anti-immigration sentiment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "da378681-8e17-4fd4-a1f6-5ad629f9d5b0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Violin Music] Dear Spanish Inquisition, dear Border Patrol, dear American culture, for 500 years we've been invisible to you. Recordar, desandar, performar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d655f026-2d19-4919-bc64-5665d5744b3f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a viewing room, built like an entrance to a pre-Hispanic pyramid with the Aztec calendar above in a sculpture of the Mayan god Chaac down below is an ongoing slideshow of images of past and recent history, pictures of ancient cities and peoples that dissolve into modern day events like the Gulf War and attention along the US Mexico border, with the soundtrack that provides a narrative as the audience watches and listens quietly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "87508a61-fdeb-4559-93c4-17d40b4f2f1a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "San cristal [unintelligible] Un official chronicler de la pintados. And I just discovered you is therefore--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "60ece103-9fc1-421c-9f28-d6770e19bb02"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The hybrid nature of the installation is but one of the many ambiguities The Year of the White Bear instills in the senses of the visitor. From art piece to art piece one is faced with images of the past right next to current events. On a wall, a velvet painting of LA Mayor Richard Riordan holding a book like a Bible. It's title, \"INS Mexico as seen through foreign eyes\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Painting--INS Mexico As Seen Through Foreign Eyes",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0b6e35dc-32ed-456a-bf90-eb04fc70fbe4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here at the INS, we understand immigration since that's how our ancestors arrived to this land of opportunity. What we have are-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "3d1e11e6-1b92-49e0-9aaa-0aefac958280"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the gallery ceiling, a voice that sounds like that of a Border Patrol agent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ac6c3b93-c520-4b70-9b22-c99099b2d5c9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gone are the days of reasonably regulated entry that was beneficial to all. What we now have is a full scale invasion into America by the poor peoples of the world, a flood of homeless, uneducated, job-stealing criminals that is threatening our national sovereignty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e8d01f5b-17f4-4e40-a4a9-214ff7060c97"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The artists and the curators of The Year of the White Bear would like visitors to come out of the exhibit with a broader sense of reflection about the relationship between the past and the present, and a consciousness about the many perspectives on the founding of the Americas. Artists Robert Sanchez, who along with Richard Lou, created In Search of Columbus and Other White Peoples says this piece is meant to call into question certain issues about history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5dc199f8-b225-4601-bfe2-d496df932b8d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is the past really about and what is the effect on current issues happening today with toda la gente. You know, how have we gotten to this point and survived and kept intact? Certain things that have to do with very strong cultural ties, but at the same time having to have battled those things that have to do with how history has been perceived by those that are in power, so to speak. The powers that be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2f690e25-1e09-412f-ba29-8fab67e08161"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The exhibit continues at the Otis Gallery in Los Angeles until November 6th. For Latino USA, this is Beto Arcos. (Guitar Music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Fusco-Coco",
+          "category": "People"
+        },
+        {
+          "tag": "Columbus-Christopher",
+          "category": "People"
+        },
+        {
+          "tag": "Osorio-Pepon 1955-",
+          "category": "People"
+        },
+        {
+          "tag": "Quiroz-Alfred J",
+          "category": "People"
+        },
+        {
+          "tag": "Isabella I-Queen of Spain 1451-1504",
+          "category": "People"
+        },
+        {
+          "tag": "Riordan-Richard J 1930-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Chaac",
+          "category": "People"
+        },
+        {
+          "tag": "Sanchez-Robert",
+          "category": "People"
+        },
+        {
+          "tag": "Lou-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Colonization",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Performance art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Indigenous people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Exhibition--Year of the White Bear",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "576841a3-b7fa-4c50-b316-026f2adc121a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, por esta semana, this has been Latino USA, the Radio Journal of News and Culture. Latino USA is produced and edited by Maria Emilia Martin. The Associate Producer is Angelica LuÃ©vano. We had helped this week from Vidal Guzman. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. The Executive Producer is Dr. Gilbert Garenas. Please call us with your comments or questions. Our number is 1-800-535-5533. That's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Contributors include the Estrada Communications Group, the Hispanic Link News Service, and Tesoros trading company. Maria Hinojosa will be back next week. Y hasta la prÃ³xima, until next time, I'm Maria Emilia Martin for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Luevano-Angelica",
+          "category": "People"
+        },
+        {
+          "tag": "Morgan-Walter",
+          "category": "People"
+        },
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "Garenas-Gilbert",
+          "category": "People"
+        },
+        {
+          "tag": "KUT--905 FM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Longhorn Radio Network",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ford Foundation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Corporation for Public Broadcasting",
+          "category": "Organizations"
+        },
+        {
+          "tag": "The University of Texas at Austin",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Latino USA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Link News Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Estrada Communications Group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Tesoros Trading Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Corporations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        }
+      ],
+      "uuid": "ddf0eed5-03bc-429a-8006-8d888948397e"
+    }
+  ],
   "set": "Default",
   "event_id": "966293b2-b039-4ce6-a890-c52c8d1c13d1",
   "source_id": "90c79e17-fc59-4efc-9db8-c3a38eb9d5b6"
