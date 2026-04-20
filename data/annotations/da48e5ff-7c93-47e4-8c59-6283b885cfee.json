@@ -1,5 +1,5632 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the Radio Journal of News and Culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "61facf2c-eb71-4369-bf56-389553185ef8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening Theme]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Opening theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "44616a0f-0ce1-43db-809e-497c4823d715"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa today on Latino USA, the hunt for Pancho Villa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "93e804bf-4297-4c5b-afbe-9f3b6275cc82"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were able to track down witnesses who were there during the Columbus raid in 1916. Americans looking at Pancho Villa would only see a bloodthirsty bandit, but to the poor of Mexico, he represented a hero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        }
+      ],
+      "uuid": "a428c377-b770-46e0-81a0-8334383a1cc7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, the new head of the United Farm Workers and an anti-immigrant tale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "367d3419-cb07-497c-bcab-2b7e7a080468"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am the proud father of a four-year old boy. He has asked me several times, \"Papa, how come you are Brown and I am pink?\" He finally learned what that means."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        }
+      ],
+      "uuid": "f040a16e-16ce-40f6-9db9-5bc61f44e66e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This and more coming up on Latino USA, but first los noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "60a4abcd-e75a-4ba8-9d75-4c417acc7167"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I'm Maria Martin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "e9dd4540-c77c-433b-8bf6-e800c0c2c6ad"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the good news right now for the administration is that it's not hemorrhaging or losing as many votes as it was say about a month ago. The bad news is that it's not picking up very many votes either."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzales-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "175e20d6-b8b8-48ea-8ac4-24931b89a8ff"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the countdown continues for a mid-November congressional vote on NAFTA, the Clinton administration is stepping up its campaign to promote free trade. The President is trying to convince those still undecided members of Congress, including those in the Hispanic caucus, to get on board. NPR reporter Richard Gonzalez has been following the free-trade debate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "98809d92-006e-4ffa-8da0-e364449ccbf8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What they're trying to do is convince Congressman Esteban Torres that they can meet his demands for a North America Development Bank. This would be a bank, funds for which would be used for border and environmental clean-up and for communities away from the border who might be impacted by the North America Free Trade agreement. The problem is that these negotiations are very fragile, but it could also explode and come to nothing.There's a possibility that Congressman Torres, Congressman Xavier Becerra, Congresswoman Roybal-Allard and maybe two or three others might come over to the Pro-NAFTA side. But it's still too early to say. There's the deal in the works, but a deal has not been finalized."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzales-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "52172295-2760-4f83-bde2-ff7852029a6c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the Puerto Rican and Cuban American Congress members are also still undecided regarding the free trade agreement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "09e32ce2-fefe-4bf2-a5fa-b0308e73581f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Border Patrol spokesperson, Doug Mosher says that technically Operation Blockade ended on November 2nd, but that the enhanced patrols would continue indefinitely. Border Patrol spokesperson, Doug Mosher says that technically Operation Blockade ended on November 2nd, but that the enhanced patrols would continue indefinitely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-11-02",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "f5707a4b-7a30-407c-878b-f69f1fa63c85"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We still have enhanced manpower at all the major crossing points in a 20-mile area between roughly Ysleta, Texas and Sunland Park, New Mexico. So the strategy still continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mosher-Doug",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fb0625f2-96f6-4feb-8c5b-3a94ae926814"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Catholic bishops in El Paso say that Juarez, Mexico and Las Cruces, New Mexico recently called for a moratorium on Operation Blockade, to give people in border communities in both countries time to adjust to the impact of the operation on their economy, said the Bishops.But Doug Mosher of the Border Patrol says the number of apprehensions at the border are up by 80% since Operation Blockade began. That's a success, he says, and there are no plans for a moratorium."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "98d681b5-7982-4131-946e-eae2346ba52d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a permanent initiative and it's something we're going to be doing from here on out. So, that's the word we're getting at, is it no longer is a special operation, it's a permanent activity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzales-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b0fe2a01-fd76-481c-8b75-9a7c3a0a63f5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doug Mosher of the Border Patrol in El Paso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Sunland Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Torres-Esteban E 1930-2007",
+          "category": "People"
+        },
+        {
+          "tag": "Becerra-Xavier 1958-",
+          "category": "People"
+        },
+        {
+          "tag": "Roybal-Allard-Lucille 1941-",
+          "category": "People"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "114143e4-0910-432f-8c61-da2a29f905e4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At a hearing on AIDS in the Latino community held recently in Los Angeles, health officials said Hispanics constitute the fastest growing segment of new AIDS cases. One out of every three people with AIDS in Los Angeles County is Latino. In the last year alone, there has been a 95% increase in the incidence of AIDS/HIV among Hispanic men. This is news from Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "789b660e-83da-40fe-8bd0-398f47197bc9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The House of Representatives in Washington recently approved a bill extending unemployment benefits to millions of out of work Americans, but at the expense of legal immigrants. It was the battle the Hispanic Congressional Caucus fought and lost. From Washington, Patricia Guadalupe has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "914f862e-badf-4e3d-b7d3-569d99dd4e46"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Members of the Congressional Hispanic Caucus were angry when they found out their colleagues in the House were going to pay for the latest extension of unemployment benefits by requiring legal immigrants to wait five years instead of the usual three in order to qualify for government benefits. Although it would save the government more than $300 million, members of the Hispanic Caucus said there had to be other ways to fund the extension. Democratic representative Luis Gutierrez, Illinois."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "173e79d1-83bc-4fd8-ae58-56baf51d3acb"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We said, \"Well, why are we changing the rules in the middle of the game and now doing this on the back of those that least can afford to do it? The disabled and then immigrant community to this country.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gutierrez-Luis V 1953-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "0ab7eb20-0805-427a-81fc-ba25e1f61cae"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After heated debate, much of an antagonistic toward immigrants, the Hispanic Caucus didn't have enough votes and lost. Gutierrez says a lot of it is due to the increasing levels of bigotry and intolerance in the Congress and the rest of the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "630d9e39-77d1-4a0f-a7a5-f22b9962dd36"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The immigrants in 1993 are no longer spoken of in the grand tradition of the grand mosaic of American society where each immigrant group obviously adds because of the diversity and their new strength to building America. But they are attacked and casually accused of being responsible from everything to the drug infiltration in our country to people not being able to get jobs, to the crisis in healthcare."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gutierrez-Luis V 1953-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "1993",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "9f3df025-aa8a-4314-9c7c-e7ebc8bbaa7a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The bill to extend unemployment benefits is now under consideration in the Senate. For Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "US Congress House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "9f3f44f0-0f19-483e-9af4-6af14161ba6f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Austin, Texas, I'm Maria Martin. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "e6fa3391-b635-4f9a-b626-1d1148e47fc6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c5b966aa-0a1d-4d26-a88b-41650d041757"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The new President of the United Farm Workers is declaring the first week of November a time to remember the late farm worker leader Cesar Chavez. The date was chosen to coincide with the Mexican holiday of El Dia de los Muertos, the Day of the Dead. UFW head Arturo Rodriguez was in the nation's capital recently where he spoke with reporters about that and other issues facing farm workers and his union. From Washington, Christian Gonzalez has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "53d74fe9-53f4-41d5-ad10-dfc07b0972a7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The new President of the United Farm Workers Union, Arturo Rodriguez, was in Washington to address the American Federation of Teachers. Rodriguez, who was named to succeed Cesar Chavez after the farm labor leader's death last April, says most of the UFW efforts are now geared towards keeping alive the union's boycott of California table grapes and promoting their campaign against the use of pesticides."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Christian",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "260c153d-7f4d-4949-bfca-cfc6da4e7b94"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, all of us desperately miss Cesar, but we know that the most important thing we could do for Cesar is, as well as what we can do for the farm workers, is to continue that work in the best way possible. So we're in addition bringing on a lot of new staff, training them so they can actually provide those benefits and services needed for the workers. And do everything we can to escalate the organizing among the workers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Arturo 1949-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6b2fcf88-257d-4a7e-8554-b4026f361879"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stunned by the loss of the leader, the UFW received another hard blow when they lost an appeal of a 10 million dollars lawsuit against the Bruce Church Lettuce company. The union was again ordered to pay 2.9 million dollars. The union appealed that decision to a Los Angeles Superior Court. Rodriguez said he's confident that the union will win the appeal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Christian",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1501495c-3f2a-4cda-822c-8a3f4843ceee"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So as of yet, we've not made one payment to the company. We're going to do everything possible to avoid making any payments to the company, because that case has major significance to us. First of all, that's where Cesar died, during the time that he was testifying there. And in essence, we should have never been in that trial to begin with. So we're going to do everything we possibly can to fight the company and to avoid paying any type of judgment there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Arturo 1949-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "63eb17c5-9cd5-4176-8fcd-2af5cf035bc6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the five months since Chavez's death, many communities have renamed streets, parks and schools after the farm labor leader. In his travels across the country Rodriguez says he's seen a renewed interest of issues affecting farm workers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Christian",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "71e4a596-0cbe-46d0-9fc6-93a95f5351b5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We see a tremendous revival going on in the great boycott wherever we're at. Right now, I mean, one has been all these commemorations that have taken place and special dedications that have taken place throughout the United States and in Canada and so forth. But also there's been a recommitment on the part of people. For example, within the labor community, we've seen a tremendous response there from labor throughout the nation and in Canada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Arturo 1949-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4a4daa48-c8ee-4c77-9a10-eced1231b7e3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as far as the North American Free Trade Agreement, the UFW President Rodriguez says the union has not taken an official position. However, he says his personal feeling is that it will not benefit either US or Mexican farm workers. For Latino USA, I'm Christian Gonzalez in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Christian",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "American Federation of Teachers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Bruce Church-Inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Labor unions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Pesticides",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "90bbf27c-d329-49ff-a465-dcb00f49d411"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[La Muerte de Francisco Villa--Dueto Las Pajaras]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Regional Mexican",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "fdc8e0e0-a399-40f1-9462-ace60ffd9d90"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background music] Pancho Villa, a name out of Mexican history, the subject of corridos, a hero or a villain, depending on your perspective. Well, on November 3rd, an episode of the public television program, the American Experience takes a look at this controversial figure in American and Mexican history in a documentary called The Hunt for Pancho Villa. With us from Austin, Texas to talk about the production is the director of the Hunt for Pancho Villa, an award-winning filmmaker, Hector Galan. Welcome to Latino USA Hector."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Corrido music",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ca3ada4d-0ecb-4777-93eb-1591b23bb2c6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you Maria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "cfbf1d28-db0a-40ee-bf6d-1937c349b0bc"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hector, as we've said, the name of Pancho Villa really is familiar to so many people on both sides of the borders. Certainly to me as a Mexicana, it was seeing him all over in so many posters, este, throughout Mexico and the United States. But what inspired you and writer Paul Espinoza to develop this project, the Hunt for Pancho Villa, and to add even more information about this mystique of the character Pancho Villa?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c747fa33-205a-48ab-b427-842a453214ab"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back in college in the seventies, it seems like, or even in our homes, we all had posters, and as you mentioned of Pancho Villa, who represented something to us as Chicanos. Some of us do understand and know a little bit of the story of his life, but to most people in America it's more of a caricature. We see a lot of the restaurants and some of that imagery, stereotypical Mexican imagery with Pancho Villa as a bandit and so forth. So that was one of our motivations to really bring this story to the American public who don't have much knowledge about who Villa was and what role he played in history. So we were just discussing this about four years ago. And we had worked on one project, Los Mineros, on the Mexican American minors coming into Arizona from Chihuahua at the turn of the century and their struggle for equality. And we said, why don't we do a story on Pancho Villa? And let's try to understand what happened in the raid when Villa raided Columbus, New Mexico. And that's really how it began. Just through a conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5d381fea-e6bc-4f8b-aa0e-0a2120086555"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[crickets] March 9th, 1916, Columbus, New Mexico, three miles from the US-Mexico border. [hoofbeats]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Film--Hunt for Pancho Villa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1916-03-09",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "198ea465-a2a4-4d5f-9174-0b620d9f3ab4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A little after midnight, they came across the border, about 600 of them, to attack the town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Film--Hunt for Pancho Villa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a4452a6f-bb33-441e-bb6e-c8f9ed2d372a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[hoofbeats] [gun clicking and firing, gunfire, shouting]. Viva Pancho Villa!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Film--Hunt for Pancho Villa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ffacdbb0-5c6d-4985-94ea-4a7ec96b1901"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me, este Hector, what do you think is the most outstanding characteristic or trait that you learned about Pancho Villa throughout this process of making the film and that you think others will learn as they watch the film?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "6b7a7f9b-0fc5-47a5-97c3-0cb5798cbc98"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a difficult question because Pancho Villa is a very complex character. I had my own ideas, which were those of the mythic hero, those of the Centaur of the North, if you will. But actually he had many more skills than just the romanticized ideas that I had. And that is as a statesman, as a good person and also a very complex personality where some of the witnesses that we encountered in Mexico who were with Villa, who knew Villa told us he would just turn immediately on people and could be capable of bloodshed at a moment's notice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "92cd1b94-b47a-4d53-b3f7-03820eb85084"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think these things and their suddenness and yet their complexity is something that I learned as we were in the process of doing this film. And it's interesting too, because the witnesses that we talked to are not just the Mexican witnesses, because we did film in Chihuahua, most of the principal photography is in Chihuahua, but on the US side of the border and those people's understandings and misunderstandings of the man. We were able to track down witnesses who were there during the Columbus raid in 1916 and their concept of who the man was, and of course Americans looking at Pancho Villa would only see, especially those that were attacked, a bloodthirsty bandit, and can't get beyond that. But to the poor and the down-trodden of Mexico, he represented a hero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1a20445b-e167-4226-b54e-ec3864a13b2a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se le comparan aquel entonces como el Robin Hoodâ¦[transition to English dub] He was seen as a Mexican Robin Hood of this region, the north of Durango and the south of Chihuahua, because it was said that he helped the poor by taking from the rich [transition to original audio]â¦a los ricos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Film--Hunt for Pancho Villa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2e972ead-01df-46c6-ae3c-403e5eda5a66"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[rooster] One of Villa's wives described how his early life shaped his character. He and all his people had to work like slaves from daylight to dark on the hacienda where he was born. He grew up suffering the cruelâ¦"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Film--Hunt for Pancho Villa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ebefb30e-6552-4308-917e-6af044634108"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It must have been interesting for you and your writer, Paul Espinoza, to tackle the image of Pancho Villa. Considering that he's such an important icon in the Chicano community in the United States. Did you have some issues about that, about actually having to uncover this person who you had probably at one time admired and thought was the perfect man?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "b5bc2f86-7160-4339-bd4c-b72ea47f8cf2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a very interesting question, Maria, because as part of the series, we do have an executive producer, Judy Creighton, who's based in New York, and when we would show her our rough cuts, we would go there and we would view them and she would say to us that the film is very emotionally confusing because we don't know who to root for. And I think a lot of that had to do with the fact that we're Latinos, we're Chicanos, and at times we're looking at it from American perspective, and at other times we're looking at it from a Mexican historical perspective as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "f7cdfa33-597f-4612-937b-5c838434388e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so that was a real interesting situation for both of us, especially discovering some of the more say, negative incidents that Villa was involved with and as well as trying to balance it with some of the more negative American perspectives of Mexicans in general. Because Villa is just one person they can point at but a lot of the feelings along the border against Mexicans weren't... They had their own stereotypical negative views of Mexicans, and we know that as a story too. So as Chicanos, it was very, very interesting to go through that process. I think eventually what we came up with is a very balanced picture on both sides."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "19a07a5b-a6c8-428b-8370-33e76d100961"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pues muchas gracias and congratulations, felicidades, on yours and Paul Espinoza's production, The Hunt for Pancho Villa. Speaking to us from Austin, Texas, Hector Galan. The premier of The Hunt for Pancho Villa will be on November 3rd on public television stations across the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1993-11-03",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "de9559f3-74e8-43a9-9580-d08cd5c29569"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias Maria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Galan-Hector",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "445564ea-e20d-4e6b-8b78-b161fb620ef4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico--Chihuahua",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Columbus",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Espinoza-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "Villa-Pancho 1878-1923",
+          "category": "People"
+        },
+        {
+          "tag": "Creighton-Judy",
+          "category": "People"
+        },
+        {
+          "tag": "Public Broadcasting Service--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Motion pictures",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Borderlands",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Film--The Hunt for Pancho Villa",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Television--American Experience",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ee9f7f31-ee69-4084-9b20-07241e5df252"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Viene clareando--Sotavento]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Folk music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "49dd5089-6169-484e-99a7-7b3fce7b7c67"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the barrios of the southwest to the gang turfs and immigrant enclaves of the inner cities to middle class Latino neighborhoods from Kansas to Washington state, drug and alcohol abuse are a troubling part of everyday life for many people. To better deal with this reality, Latino social workers who specialize in substance abuse recently came together in Denver. Ancel Martinez reports they're forming a new network called HART, Hispanic Addictions Resources and Training"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "85703014-e1e3-4590-9621-26f97ab1a561"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Natural Sounds--University Campus] On the manicured campus of the University of Denver there's no hint of the troubles of South Central Los Angeles, the barrios of El Paso or the gang turf of West Denver. Yet the 200 people who have come here to attend seminars must return to those areas with strategies on how to address increasing social problems among immigrants as well as US born Latinos. Paul Cardenas, who specializes in alcohol abuse, co-founded the nationwide group called Hispanic Addictions Resource Training, also known as HART. Because, he argues, not only do Latinos have different needs than Anglos, but their numbers cannot be ignored."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Ancel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "5ef43296-1191-45f5-9709-cc32b61efcf4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background sounds cont.] The Hispanic community is growing. In the last 10 years, we've doubled in size. By the year 2020, we will probably be one out of every four individuals in the entire United States. So there's a great economic force that we're all going to have to cope with whether we know it or not, whether we're prepared for it or not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cardenas-Paul",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        },
+        {
+          "tag": "2020",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "bb8585ec-d0ae-4531-bea3-55071da58cd4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound cont.]The symposium was designed to address the myriad of issues facing Latinos. One problem begins here. [Microphone noise] There are not many Latinos in social work. For instance, hundreds finished Denver University's graduate school of social work every year, but only a handful are Hispanic Americans. HART wants more minorities to enter the field. Another problem arises when Latino professionals apply for government grants. There's little information on alcoholism or drug abuse among Hispanics. So justifying grants, say for aiding Latinas, is difficult. So the goal for many is tailoring programs for those they serve."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Ancel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "71ed3af6-8a25-4698-8dd2-05ba19369c0e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] Women from El Salvador, from Puerto Rico, from Mexico, and they're like so separated because they don't know a thing about one another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santos-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "cb269e96-0b9c-42b2-b81d-5295870b92df"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] Mary Santos is a program director for the Boyle Heights Family Recovery Center in Los Angeles who works with the growing Central American population,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Ancel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "969d4801-2165-42a8-9a94-f9bbf7b50630"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I must educate them to share their cultures so that we can find the similarities so that we can get on with the process of recovery. I believe 98% of Hispanic women have a lot of core issues such as sexual abuse, domestic violence, alcoholism. It might not have just started with them, there's a history of alcoholism or chemical dependency, so to speak, that that has been embedded in the family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santos-Mary",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "daa8200b-30be-40f9-a6ea-93f712fb56e7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] Besides organizing comprehensive treatments, much work remains in the area of intervention before people become addicted to violence or drugs. David Flores, an LA-based gang counselor, warns society needs to offer treatment and not simply jail time for risk-prone youth. Flores has spent years documenting gang life in Southern California."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Ancel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "10ecef55-d3fd-4f47-9710-22b7604a7b56"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] The number of gangs are continuing to grow. The number of kids getting involved in gangs are also growing, and what's kind of scary is that we're seeing the development of new gangs, which will probably dramatically add to the membership unless we intervene and do something about it like right away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Flores-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "abaf294b-d1eb-4b72-b010-ea5d030c68fb"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] What are the differences between those new gangs and established gangs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Ancel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1f6de6c3-821e-4461-b651-42f9c6cd5d63"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] Well, the majority of the new gangs are really tagger/bangers, what we call tagger/bangers or kids who are tagging, then forming groups that tag as a group or a set and then become an actual gang. So we're seeing a significant increase in taggers, which will then add to the number of gang members that we will see in the future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Flores-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "dbd77e30-1e01-4e36-aa4a-a94934d0d381"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[bg sound] Flores workshop on how street gangs get a boost from young blood was one of the best attended during the three day symposium. Every workshop stressed the need, that the 3,800 members of HART from across the country need to map out their strategies on say how traditional spiritualism and Chicano or Caribbean cultures is part of the healing process. Or how non-profit agencies can stabilize a community confronted by low wages. By forming a nationwide group HART members say they're dedicated to changing what medical and social services will be available to Hispanic Americans for years to come. For Latino USA, I'm Ancel Martinez in Denver."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Ancel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado--Denver",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Hispanic Addictions Resources and Training",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of Denver",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boyle Heights Family Recovery Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Gangs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Campus",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1cf8fa04-8375-489f-946d-142da341e5f8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Dicen que los ojos negros nunca engaÃ±an--Los Chachos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f352904-80d3-4040-803f-fcce39ff3cb8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hundreds of sign carrying protestors marched through the streets of downtown San Diego recently protesting what they say is a growing anti-immigrant hysteria. Commentator Guillermo Gomez-PeÃ±a says it's fitting that the anti anti-immigrant march should have taken place in the city of San Diego. He recently went through an experience there that convinced him that a backlash against immigrants and perhaps against all Latinos is alive and well in San Diego."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b7ebd2eb-ce7b-49c9-a8ff-4dd9022d675d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am the proud father of a four-year old boy, Guillermo Emiliano Gomez Hicks, who happens to be half Mexican, perfectly bilingual and blonde. He has asked me several times, \"Papa, how come you are brown and I am pink?\" He finally learned what that means."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f7faefd2-315d-4337-990b-bc792b6e2598"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My son, my ex-wife, and I were having lunch at CafÃ© Chez Odette in Hillcrest. I vaguely remember two blonde women looking intensely at us from another table. A few hours later, we were suddenly stopped by a Coronado policeman. He asked if I had been at a cafe on Fifth avenue at noon. He then spok into his radio and said, \"I have the suspect.\" He said he was just cooperating with the San Diego Police and that all he knew was that it had something to do with a kidnapping. I understood right away that I was being accused of kidnapping my own child. For 45 minutes, my son and I were held by the Coronado policeman waiting for his San Diego colleagues to arrive. I was furious and completely devastated. I held Guillermito's hand tightly. \"If the police try to take my son away from me,\" I thought to myself, \"I will fight back with all my strength.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d0677472-3390-4bca-bf50-6bd426bc803c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guillermito kept asking me, \"How come we can't go? What is happening, Papa?\" And I kept on answering, \"It's just a movie, don't worry.\" I was able to control my feelings and politely asked the police officer to let me identify myself. He agreed. Very carefully I pulled out my wallet and showed him my press card, an integral part of my Mexican survival kit in the US. The cop turned purple. \"Are you a journalist?\" He inquired. \"Yes,\" I answered. I asked the policeman to explain to me why I was suspected of kidnapping my own son. He told me the following story:"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e117abc5-4487-49c7-9301-71b91b9d8d73"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 12:10 PM the police received a 911 call from a woman who claimed that a Latino man with a mustache and a ponytail and a woman who also looked suspicious were sitting at a cafe with an Anglo boy who didn't look like he belonged to them. She said that the boy was clearly being held against his will. She emphasized the fact that I was speaking to my son in a Spanish, and despite the fact she didn't speak or understand the Spanish herself, concluded that I was trying to bribe the kid with presents and talking about taking him to Mexico. As we left the cafe, the woman and a friend of hers followed us and watched us take my son's suitcases out of his mother's car and get into the cab. They called the police again and told them that I had forced the kid into the taxi. I asked the police officer if there had been any reports of missing children that encouraged the police to believe the woman who phoned from the cafe. He said, \"No.\" Then I asked, \"How could there be a kidnapping without a report of a missing child?\" He replied that, \"Many foreigners kidnap kids and take them across the border. Once you cross that border, you never know.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6f6df37e-64a3-49fb-b16d-63b4ca27e3cc"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I finally came out of my shock, I realized that what had just happened to my son and me wasn't that strange or unusual. Everyday, thousands of \"suspicious looking\" Latinos in the US are victims of police harassment, civilian vigilantism, racial paranoia, and cultural misunderstanding. If I had been blonde and my kid dark, the assumption would have been quite different. \"Look, how cute. He probably adopted the child.\" If I had been a Latina, perhaps the assumption would have been, \"She's probably the nanny or the babysitter.\" But the deadly combination is a dark-skinned man with a blonde child. The representations of evil and innocence in the American mythos. My son Guillermito has learned a very sad lesson. His teacher told my ex-wife that since the incident, he has been omitting his father's last name when signing his drawings. He's also falling asleep wherever he goes. His tender mind is unable to understand what exactly happened and why. All he knows is that to go out with daddy can be a dangerous experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gomez-Pena-Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "250c76dc-35a8-4169-b48a-1504414468f9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Commentator Guillermo Gomez-PeÃ±a is a performance artist living in Los Angeles. His new book, Warrior for Gringostroika has just been published by Gray Wolf Press."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Coronado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "San Diego--Calif Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Graywolf Press",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Police misconduct",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Book--Warrior for Gringostroika",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "b60dd617-fded-4a11-be24-56db7abb27ff"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Closing Theme]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background--Music--Closing Theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "7961e98c-d4be-4c86-ba90-15396ad36bc1"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y por esta semana, this has been Latino USA, the Radio Journal of News and Culture. Latino USA is produced and edited by Maria Emilia Martin. This the associate producer is Angelica LuÃ©vano. We had help this week from Vidal GuzmÃ¡n, KUVO in Denver, and Manuelita Weatherill. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. The theme music is by Ben Tavera King. We want to hear from you. So, porque no nos llaman, on our TOLLFREE number. It's 1-800-535-5533. Or write to us at: Latino USA Communication Building B, the University of Texas at Austin, 78712. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Y hasta la proxima, until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "aba53c68-2d91-4a10-970c-4c8c82ff13f8"
+    }
+  ],
   "set": "Default",
   "event_id": "268c2319-c904-4b32-a32d-7c8e696fd71a",
   "source_id": "439a2bf3-18b6-47af-87e2-5112c89af0cb"
