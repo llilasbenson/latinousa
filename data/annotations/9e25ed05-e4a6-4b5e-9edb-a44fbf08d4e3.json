@@ -1,5 +1,6350 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d6faaa4-176e-45cf-b6c2-df9ab3594c63"
+    },
+    {
+      "start_time": 11,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the Radio Journal of News and Culture. I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "8d7c1ebd-8fd4-4364-9c2d-e44b10205478"
+    },
+    {
+      "start_time": 17,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well on the piano I started at eight years old and then by 11, 12 I wanted to be a timbalero, a drummer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        }
+      ],
+      "uuid": "f16d1410-26ba-422f-9f20-d2a579d40c0e"
+    },
+    {
+      "start_time": 24,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today on Latino USA, Eddie Palmieri, musical Renegade and Latin jazz man extraordinaire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "3051172d-f753-4dee-8ec4-e63fd420a07e"
+    },
+    {
+      "start_time": 31,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's doing a hell of a job, I'll tell you. But he's going to take time. It can't be done in one day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        }
+      ],
+      "uuid": "14170286-d8bf-47a2-b99c-2a219a35256d"
+    },
+    {
+      "start_time": 35,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also on Latino USA. What some Latinos have to say about how President Clinton is doing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "f05a3186-f1b1-4beb-b79b-142bd9767100"
+    },
+    {
+      "start_time": 41,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think he's made any changes and we haven't felt any in the Hispanic community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        }
+      ],
+      "uuid": "81d24f11-d29f-4303-944e-f856f51ba69f"
+    },
+    {
+      "start_time": 46,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And from Florida, Black-Latino relations and the second trial of Officer William Lozano. [Background--music--theme] This and more on Latino USA, but first, las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "6e0a937e-0fcf-49fe-b071-7c808b98fd19"
+    },
+    {
+      "start_time": 60,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I'm Maria Martin. President Clinton met with Latino leaders from around the country in Washington. Among those meeting with the president were representatives of the National Council of La Raza, the National Hispanic Leadership Agenda and the League of United Latin American Citizens. Healthcare, Education and Clinton's economic plan were among the topics on the agenda. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "League of United Latin American Citizens--LULAC",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Economic policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8020de10-e59c-47c0-83c4-6becec80c3f8"
+    },
+    {
+      "start_time": 84,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chicano students at the University of California at Los Angeles continued to press for a Chicano studies department. Several students and a UCLA faculty member have even started a hunger strike to call attention to their cause. From Los Angeles, Diana Martinez reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hunger Strikes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "78eaff39-3aaf-45cf-8eef-c5d9e6ad6c8e"
+    },
+    {
+      "start_time": 100,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For several months now, students along with Latino professors have tried to get a department by working through university channels. All of those attempts have failed. In fact, there have now been three generations of students since 1968 who've attempted to establish a Chicano studies department at the well-known campus. Now, the six students and one university professor, on the water only fast, say they're determined to continue even if it takes their lives."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Diana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hunger Strikes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "3ad2a964-972f-43e6-901e-d47c4cb40fff"
+    },
+    {
+      "start_time": 129,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm more afraid to die in vain, to die without having our three demands met. I'm more afraid of the chancellor not responding to any of what we're doing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hunger Strikes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "203f195a-b65e-4c95-83c2-c1f2ebca5919"
+    },
+    {
+      "start_time": 141,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One student has already become ill and another sits in a wheelchair because his legs have grown weak. Concerned about their health and the support of their position, some parents and community members are joining the students on rotating two-day fasts. For Latino USA and Los Angeles, I'm Diana Martinez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martinez-Diana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hunger Strikes",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f9b218e5-0947-4dd0-9cb4-71ea1d943bd9"
+    },
+    {
+      "start_time": 159,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "UCLA Chancellor Charles Young says he stands by his decision to maintain Chicano studies as an interdisciplinary program rather than a department at the university."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Young-Charles E--Charles Edward 1931-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Badillo-Herman 1929-2014",
+          "category": "People"
+        },
+        {
+          "tag": "Dinkins-David N 1927-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Giuliani-Rudolph W",
+          "category": "People"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda",
+          "category": "Organizations"
+        },
+        {
+          "tag": "League of United Latin American Citizens--LULAC",
+          "category": "Organizations"
+        },
+        {
+          "tag": "University of California-Los Angeles--UCLA",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Texas Education Agency",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "9e58d2cb-af85-4aa8-96d4-520608de25dc"
+    },
+    {
+      "start_time": 169,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In New York, a veteran Latino politician has surprised that city's political establishment. Herman Badillo, Longtime democrat is endorsing the Republican mayoral candidate Rudolph Giuliani. Mandalit Del Barco reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Badillo-Herman 1929-2014",
+          "category": "People"
+        },
+        {
+          "tag": "Giuliani-Rudolph W",
+          "category": "People"
+        },
+        {
+          "tag": "Dinkins-David N 1927-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "321b2af1-7961-43bd-a456-0971e08afc3d"
+    },
+    {
+      "start_time": 183,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the elder statesman of New York's Latino politicians, Democrat Herman Badillo says he's hoping to attract a large Latino vote and democratic support for Republican challenger Rudolph Giuliani. Last election, Latinas were a crucial factor in electing Democrat Mayor David Dinkins, giving him two-thirds of their votes. This time, Latinos are being seen as a crucial voting block. Together, Badillo and Giuliani are calling theirs the Fusion Party, linking Liberals and Republicans. Others have called it the Confusion Party. 63 year old Badillo is the first Puerto Rican born congressman in the country. He was also the city's first Latino housing commissioner, burrow president and deputy mayor. Earlier this year, Badillo had hopes of running for mayor himself under the Democratic ticket, but he dropped out, citing his inability to raise enough money to be taken seriously."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Badillo-Herman 1929-2014",
+          "category": "People"
+        },
+        {
+          "tag": "Giuliani-Rudolph W",
+          "category": "People"
+        },
+        {
+          "tag": "Dinkins-David N 1927-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "df120153-9585-474f-b4bd-3c06f59b0697"
+    },
+    {
+      "start_time": 232,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now in a bid for city controller, Badillo has been highly critical of Mayor Dinkins, and his endorsement of Giuliani is seen as a defection and a blow to other Democrats. So far, none of the other Latino elected officials in New York City have joined Badillo in supporting Giuliani. For Latino USA, I'm Mandalit del Barco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Badillo-Herman 1929-2014",
+          "category": "People"
+        },
+        {
+          "tag": "Giuliani-Rudolph W",
+          "category": "People"
+        },
+        {
+          "tag": "Dinkins-David N 1927-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8d73b9be-0c8a-4cb5-b3b3-ff6c7e61cf80"
+    },
+    {
+      "start_time": 251,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New Yorkers go to the polls to elect a new mayor in September. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Badillo-Herman 1929-2014",
+          "category": "People"
+        },
+        {
+          "tag": "Giuliani-Rudolph W",
+          "category": "People"
+        },
+        {
+          "tag": "Dinkins-David N 1927-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political parties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "466c6732-7e0d-4c45-8a2f-d4b1b0c76423"
+    },
+    {
+      "start_time": 256,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dieron el pronunciamiento de [unintelligible] en inscripcion de la gente para que renovar su permisoâ¦ [Translation--Dub--English]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alfaro-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "84f1bf24-9f84-42ac-a334-fa475652a264"
+    },
+    {
+      "start_time": 263,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salvadorean refugee advocates like Manuel Alfaro of Washington are mounting informational campaigns in Central American communities. They're telling people that temporary protective status for Salvadorans due to expire at the end of June has been extended for 18 months. Salvadorans now under TPS have until that date to file form 765 for the immigration service in order to be able to remain in this country legally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0da4bc32-9c45-4de1-b3af-0b3df828b3da"
+    },
+    {
+      "start_time": 290,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay mucho ya establecieron familias. Otros tienen temor de regresar al El Salvador por todo lo que paso durante los 12 aÃ±os... [Translation--Dub--English]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alfaro-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "10a21fad-973a-452c-b5e4-35591a4975bc"
+    },
+    {
+      "start_time": 298,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alfaro says that most of the estimated 200,000 Salvadorians in this country have no plans to return home, as many have established homes and families here. Others, he says, are still afraid to return to El Salvador after 12 years of war. Alfaro and other refugee advocates now plan to lobby to have Congress and the administration consider granting permanent US residency to qualified Salvadoran refugees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas Education Agency",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        }
+      ],
+      "uuid": "d08c28c4-9712-4ece-8e7c-eb40ba0a1950"
+    },
+    {
+      "start_time": 323,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino students in Texas are more than twice as likely to drop out as non-Hispanic white students. Vidal Guzman reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas Education Agency",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "96e83622-2e27-406a-8c25-e6db5d33c8b1"
+    },
+    {
+      "start_time": 332,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Texas Education Agency says Latino students, who make up about a third of the overall student population in Texas, are more than 40% of dropouts. If current trends continue, more than 20% of all Texas students now in the seventh grade will drop out before graduating from high school. The education agency recommends increasing the number of minority teachers and instituting get back to school programs for expelled students. In Austin, I'm Vidal Guzman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "Texas Education Agency",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f5c35f3b-ec4c-4e3d-ab68-57a5ec1a3892"
+    },
+    {
+      "start_time": 361,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "87c64a87-5491-4d88-8f00-bb536942c422"
+    },
+    {
+      "start_time": 363,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[TransitionâMusicâSinging]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "2bacfc45-0334-4a2c-9ce2-69ec14013c93"
+    },
+    {
+      "start_time": 377,
+      "end_time": 404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the poverty-stricken South Bronx, a controversy has erupted over the alister of an activist Puerto Rican minister. Supporters of Episcopalian priest, Father Luis Barrios, who preaches liberation theology want him reinstated at St. Anne's Church. But his superiors say Father Barrios has gone beyond the boundaries of a good Episcopalian minister. From the South Bronx, Mandalit del Barco reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "54b82f87-68e1-40db-a227-153459b89e76"
+    },
+    {
+      "start_time": 404,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Sounds--Crowd chanting] Supporters of Reverend Luis Barrios have been rallying with protest songs and prayers in front of the city's episcopal cathedrals, St. John The Divine. On May 19th, the popular priest was suspended from his parish at St. Anne's Church without explanation by Episcopal Bishop Richard Green. Parishioners of the mostly working-class Puerto Rican parish are furious over Barrios's suspension from a church that's been politically active since the 1960s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Crowd chanting",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "44b23290-33f2-4f82-ad66-c92032651f74"
+    },
+    {
+      "start_time": 432,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es una injusticia y te lo que estan hacienda con el porque el padre barrioâ¦ [Translation--Dub--English]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vaquerano-Rosada",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "eb620854-ecaa-40bb-94ba-37e0c1113059"
+    },
+    {
+      "start_time": 0,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "75 year 75-year-old Rosada Vaquerano calls Barrios's suspension an injustice, saying his work has empowered the South Bronx, one of the poorest communities in the country. As a proponent of liberation theology, Barrios believes it's a church's duty to work for social justice. Besides establishing a gay and lesbian ministry, Barrios created programs for Puerto Rican political prisoners and immigrants. He helped start a needle exchange program to fight AIDS and protested a medical waste incinerator in the neighborhood. St. Anne's church runs the only soup kitchen in the South Bronx and it's the home of the Pregones Theater Company. United Methodist Reverend Eddie Lopez is one of many clergy supporting Barrios."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e8b33c4e-007b-4160-bd31-1a59db55d1f2"
+    },
+    {
+      "start_time": 479,
+      "end_time": 496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other priests have been doing exactly what Luis Barrios has been doing, and they have not been removed, they have not been taken out, they have not been suspended, and that's our concern that it's because he is the Puerto Rican priest at South Bronx that he's being removed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lopez-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "27254e33-49cd-42d7-860b-2d0c40d25c75"
+    },
+    {
+      "start_time": 496,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Episcopal Bishop Richard Green, who notified Barrios of his suspension in the letter has been unavailable for comment and he reportedly refused to discuss his reasons with St. Anne's vestry, but his spokesman told the New York Times that Barrios had displayed vocational immaturity when he blessed the unions of gay couples and when he allowed a Roman Catholic priest and bishops from so-called schismatic churches to use St. Anne's. [Background--Sounds--Crowd chanting] On a recent Sunday, Barrios's supporters calling church leaders homophobic and racist rush the altar of St. Anne's Church chanting in solidarity and forcing a replacement priest to cancel mass. Meanwhile, this protest continued, Father Barrios has been waiting it out in another church, St. Mary's in Harlem. Looking back, Barrios says his troubles began in January after he delivered a sermon critical of the church."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "75e34435-7e9d-4afc-b061-f6e44067d13f"
+    },
+    {
+      "start_time": 553,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My concern in that a particular moment in that sermon was that we talking about justice and transforming this society and the church need to play a very important role in changing society and getting into something that we call justice, but we need to start doing some cleaning inside the church. So my biggest concern, and it's still my biggest concern, is that we are in a church that is racist and homophobic, and if we are not going to deal with this, how we going to deal with the society preaching what we are not really practicing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barrios-Luis 1952-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "4bbc9d52-303d-4adc-a31d-d68176718576"
+    },
+    {
+      "start_time": 585,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a black Puerto Rican, Barrios wonders of his work for independence of the island led to his suspension, or perhaps he says it was his support for gay and lesbian rights, but being politically active is something he's always believed in, even as a child in Santurce, Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "da19a599-1fab-4cc7-ae02-fe26c47256b9"
+    },
+    {
+      "start_time": 601,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The whole point was that I grew up in a church where the priest was a member of the Puerto Rican Socialist Party and at the same time a very respectful priest in the denomination. And I never saw the contradiction between politic and religion. And of course he always told me that do not believe that there is a separation between politic and religion. So I grew up with that in my mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barrios-Luis 1952-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "11afef45-5b11-44ff-9734-2826044774fa"
+    },
+    {
+      "start_time": 630,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barrios is still waiting for church superiors to communicate with him directly. He also believes church leaders underestimated the impact of their action on St. Anne's worshipers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "b15e0ec7-b84c-4f01-82d7-a0b23723e915"
+    },
+    {
+      "start_time": 639,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a Latino Black priest. Nobody's going to do nothing or sometimes is this racism that do not let you see that this person has some capacity or some organizational skill. So they took it for granted that nothing was going to happen and said, oh God, that's very dangerous to commit that kind of stupid mistakes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barrios-Luis 1952-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "37c0454b-f381-4f80-bd88-4727fb86cc62"
+    },
+    {
+      "start_time": 660,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Supporters say they plan to keep the pressure on until Father Barrios gets a public apology and is reinstated. Church officials, meanwhile, still decline to comment on the case. For Latino USA, I'm Mandalit del Barco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Bronx",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City--Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "Green-Richard",
+          "category": "People"
+        },
+        {
+          "tag": "St Annes Church--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Cathedral Church of Saint John the Divine--New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Pregones Theater--Bronx-New York-NY",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Episcopal Church",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Religious institutions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Community organizations",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Episcopalians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-05-19",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "bfc611e8-5d9f-4192-82e9-cd2aa4ea50c1"
+    },
+    {
+      "start_time": 672,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Piano",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "9171d86f-72c4-49a8-9340-483269c0cd5c"
+    },
+    {
+      "start_time": 686,
+      "end_time": 715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For over 30 years, pianist Eddie Palmieri has been pushing the creative limits of Latin music. His unorthodox experimental style has defied musical categories. [Background--Music--Piano] Reporter Alfredo Cruz of station WBGO in Newark recently spoke with Eddie Palmieri, the Musical Renegade, and he prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "fadfd72b-c667-4082-8150-3f88e114e489"
+    },
+    {
+      "start_time": 715,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Music--Piano] Like his music, Eddie Palmieri is intensely energetic. His piano solos have been known to go from delicate esoteric explorations to fist pounding accents, all within the same phrase. He has developed his own musical identity. When Eddie plays the sound of a note or a chord is immediately recognizable as unmistakably Palmieri. He admits however, he didn't always want to be a pianist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "31c2746a-8ad6-4050-ba31-2d789f1cff2c"
+    },
+    {
+      "start_time": 741,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, on the piano I started at eight years old and then by 11, 12 I wanted to be a timbalero, a drummer and Tito Puente was my idol. By that time I started with my uncle who had a conjunto, El Chido y su alma Tropical. We had a trecita, y traijta, bongocero, congero. My other uncle Frankie, I played timbales, and I stood with them for almost two years until I couldn't carry the drums anymore. I just couldn't do it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3d7e2a5f-293a-4f70-9f77-133be3ac728f"
+    },
+    {
+      "start_time": 769,
+      "end_time": 794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Music--Salsa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1122497c-25f2-4c2e-a2e2-5d0f5c1b7688"
+    },
+    {
+      "start_time": 794,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of Palmieri's earliest and most important musical influences was his older brother Charlie. Also a pianist who not only served as mentor but helped Eddie get started in the business over 30 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "046c5f19-f629-4d4a-a1a6-4a692b7c0245"
+    },
+    {
+      "start_time": 808,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My brother Charlie used to play with Tito Puente. That was one of the most important conjuntos that we've ever had here. Wherever my brother would go and play, he would recommend me, and that's how I got into an orchestra called Ray Almore Quintet and first Johnnie Segui in '55, Vincentico Valdez, Pete Terrace at the interim, back to Vincentico Valdez for summer in '58 in the Palladium, and then for '58, '60 with Tito Rodrigez After that I went on my own."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1955",
+          "category": "Dates"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates"
+        },
+        {
+          "tag": "1960",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "ed86fbcb-b66b-47fe-a9c4-02c82a5c1e20"
+    },
+    {
+      "start_time": 836,
+      "end_time": 854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highlight--Music--salsa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "63758f07-bfb0-4b61-9b73-e503540af8c7"
+    },
+    {
+      "start_time": 854,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The big new trombone sound he had developed revolutionized Afro-Cuban music in the 1960s. Eddie Palmieri had found the perfect combination and called his new band La Perfecta. [Background--Music--Piano] They were sensation at dance halls like the now legendary Palladium, where battle of the bands were common and Palmieri reigned supreme. His influence, however, wasn't limited just to the East Coast. A classic collaboration with California vibraphonist Cal Tjader came about when word got out that no one could go toe to toe with Palmieri's band, La Perfecta."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Piano",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1960s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "d8d69a41-f5cb-4461-9015-bdd3b3cde645"
+    },
+    {
+      "start_time": 901,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cal Tjader knew that and he went to the record one. So he came to see me and then we made the agreement to record two albums, one for his company, which were Verb records, and then we recorded the other one, Bamboleate with Tiko, moving from one direction, which is the authentic dance orchestra to get into the album that we merged with him because he saw right away I went into variations. We did a walls resemblance and things like that. It was very interesting and very educational for me and rewarding because Cal Tjader was a great, great player."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        },
+        {
+          "tag": "Album--Bamboleate",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e956561a-5f72-4db2-a53b-16cd49c30f52"
+    },
+    {
+      "start_time": 934,
+      "end_time": 954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Music--Piano]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Piano",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "bb28cd40-4dfd-47ab-b516-ef842dbfd342"
+    },
+    {
+      "start_time": 954,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eventually, for Palmieri, even La Perfecta wasn't perfect. And his classic recording Champagne signaled a change in his musical direction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "0c25e1c5-696f-4b01-95ae-aa4ef727526d"
+    },
+    {
+      "start_time": 963,
+      "end_time": 975,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highlight--Music--Salsa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Salsa",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "6a37b343-70ca-4a54-8afa-d4926dde74f8"
+    },
+    {
+      "start_time": 975,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was done in 1968. That's where La Perfecta breaks up. The beginning of '68, we did a tour of Venezuela and after that, that was the ending of La Perfecta. Phase one curtain down, that was it. Boom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "c151da92-56d7-41c0-b1f0-685f62d5368c"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Music--Salsa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "a4c8913b-215b-49ea-9f71-68f4ab49accd"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over the last 25 years, many of Palmieri's recordings have become classics and his orchestras have provided approving ground for promising young Latino and jazz musicians. Much like Art Blakey's messengers was to jazz. But in spite of winning five Grammy awards, record companies have met his innovative musical experiments with skepticism. Recently, however, Palmieri finalized negotiations on a new contract with Electra Asylum records."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3a51d3e9-1201-412d-a515-ca4a02e6a632"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Music--Afro-Caribbean Jazz] And we're going into a whole other direction. We're going into the Afro-Caribbean Jazz per se. My first attempt by writing specifically in that form. See, I have recorded in that vein as far as composition that chocolate ice cream or 17.1 or VP Blues that I have done, and I've always looking in that direction, in that country. But this time I'm really writing specifically in that vein."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "93e7663f-878e-46c3-9e7a-a9d2087ccbb9"
+    },
+    {
+      "start_time": 1073,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As to what's in store for the future, whatever musical direction he might take, Palmieri says the core of his music will always remain in Latin rhythms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "61ae3e8e-c93e-4ddc-9b3d-dc53db7d438d"
+    },
+    {
+      "start_time": 1083,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those rhythmical patterns will always intrigue me. They've been here now for 40,000 years, so they'll be here for another 40,000 for sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4f60aaa2-2049-4bab-b2c5-a54b05b9fff1"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5d4a91d6-3a6c-486c-ae4e-cdcb6618e2a0"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I will not be here that long, but in the time that I'm here, I'm going to utilize it to the maximum and then achieve and have a wonderful time doing that and incorporating that into our music because it's something that certainly intrigue me and I must achieve that. It will. [Background--Music--Afro-Caribbean Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1c9674a8-6c28-46a4-9fa2-fcb18ec06d68"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Music--Afro-Caribbean Jazz] Eddie Palmieri's new recording is scheduled for a fall release. From Newark, New Jersey for Latino USA, I'm Alfredo Cruz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "Segui-Johnny 1922-",
+          "category": "People"
+        },
+        {
+          "tag": "Valdes-Vicentico",
+          "category": "People"
+        },
+        {
+          "tag": "Terrace-Pete",
+          "category": "People"
+        },
+        {
+          "tag": "Rodriguez-Tito 1923-1973",
+          "category": "People"
+        },
+        {
+          "tag": "Tjader-Cal 1925-1982",
+          "category": "People"
+        },
+        {
+          "tag": "Blakey-Art 1919-1990",
+          "category": "People"
+        },
+        {
+          "tag": "La Perfecta--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Records",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Ray Almore Quintet--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "El Chido y su Alma Tropical--Musical group",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Artists",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b9d102d3-0456-4fe7-9703-3142265ebff5"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--Music--Yemaya y Ochun]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "7ca3a87c-960a-434b-852a-9deb2c9083f2"
+    },
+    {
+      "start_time": 1160,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Clinton say some recent polls is rapidly losing popularity with the American public. The president, for his part, says it's just that people don't understand his economic plan. Well, here at Latino USA, we wondered how US Latinos, who in November voted overwhelmingly for candidate Clinton, feel about the President's performance so far. Our first informal sampling comes from the small border community of Clint, Texas, just outside El Paso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--El Paso",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "80cbbd3a-0a11-426a-8bd9-fe0081e75830"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Martin. Clint Texas is a small working-class border community, quiet on a warm Saturday afternoon. Those people I spoke with fell into two categories. One, the politically apathetic, and two, those who felt that any judgment on the President is premature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "87b86c2f-2e48-40a6-bbb9-85954e8af1cb"
+    },
+    {
+      "start_time": 1207,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's going to take time. It can be done in one day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e2cf66b1-4eef-43b7-8137-329db72b1198"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To me, it's all the same. I'm just waiting to see what kind of taxes he brings up because I am opening up my own business."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "513fb072-d14e-4a92-9644-003d1383604c"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'm happy. We need a change. He's doing a good job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "bb07e85b-6f3a-4549-a766-0ba3cddc9468"
+    },
+    {
+      "start_time": 1221,
+      "end_time": 1227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, he's doing okay in some things and the other things he's not because well, he needs people to back him up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e5a025b1-2bda-4947-bb28-b264ad7a694f"
+    },
+    {
+      "start_time": 1227,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He can't do everything the way it was. I tell you one thing, he was messed up. Our nation was pretty messed up. How can he fix in less than a year. He can't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "af7c4557-5509-4e2b-a0e8-216f920e60b8"
+    },
+    {
+      "start_time": 1239,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Sounds--Nature] I'm Emilio San Pedro in Wynwood, a predominantly Puerto Rican neighborhood just north of downtown Miami, Florida. Here, reaction to President Clinton's performance was mixed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Nature",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "978f3176-898f-4177-8343-e007b2539b19"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know if it's too early in the year to feel the effects, but up to now I haven't felt any and I haven't seen that my community has felt anything that he's promised. I don't think he's made any changes, and we haven't felt any in the Hispanic community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b54aef7d-5a18-4e2a-b87f-099a2465553a"
+    },
+    {
+      "start_time": 1269,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Translation--Dub--English] Well, I think he's doing all right because it's only his first months in office."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4e014f64-47b3-49e2-a967-67033444adc8"
+    },
+    {
+      "start_time": 1276,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Translation--Dub--English] Well, I'll tell you with all my heart. I voted for Clinton because I hoped for a change, but the truth is I see things worse every day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cc0daec6-e98d-4f05-9dd5-e7923bd999d1"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Translation--Dub--English] He's going to have to raise taxes. I voted for Bush. Don't blame me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 8"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a37c5c9e-0b12-4d79-ad98-1b8a0e3484b9"
+    },
+    {
+      "start_time": 1299,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People here in suburban Monterey Park, in Eastern LA County, are divided over the issue of President Clinton's performance on the job, with most willing to give him more time. Some felt he needed more on-the-job experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aguilar-Alberto",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d91c6cbd-b027-4f0a-83be-461dac22c56a"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think he's doing well. Everyone's saying that he's doing bad, but I think he's going to go through with it. He's going to take care of everything and improve it. They'll see, everyone's going to see how he's going to do good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 9"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "50e25cf4-59f0-4dce-90c2-8e63599eb4b6"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think he's doing in between. I'm not really satisfied with everything he's doing, but he's our president, so we have to pull for him, stay together with him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 10"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a7d11448-4cd4-4eea-8ea3-17b2a7eb7194"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since I saw him that he was elected, I like him because he is sincere and he tells you, he says what he thinks, and it's right for the people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 11"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e34bb777-d282-4116-b7c2-83d44da7d437"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Spanish speaking--sounds--dubbing] But with the country the way it is, it's impossible for things to get fixed in a moment. Really. It's too soon to say whether he's a good or a bad president."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2fccc52c-0158-4c91-bbb9-4a1c1da1dbaa"
+    },
+    {
+      "start_time": 1363,
+      "end_time": 1367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Monterey Park, reporting for Latino USA, this is Alberto Aguilar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aguilar-Alberto",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Clint",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Monterey Park",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Citizen participation",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Tax incentives",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4d9ef22d-15aa-41ab-95e6-edce139f75a7"
+    },
+    {
+      "start_time": 1367,
+      "end_time": 1388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--Music--Donât stop]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Pop rock",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Dont Stop",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "f0819f55-5a75-464f-90cf-0fa53c271e4d"
+    },
+    {
+      "start_time": 1388,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four years after he was convicted in the shooting deaths of two African American men, Miami police officer William Lozano was acquitted of those same charges. After a second trial held in Orlando, Florida, the not guilty verdict in this racially charged case did not set off the widespread racial violence that many had predicted. In a round table of Latino reporters, Miami-based correspondent Ivan Roman, Nancy San Martin, and Emilio San Pedro say that's because many things have begun to change in Miami's minority communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3e1c5792-57f3-445e-b3d2-aea2c263f3f3"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The symbolic leader and the man who speaks for the African American boycott of tourism, HT Smith. He says that there have been a lot of changes in the last four years for African Americans, things that have made a difference, things that have made them feel that perhaps there is some hope, for example, that there are two Congress people representing African Americans from Florida, and that makes a statement for African Americans, the changes in the county commission. So, the situation he feels, and a lot of African Americans feel that the situation now in 1993 is not the same as it was in 1989. That's not to say that everything is fine and that everybody is, and that no one has any problems. But the point is that there is some sign that there can be some hope and that there isn't that feeling of despair that may lead people out into a riot-type situation, and that's the kind of thing that they were looking for with the boycott to bring up all these topics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates"
+        },
+        {
+          "tag": "1993",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "69182494-d253-4e29-8a3d-f26ac864ea9f"
+    },
+    {
+      "start_time": 1478,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's talk a little bit about the background. What was at the heart of the tensions between Latinos and African Americans in the area? And in fact, there were many efforts by the local government there to ease those tensions. Have they been effective? Do the same problems still exist, and do the misunderstandings still abound, or is there, as you say, Emilio, there's a move now to say, well, things have really changed between African Americans and Latinos in the area?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f14ce12b-d777-495f-8aec-56dc798fe2b6"
+    },
+    {
+      "start_time": 1505,
+      "end_time": 1566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There have been efforts, continuous efforts by community groups to get together to discuss their differences, and the key issue really is economic empowerment. The key issue is hopelessness because of economics, because Blacks many times are stuck in communities in day county that are basically the communities that are deprived economically and socially. They're the first communities that they want to get the schools out of. They're the first communities that they don't pick up the garbage. They're all these things that are starting to get addressed, and so people feel, okay, well let's give it another chance. Let's see what happens. Let's figure out ways to try to diminish these tensions. And they have worked a lot on it since 1989. I'm not telling you they're all the way there, but at least they've made some efforts and they're definitely trying to get rid of or quell the opportunists who will go out and riot anyway because they always are, but at least they've made some effort and people see that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1989",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "31953036-e9ea-4516-ab9c-43674bd58cb9"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was going to say that I think the biggest change since the riots has been that there's been a lot of communication, and I think that's the key factor. The county has a board called the Community Relations Board, and it consists of community leaders from all facets of the community who meet periodically to discuss precisely that and vent out frustrations that the community may be feeling. Since the beginning of the Lozano trial, that group has been meeting monthly to discuss ways to prevent violence and create a understanding between the various communities. And I think that's been real effective because people have been able to say what's on their mind and get the anger out before it's too late."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Martin-Nancy",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4391219d-8965-48af-bc83-e9e495a3395b"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's interesting is that, I don't think that across the country people necessarily look to the Miami area as one that was breeding this new kind of multicultural acceptance and living together. Do you guys sense that there's a possibility that Miami and what's happening there may in fact, have some kind of a national impact?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1f177007-9c3f-4a9b-94b4-a4056098bcef"
+    },
+    {
+      "start_time": 1631,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People tend to put Miami in a certain perspective and they don't think that maybe there is a whole sector of people that are starting to learn and appreciate each other's cultures, and I think that is something that's starting to happen in Miami. It took a while, but I think that there are Latinos who attend events in the Haitian community cultural events. There are Haitians that go to Miami Beach and take part in the South Beach environment. That's not to say that everything is coming together rapidly, but I think that there's an appreciation of other cultures in Miami that perhaps does not exist around the United States. And I think yes, in some ways Miami can become a model for people getting along."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "San Pedro-Emilio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "277d4fee-ce3b-4d53-af2e-3f024c89011e"
+    },
+    {
+      "start_time": 1673,
+      "end_time": 1686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you all very much, Ivan Roman of El Nuevo Herald, Nancy San Martin, general assignment reporter for the Sun Sentinel, and Emilio San Pedro of WLRN Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Orlando",
+          "category": "Places"
+        },
+        {
+          "tag": "Lozano-William",
+          "category": "People"
+        },
+        {
+          "tag": "Smith-HT",
+          "category": "People"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Sun-Sentinel--Fort Lauderdale-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "WLRN--Radio station Miami-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Community Relations Board--Miami-Dade County-Fla",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Police",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Multiculturalism",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Haitians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "48049143-cd6b-459e-ac76-4aaee2ea5049"
+    },
+    {
+      "start_time": 1686,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[music--jazz] Y por esta semana. and for this week, this has been Latino USA. The Radio Journal of News and Culture. Latino USA is produced and edited by Maria Amelia Martin. The associate producer is Angelica Lueveno, New York engineer is David Gorin. Latino USA is produced at the studios of KUT in Austin, Texas. Our technical producer is Walter Morgan. We want to hear from you, so why don't you call us on our TOLL-FREE number, 1-800-535-5533. That's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. The program is distributed by the Longhorn Radio Network. Until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "d1202b2e-9e84-4b7b-85a0-fc890a0ec056"
+    }
+  ],
   "set": "Default",
   "event_id": "eee45f46-a468-4b4a-9b28-36d1068fbd0e",
   "source_id": "a46957ef-da37-4e65-8821-0d16a5c506f1"
