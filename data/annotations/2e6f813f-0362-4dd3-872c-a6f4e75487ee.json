@@ -1,5 +1,5840 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the Radio Journal of News and Culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "2791b44d-5a85-4575-817b-f0599c8c3e4e"
+    },
+    {
+      "start_time": 5,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8a4678f-fc2e-4712-83ae-7fc7325a870b"
+    },
+    {
+      "start_time": 16,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. Today on Latino USA, using the Day of the Dead holiday to focus on issues affecting the living."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "94436b17-b187-4835-ba3f-f0ae8e0ae1ed"
+    },
+    {
+      "start_time": 26,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's one thing to read, and learn, and look at cultural traditions, but it's another thing to make them very personal, to make them hit home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        }
+      ],
+      "uuid": "cfd198ba-a339-4c7b-995b-c555c1f7e201"
+    },
+    {
+      "start_time": 36,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, election results and analysis, salsa jazz man, Eddie Palmieri, and a commentary from the streets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "93b4db2c-edae-4f28-95f6-1eb5d479d5d4"
+    },
+    {
+      "start_time": 43,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Walking home from school I saw that crime did pay. Just like in the movies, the neighborhood dealers had cars, girls, money, and respect. Things I wanted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        }
+      ],
+      "uuid": "50a163e5-53d7-4903-9b1b-04a9d39da9ba"
+    },
+    {
+      "start_time": 55,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This and more coming up on Latino USA, but first las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "5fefd020-0761-4bb3-ab44-9f88c42b6064"
+    },
+    {
+      "start_time": 61,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. I'm Maria Martin. Voters in New York City have elected by the narrowest of margins, Republican Rudolph Giuliani as their new mayor. Mandalit del Barco reports the majority of Latinos cast their ballots for the losing candidate, incumbent Mayor David Dinkins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b281e9f2-a9dc-49aa-b24b-b6a9b4ddfef7"
+    },
+    {
+      "start_time": 77,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The city's Latinos whom both candidates had courted as the key swing vote once again voted overwhelmingly for Dinkins. 60% of the Latino votes went for Dinkins and many said they wanted to give another chance to the city's first African-American mayor, but the numbers just weren't high enough. Dinkins urged his supporters to respect the decision of those who voted for Giuliani. Giuliani also had a message to those voters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7cd84578-6256-44ab-a4cf-5ca1a70ee2f9"
+    },
+    {
+      "start_time": 101,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What I think we both want to say to the people of the city is that it doesn't matter for whom you voted, whether you voted for me, for David Dinkins, or you decided not to vote, or you voted for any of the other candidates, today we're all New Yorkers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Giuliani-Rudolph W",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5e5e09cf-5a0e-4aba-8e2a-9d071a54bc14"
+    },
+    {
+      "start_time": 115,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A federal investigation is underway to look into charges by Mayor Dinkins of dirty tricks by Giuliani supporters. Dinkins told of intimidating posters seen around the largely Dominican neighborhood of Washington Heights warning voters that poll watchers would be checking voters passports, charges Giuliani has denied. For Latino USA, I'm Mandalit del Barco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Crime",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "86483b53-8232-4502-8710-cb3e44a53ca3"
+    },
+    {
+      "start_time": 136,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Miami's mayoral race, candidates Miriam Alonso and Steve Clark face a November 9th runoff. And as Melissa Mancini reports from Miami, voting there broke down largely along ethnic lines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Hialeah",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-11-09",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "fcb78ce0-276e-48eb-90fa-dbfa33436eb8"
+    },
+    {
+      "start_time": 149,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Former Metro Mayor Steve Clark dominated in white non-Hispanic areas and also won a sizeable share of young Hispanic votes. Challenger Miriam Alonso took two votes for every ballot captured by Clark in Miami's Hispanic areas. However, Alonso trailed Clark by big margins in non-Hispanic neighborhoods winning less than 15% of the vote. For the past two decades, Miami's mayor's job has been held by a Hispanic, a fact that Cuba born Alonso has repeated in Spanish language radio broadcasts. During election day radio appearances, Alonso exhorted Cuban voters to keep the mayor's office in their hands. Those appeals apparently succeeded in Miami's Little Havana community where voters turned out in greater numbers than in other neighborhoods. However, it remains to be seen if Alonso can broaden her base for the November 9th runoff. For Latino USA, I'm Melissa Mancini in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mancini-Melissa",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Hialeah",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-11-09",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "62177748-f415-410e-9de4-62c83ca7ba56"
+    },
+    {
+      "start_time": 205,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voters in Hialeah, Florida meanwhile will also vote in a runoff election between State Representative, Nilo Juri, and suspended City Mayor, Raul Martinez. Martinez was convicted two years ago on corruption charges and suspended from his post by Florida Governor Lawton Chiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Hialeah",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c5f17099-8a5a-46fd-91d4-437bcc03ed20"
+    },
+    {
+      "start_time": 221,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In California, voters turned back by a two to one margin, a proposition which would've given 2,600 state government dollars to students enrolling in the private schools. Most Latino education organizations had opposed the controversial school voucher initiative. From Austin, Texas, this is news from Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "School vouchers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "02feec38-ff36-4185-8175-ab0545a8978b"
+    },
+    {
+      "start_time": 241,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're not here to argue for NAFTA. We're here to find out what NAFTA does do about illegal immigration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9754b712-f041-48ad-9b36-fc804c1a2751"
+    },
+    {
+      "start_time": 247,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think the argument is NAFTA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "df223797-f1f7-405c-ae26-192787ad9bed"
+    },
+    {
+      "start_time": 248,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The seemingly never-ending debate surrounding the North American Free Trade Agreement continues as Congress gears up for a mid-November vote. At a congressional hearing chaired by Democrat Romano Mazzoli of Kentucky, the treaty's critics claim NAFTA doesn't do enough to limit unlawful immigration. Patricia Guadalupe has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3600df37-ea06-43dd-bfae-ffb0e9a91e28"
+    },
+    {
+      "start_time": 267,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mazzoli and other members of his immigration subcommittee are not convinced that the treaty will be able to control unlawful entry into the United States by providing jobs in Mexico as those who support the treaty have argued. However, there are those who believe that some in Congress are using the NAFTA debate as an excuse to jump on the anti-immigration bandwagon. Among them as immigration policy analyst, Cecilia Munoz of the National Council of La Raza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "75efb8ff-8e43-402f-8fbd-e27d98671c0b"
+    },
+    {
+      "start_time": 292,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, NAFTA is the best policy proposal we've seen in decades, which has the chance of controlling long-term migration. What those folks are engaged in is short-term strategies to try and bring attention to themselves on the immigration control issue there's a lot of that going around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Munoz-Cecilia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "da6d0d28-b275-46ad-adaf-b40e320e41dc"
+    },
+    {
+      "start_time": 308,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The latest headcount by the bipartisan leadership shows proponents of NAFTA need at least 48 additional votes for final passage. For Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organizations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "982c928c-a6a9-43ec-9387-e599e215fe24"
+    },
+    {
+      "start_time": 319,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Teachers in Puerto Rico are out on strike to protest a school voucher program, which they say jeopardizes the island's public education system. And residents of the Puerto Rican island of Vieques are also protesting the US Navy, which controls two thirds of the tiny island, reportedly dropped several bombs near a residential area. Now residents are asking President Clinton to put the naval bases on Vieques on his list of base closures."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Puerto Rico--Vieques",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Navy",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Military bases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "01108707-d400-427a-99f9-8198d4de46bb"
+    },
+    {
+      "start_time": 344,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Preferably, if they would just close the bases on this island period, but priority. Stop bombing exercises on this island."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pagan-Myrna",
+          "category": "People"
+        },
+        {
+          "tag": "Puerto Rico--Vieques",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Navy",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Military bases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5e99d836-fbd6-419c-a3b3-b8f570e2c0f7"
+    },
+    {
+      "start_time": 355,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Myrna Pagan of the Committee for the Rescue of Vieques. I'm Maria Martin. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Puerto Rico--Vieques",
+          "category": "Places"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States Navy",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Military bases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3ca47bb4-c703-493b-aab8-3d8597312011"
+    },
+    {
+      "start_time": 361,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--guitar music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6d226705-aee3-4cf7-9b94-01fa7d4813af"
+    },
+    {
+      "start_time": 368,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. The Latino vote had been predicted to play a significant role in recent mayoral elections in two major US cities, New York, where Republican Rudolph Giuliani defeated the city's first African-American mayor, David Dinkins in a very close race, and Miami were Cuban-born city Commissioner Miriam Alonso will face former Mayor Steve Clark in a runoff on November 9th. With us to talk about these elections and the role of the Latino vote are political analyst Gerson Borrero in New York, and from Miami, Ivan Roman, a reporter for El Nuevo Herald. Bienvenidos a los dos, welcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "63d5feec-7658-483d-a684-773764681079"
+    },
+    {
+      "start_time": 415,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's take a look at the numbers in these two races and where the Latino vote went and what difference it made, if at all. Let's look at Miami first. What happened in Miami, Ivan?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b2cf3cb2-1d52-47e8-9234-870955022078"
+    },
+    {
+      "start_time": 425,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, first of all, in Miami the Hispanics are a majority of the vote. Regardless of what happens with Hispanics, they are to play a major role. Interestingly enough, what you had was a race between Commissioner Miriam Alonso, who is Cuban, and an Anglo former Miami Mayor, Steve Clark, the vote was split amongst Hispanics. 60% for Alonso and 40% for Clark, and there are many reasons for that. Some analysts attribute a generational gap because Miriam Alonso resorted to shrill ethnic appeals in the last week that they say the younger generation and exit polls show that the younger generation of Cubans and Cuban Americans reject. So, there you have an interesting dynamic in which you have Hispanics and mostly Cubans who are splitting their vote and not necessarily voting Cuban, which is what the older time and the older Cubans tend to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Roman-Ivan",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "04b9cc93-2738-4fa1-aeec-8a78c31e9bba"
+    },
+    {
+      "start_time": 481,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now in New York, Gerson, the Latino vote was talked about for a very long time as being the swing vote. Did it in fact make the difference for getting Republican Giuliani into office this time around?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3509343c-e363-4db5-b556-541623e39246"
+    },
+    {
+      "start_time": 491,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the Latino vote came out and danced, but it certainly didn't swing. It didn't move anybody. It really had no impact as far as I can tell from the figures that have come out. We did come out at around 20% of the electorate and it indicates to me that however, it was crucial to maintaining Dinkin's dignified loss. He got 60% of the vote. Mayor Dinkin is the incumbent as opposed to Republican Rudolph Giuliani who got around 38% of the Latino vote, which is less than what he expected. Certainly Latino vote in New York City turned out along the party lines and that is being Democrats. The majority of the votes here in New York City from the Latino population are of course from Puerto Ricans, and just as Blacks did, they voted along democratic lines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Borrero-Gerson",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b6f504ba-09df-4dce-ba0b-49b2d39a99f6"
+    },
+    {
+      "start_time": 540,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ivan, the interesting thing about Miami is that there is this generational split where you have younger Cubans going for the non-Cuban candidate and you have the older Cubans going for the Cuban candidate. This shows a lot about the complexity in this particular case of the Latino Cuban vote. Do you think that people are picking up on that down in Miami?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "97de2c39-3c83-47ef-9a2e-16b71ec04a52"
+    },
+    {
+      "start_time": 560,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Definitely so. I mean, you could say there's a generational divide in which younger Cubans, for instance, would not go for these ethnic appeals that have been so common here in politics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Roman-Ivan",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "dbc86aef-aca3-4ac4-ab21-bd5f292a8812"
+    },
+    {
+      "start_time": 574,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[interruption] Well, what kind of ethnic appeals are you talking about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7ea1fd87-5e6c-4639-be4b-b36c7d8985a5"
+    },
+    {
+      "start_time": 576,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, basically Miriam Alonso and every Cuban politician you can think of was on the radio saying, \"This seat belongs to us. We can't let this seat slip out of our hands.\" And one thing is to say that we deserve representation with the majority, and another thing is to say that the seat belongs to us because that was the kind of message that was rejected by Puerto Ricans and Nicaraguans who were saying, \"Wait a minute, you're excluding everybody else. Why should I vote for somebody who is going to be so exclusive?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Roman-Ivan",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "493c2825-59c1-495d-8f89-072639eaa0e4"
+    },
+    {
+      "start_time": 605,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do both of you agree with the conventional wisdom that's being talked about, that this election was very bad news for the Clinton Administration and for the Democrats in general or are you a little bit more skeptical?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1c096e42-d7e8-49ae-b90a-4b77066e4888"
+    },
+    {
+      "start_time": 615,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't agree with it. I think that this has nothing to do with the Clinton presidency. It's too early on in his administration. This is only his 10th month in office. We have to remember that neither Whitman in New Jersey or Giuliani in New York received a mandate. It was only 2% in each instance. So, there is clearly, it's not a mandate anywhere. I think people looked at the local issues and certainly our community voted as such. I mean you can stretch this and say that Clinton did have an effect and that the Latino community listened to the President, so that argument could be made also."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Borrero-Gerson",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2564bdd0-e306-4dbb-aa6a-93fd7e4458f2"
+    },
+    {
+      "start_time": 651,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Miami, that doesn't really apply because the race is not a partisan race. The dynamic happening here is mostly an anti-incumbency type of thing where voters seem to reject people who had either been at city hall before or who are currently in city hall, in favor of some newcomers that are giving them a struggle in the runoff next week. Here we have a different situation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Roman-Ivan",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0f8d36a2-7b57-40c4-aa74-f846627cc02d"
+    },
+    {
+      "start_time": 674,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you very much for joining us. Political analyst Gerson Borrero in New York and Ivan Roman of El Nuevo Herald in Miami. Muchas gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Florida--Miami",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "El Nuevo Herald",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political activity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "114dd39d-e64a-4984-b68f-a159f34146b4"
+    },
+    {
+      "start_time": 682,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--acoustic guitar music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd8d7a55-d6d6-4339-97f0-7522f7cc0381"
+    },
+    {
+      "start_time": 711,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the 90s, death for many in this country's Latino communities comes too early often as the result of preventable causes like gang and gun violence and AIDS. To call attention to this, some community groups are using the traditions of El Dia De Los Muertos or the Day of the Dead, a century's old ritual commemorating friends and family who've passed on as a springboard for social messages. From Austin, Texas, Latino USA's, Maria Martin prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0752106a-665d-4618-9767-94b5eb075f20"
+    },
+    {
+      "start_time": 744,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have in this particular room, altars that have been built by people, members of the community. Esteâ¦"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gorham-Diana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2ddcd36a-48fb-4fe6-9320-93a2527956d9"
+    },
+    {
+      "start_time": 751,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At an East Austin community center in the heart of the city's Mexican American barrio, Diana Gorham of the AIDS Outreach group in Informecida shows a visitor around an exhibit of altars created to honor those who have passed on in the tradition celebrated in Mexico and other Latin American countries. The structures are colorful with flowers and photographs, candles, ribbons, and incense. But some altars also have non-traditional decorations like condoms and anti aids messages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "8250fc58-c88c-4f75-86a1-43a6d84433f1"
+    },
+    {
+      "start_time": 781,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This one was also built by a volunteer of Informecida who also lost her brother to AIDS in Houston, and she and her brother were very, very close."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gorham-Diana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e5e5643f-47fe-46ce-8e62-7a5a25d8eb64"
+    },
+    {
+      "start_time": 791,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--community center] The altar exhibit in Austin isn't the only effort linking the traditional Mexican holiday to the reality of a growing cause of death in the Latino community where AIDS is now the leading killer of young Hispanic men, and the third leading cause of death among Latinas ages 25 to 44."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Community center",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "07a7b193-0456-4369-9aef-7fff4a3eb3ac"
+    },
+    {
+      "start_time": 809,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--pop music performance] San Antonio artist David Zamora Casas does a performance piece for El Dia de Los Muertos called Cuentos de la Realidad or Tales of Reality, which tells of the painful death from AIDS of his friend Jesse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Community center",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "469201f4-1f69-43d1-8cf7-acab1623993a"
+    },
+    {
+      "start_time": 821,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing] Itâs time for the angels to take you away to a different place. Another timeâ¦"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zamora Casas-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "76615ea7-161b-45f1-8a4d-a477397aa7e2"
+    },
+    {
+      "start_time": 832,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--pop music performance] In the piece, Zamora Casas tries to make a connection between his loss to AIDS and all of the other losses, individual and collective, which may have been suffered by those in the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Music performance",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "38f87f56-3483-4371-8b06-4e9a6e50eaaf"
+    },
+    {
+      "start_time": 843,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I try to use things that bring people down to a very fundamental basic level and relate it to situations that I've encountered dealing with homophobia within a family that Chicano son has AIDS and these families don't know how to react because of all the machismo and stereotypes and all the baggage that we've carried on from our childhood. We've got to nurture and educate each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zamora Casas-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "90bb4802-6677-46ff-91de-c72a9459f05f"
+    },
+    {
+      "start_time": 870,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The traditions associated with the Dia de Los Muertos. According to AIDS educator, Diana Gorham provide an opportune forum in which to bring up difficult issues, ones often veiled in secrecy and denial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "3de8ada2-88b1-4a49-a18f-64569bed3b42"
+    },
+    {
+      "start_time": 882,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are mothers, for example, who go to the priest and say, \"Please don't let any of the community know that this is what's killing my son or that's what my son died of.\" And so what we try to do in this particular event is to break that silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gorham-Diana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "216a5475-b6a7-4975-9b4f-aee5d215a75f"
+    },
+    {
+      "start_time": 896,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--guitar playing] Good morning and welcome the Culture Warriors presents Dia de Los Muertos, the Day of the Deadâ¦"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Music performance",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1e055700-f01b-4b07-a8c1-6160bf7cd250"
+    },
+    {
+      "start_time": 903,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a warehouse, housing an alternative high school called the Creative Rapid Learning Center, a diverse group of young people, white, Black, and Latino, all wearing Dia de Los Muertos t-shirts perform a series of skits which come from their own experiences with death and loss of family and friends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5ad95eb2-7a72-41ce-bd7a-2a396be17e5b"
+    },
+    {
+      "start_time": 920,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, Uncle Paul. I wonder where you are right now. I miss you. There are so many things that I wanted to learn from you. I've changed a lot since you left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Juan 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d5ce8098-7270-499f-acd3-1fcc0ba67b83"
+    },
+    {
+      "start_time": 934,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The kids who make up this theater group call themselves the Cultural Warriors. Many of them had dropped out of school before coming to the Creative Rapid Learning Center. As part of a writing project two years ago, they were asked to write letters to deceased friends and family members as a way to complete unfinished business. Cast member John Gonzalez says that project, which eventually led to a whole series of skits dealing with a range of issues affecting young people from AIDS to drugs to racism, has helped him to cope with the pain of loss."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2c0caa51-2f82-44cb-be95-b2a020b20c7e"
+    },
+    {
+      "start_time": 966,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it helps us out bringing that stuff out in the open instead of just keeping it inside. You heard when they're in the picnic scene, they're saying about this guy that had died in a car crash. That was my friend."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Juan 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "a0b9d623-ce70-4e22-94a6-c561247cdda9"
+    },
+    {
+      "start_time": 984,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, what's up?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "b37a74e9-a7ae-4c97-a033-f2164248927e"
+    },
+    {
+      "start_time": 986,
+      "end_time": 987,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's up, homes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7807c18e-b6ef-4be4-aa0c-b002624c14f5"
+    },
+    {
+      "start_time": 987,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What you been up to?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "43e037c5-7035-4e90-b40f-b9a450b2780b"
+    },
+    {
+      "start_time": 988,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh man. Just been lying around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Juan 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5f6cf84b-f540-4dbf-a694-00b4837605ed"
+    },
+    {
+      "start_time": 991,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See you lost a little bit of weight, huh?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "985e1672-6c28-42f2-929d-f49b82dc81a2"
+    },
+    {
+      "start_time": 994,
+      "end_time": 999,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, man. Can't get nothing to stick to the bones around here, man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Juan 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "b712ddee-a83a-48b4-a244-ecedbab0b920"
+    },
+    {
+      "start_time": 999,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--acting performance] In this scene, a group of the kids visit the cemetery on the night of Dia de Los Muertos as is the tradition in Mexico. The kids say these presentations allow them to look at both life and death in a more positive way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Acting performance",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e1bde624-e423-4a41-8b20-245c7cc182d9"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Metropolitan America or Cosmopolitan America does not like to talk about death. It's something you whisper about, you don't talk about it. And we're the kind people we like to put things bluntly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fields-Passion",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "da5d0571-3df5-40a6-bb27-8ffe94b2e701"
+    },
+    {
+      "start_time": 1023,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Passion Fields is 19 years old and an energetic member of the Cultural Warriors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "bf2278cc-da55-4a04-b003-aa4dc48b1a10"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that's what we want to put everything forward and we thought that bringing the culture thing over with not too many people, even Hispanic know about Dia de Los Muertos, Day of the Dead. [Laughter] We thought that it was important that we bring this so everybody can know about it. Now there's white kids that know about it. There's Hispanic kids that know about it. There's Black kids that know about it, and that's what we think is important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fields-Passion",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2596a7f8-fa2e-49ab-b3c4-ea2a16d12315"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--acting performance] And so an ages old traditional commemoration for the dead has become a relevant way to look at issues facing the living."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Acting performance",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "20630a2b-fb97-432c-93d9-30ca18dfbb9b"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On this holiday of Dia de Los Muertos, we celebrate the Mexican folk tradition. For as we are born, we shall die. Life is temporary, so live it with honor, dignity, hope, and courage. Live it like a culture warrior."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7edc8a93-6bec-4650-a96c-ebf544918f9a"
+    },
+    {
+      "start_time": 1082,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds--applause] For Latino USA in Austin, Texas, I'm Maria Martin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Informecida",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Creative Rapid Learning Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "AIDS--Disease",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Clapping",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Performance--Cuentos de la Realidad",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "5c4b0b4c-e74a-49d5-9bd2-6fafa6781b09"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--piano music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "19fae65d-1acf-40b6-b03d-9743792031b3"
+    },
+    {
+      "start_time": 1099,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For over 30 years, pianist Eddie Palmeri has been pushing the creative limits of Latin music. His unorthodox experimental style has defied musical categories. [Highlight--piano music] Reporter Alfredo Cruz of station WBGO in Newark, recently spoke with Eddie Palmeri, the musical renegade, and he prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Piano",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1e1ffa74-8978-414f-b9cb-9c66c9479467"
+    },
+    {
+      "start_time": 1129,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--piano music] Like his music, Eddie Palmeri is intensely energetic. His piano solos have been known to go from delicate, esoteric explorations to fist pounding accents all within the same phrase. He has developed his own musical identity. When Eddie plays the sound of a note or accord is immediately recognizable as unmistakably Palmeri. He admits, however, he didn't always want to be a pianist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Piano",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "58e1766a-2f35-41b7-b9e5-c9ce71dbd096"
+    },
+    {
+      "start_time": 1156,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, on the piano, I started at eight years old and then by 11, 12 I wanted to be a timbalero, a drummer. Tito Puente was my idol. By that time, I started with my uncle who had a who had a conjunto, El Chino Y Su Alma Tropical. We had a tresita, a guitajita, bongocero, conguero, my other uncle Frankie. I played timbales and I stuck with them for almost two years until I couldn't carry the drums anymore. I just couldn't do it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "921e7183-b77c-438d-a7c7-b165a579ef92"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight-- Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "d8e6af27-9daa-47e2-aae0-15a779b996e2"
+    },
+    {
+      "start_time": 1207,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background-- Afro-Cuban Jazz] One of Palmeri's earliest and most important musical influences was his older brother Charlie, also a pianist who not only served as mentor, but helped Eddie get started in the business over 30 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "326fbcb4-6235-4589-86ac-d505fcf72a1e"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b3ed78b4-eb31-487f-ae7c-ac55d9ae2b4d"
+    },
+    {
+      "start_time": 1221,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] My brother Charlie used to play with Tito Puente. That was one of the most important conjuntos that we've ever had here. Wherever my brother would go and play, he would recommend me and that's how I got into an orchestra called Ray Almore Quintet. And first Johnnie Segui in '55, Vincentico Valdez, Pete Terrace in the interim, back to Vincentico Valdez for a summer in '58 in the Palladium, and then the '58 to '60 we took the holiday. After that, I went on my own."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1955",
+          "category": "Dates"
+        },
+        {
+          "tag": "1958",
+          "category": "Dates"
+        },
+        {
+          "tag": "1960",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "21aeb96a-e311-41b0-ba9a-c8b89294870d"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "265bff8e-c93f-483f-8139-189da5ce52be"
+    },
+    {
+      "start_time": 1266,
+      "end_time": 1277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The big new trombone sound he had developed revolutionized Afro-Cuban music in the 1960s. Eddie Palmeri had found the perfect combination and called his new band La Perfecta."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1960s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "44b44e76-e5ca-40ad-ac49-50d3b0e10b62"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "e63c9a13-fb5b-486d-bbfb-7731e00ff401"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] They were a sensation at dance halls like the now legendary Palladium were battle of the bands were common and Palmeri reigned supreme."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "f7833ae5-469b-4d84-9375-f4e4081378b0"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "3a31d550-6eda-4df3-a4dc-2b10e1c3be54"
+    },
+    {
+      "start_time": 1312,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] This was done in 1968. That's when La Perfecta breaks up. The beginning of '68, we did a tour of Venezuela, and after that, that was the ending of La Perfecta, phase one, one curtain down. That was it. Boom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1968",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "c4491ad0-ca10-44e1-906a-f586c63145eb"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b4f0dd9d-a50a-4eba-932f-6de3c9ce19f8"
+    },
+    {
+      "start_time": 1342,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] Over the last 25 years, many of Palmeri's recordings have become classics and his orchestras have provided a proving ground for promising young Latino and jazz musicians. Much like Art Blakey's Messengers was to jazz. But in spite of winning five Grammy awards, record companies have met his innovative musical experiments with skepticism. Recently, however, Palmeri finalized negotiations on a new contract with Electra Asylum records."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "4969eeb7-2f96-4743-b244-cae032c9ada4"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ae22ac5d-d5f9-429c-96d3-5f2f0e354172"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] And we're going into a whole other direction. We're going into the Afro-Caribbean jazz, per se. My first attempt by writing specifically in that form. See, I have recorded in that vein as far as composition like chocolate ice cream or 17.1 or VP Blues that I have done. And I'm always looking in that direction in that country. But this time I'm really writing specifically in that vein."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "d278288a-d955-4d2a-909c-6b5fe71e19fe"
+    },
+    {
+      "start_time": 1401,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "30661874-db4a-4831-bf8e-de375b5846e5"
+    },
+    {
+      "start_time": 1412,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] As to what's in store for the future, whatever musical direction he might take, Palmeri says the core of his music will always remain in Latin rhythms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "b56d6410-7a5b-4c51-bd1b-b975d566d917"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 1449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Afro-Cuban Jazz] Those rhythmical patterns will always intrigue me. They've been here now for 40,000 years, so they'll be here for another 40,000 for sure. But I will not be here that long. But in the time that I'm here, I'm going to utilize it to the maximum and then achieve and have a wonderful time doing that and incorporating that into our music because it's something that has certainly intrigued me and I must achieve that and will."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palmieri-Eddie",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "c35b99f0-5d4e-4b02-a3c8-9ca78132b87c"
+    },
+    {
+      "start_time": 1449,
+      "end_time": 1459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--Afro-Cuban Jazz]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Music--Afro-Cuban jazz",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "83ec7a51-2beb-48eb-b1c1-93c3c9a1287c"
+    },
+    {
+      "start_time": 1459,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Newark, New Jersey for Latino USA, I'm Alfredo Cruz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz-Alfredo",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Jersey--Newark",
+          "category": "Places"
+        },
+        {
+          "tag": "Puente-Tito 1923-2000",
+          "category": "People"
+        },
+        {
+          "tag": "WBGO--Radio station Newark-NJ",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Elektra Entertainment",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Grammy Awards",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3cc0ffbf-0e07-4180-9505-b8d0d5d3fe05"
+    },
+    {
+      "start_time": 1473,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--Music--Yemaya y Ochun]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Electronic",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Song--Yemaya y Ochun",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "966b3580-b1bf-42c4-9014-4f48c41a0407"
+    },
+    {
+      "start_time": 1487,
+      "end_time": 1490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--Music--Hip-hop]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "17cbe519-5492-41b3-8f69-bde301195dfa"
+    },
+    {
+      "start_time": 1490,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Music--Hip-hop] Friday night I was hanging with my boys. We were chilling at this guy, Chino's house, drinking forties while he took care of his kid. I hadn't hung out in a while, so I didn't mind babysitting. But the rest of the guys seem restless. When I finally asked what was up, they told me that they were expecting a delivery of skis, also known as cocaine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ab6e3a7f-c7f6-4ed6-9614-d848f0d9f222"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John Guardo, who came to New York City from Colombia when he was 12 years old, just turned 21. But for most of his teenage life, he was a member of a crew. Crews are what gangs are called in New York City. Now, while Guardo is trying to leave that life behind, he sees many of his friends staying behind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f8511079-0219-4e18-b715-03b90872e34a"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's hard for me to admit how much drugs have become a part of my life, but they have, and in a big way. The lyrics and the music I hear speak of drugs as a way to become popular or even rich. That idea is reinforced by how drugs are glamorized in the movies. Bad guys living large, selling cocaine with women around them and money to burn. As a little kid, I fantasized about someday living like them. Walking home from school, I saw that crime did pay. Just like in the movies, the neighborhood dealers had cars, girls, money and respect. Things I wanted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1e242990-363b-491a-8a89-bd4aa1f420e4"
+    },
+    {
+      "start_time": 1577,
+      "end_time": 1599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Time passed by though, and a pattern became visible. I watched yesterday's big shot dealers become today's victim. Whether they got shot or went to jail, it was always constant. I saw those who came around to buy drugs deteriorate, transforming from regular people to beggars and criminals with each purchase."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3b6033b3-8c11-4a21-bbc5-34ee8fb90418"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I realized everybody was a victim, that it wasn't worth it because even if you ain't got nothing to do with drugs, you can still be mugged by a crack head or catch a bullet from a dealer's gun. No one will ever really be safe unless this problem is solved. Until then, the only protection there is is to be educated. People let us sell or do drugs because they don't realize what harm they're inflicting on themselves or others. Not knowing leaves a void for curiosity to fill."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1616669f-83d1-46c5-ac77-735d4b35d4be"
+    },
+    {
+      "start_time": 1631,
+      "end_time": 1648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway, that Friday, as my friends got high, I chose to ignore what they were doing, numbing myself to their actions. I felt compelled to talk to them, but was afraid they'd start dissing me. Feeling out of a place, I went home, got to bed, and fell asleep with a bad feeling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ba845ecf-a161-4fcd-90b6-698915d20a8b"
+    },
+    {
+      "start_time": 1648,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next day I woke up to a phone call. One of the guys I was with the night before had OD'ed on cocaine and died of a heart attack. He was 21 years old and also my friend. I'm John Guardo, speaking for the street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guardo-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Colombia",
+          "category": "Places"
+        },
+        {
+          "tag": "Drugs",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Death",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Community members",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fe0ca334-8dfc-4eac-956f-f39f7eb0f918"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Commentator John Guardo, a writer and student lives in New York City. [Background--Music--Closing] And for this week, y por esta semana, this has been Latino USA, the Radio Journal of News and Culture. Latino USA is produced and edited by Maria Amelia Martin. The associate producer is Angelica Luevano. We had help this week from Vidal Guzman, Dolores Garcia and David Goran. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. The executive producer is Dr. Gilbert Gardenas. The theme music is by Ben Tavera King."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Background--Music--Closing Theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "7411b1ae-d17a-4ab1-8a89-c97386f60ebe"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--Music--Closing] We want to hear from you, so llamanos. Call us at 1-800-535-5533 or write to us at Communication Building B, the University of Texas at Austin, 78712. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Y hasta la proxima. Until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "9cdec797-9fe8-48f5-9276-c9f0f24d6d0f"
+    }
+  ],
   "set": "Default",
   "event_id": "e1718464-bac2-4a0c-a800-8e32618da4c4",
   "source_id": "464b77c1-0a99-4e8b-9fe6-76e6663cc8ce"
