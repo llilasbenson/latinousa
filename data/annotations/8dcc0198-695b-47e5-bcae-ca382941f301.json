@@ -1,5 +1,5663 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[opening music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Opening theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "d6ca2368-c404-44c4-9cac-66d43fc9cfd2"
+    },
+    {
+      "start_time": 730,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is \"Latino USA,\" the Radio Journal of News and Culture. I'm Maria Hinojosa. Today on \"Latino USA,\" Latino Journalists, a special report from the 11th annual Conference of the National Association of Hispanic Journalists, produced by interns of the Radio Ondas Training Project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Radio Ondas Training Project",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        }
+      ],
+      "uuid": "0a62897f-bd79-41cf-9e67-0e0082393cb9"
+    },
+    {
+      "start_time": 32,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The battle to insist that all aspects of our society and all sectors of our society will have equal access to that awesome power is a battle that we must wage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        }
+      ],
+      "uuid": "90b7894f-cdc5-44c5-af42-8d15249baf36"
+    },
+    {
+      "start_time": 45,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, Latino civil rights and grape-stomping protests, Latino journalists witnessed a revival of the grape boycott."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "7f41d885-3462-4aec-a5f0-19b1cb83b4fa"
+    },
+    {
+      "start_time": 54,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bothered by the hypocrisy and insensitivity, I placed the grapes on a silver tray, covered them with a napkin, laid the tray on the floor, and applied gentle foot pressure on the plump, juicy grapes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burciaga-Jose Antonio",
+          "category": "People"
+        }
+      ],
+      "uuid": "3f8f8acc-ac53-430c-982a-b065e46dbc9a"
+    },
+    {
+      "start_time": 67,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That and more on \"Latino USA.\" But first, las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "1319f67c-67a3-40c6-a959-26f759fed663"
+    },
+    {
+      "start_time": 74,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from \"Latino USA.\" I'm Maria Martin. The U.S. Census Bureau has released a new report on the country's Latino population. Reporter Barrie Lynn Tapia has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Educational attainment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ac97f552-27f2-40bf-bdfb-a68feae4692b"
+    },
+    {
+      "start_time": 85,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over the last 10 years, the number of Latinos in this country grew seven times faster than any other group. They had more children and less elderly than non-Latinos. They were also less likely to be covered by health insurance. Julio Moran, a reporter for the \"LA Times,\" says the findings are more than just statistics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Educational attainment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6109da56-c802-45d1-b95e-ee48ad7e64b6"
+    },
+    {
+      "start_time": 104,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we talk about urban agendas, we're really talking about a Latino agenda. We're finding that Latinos becoming more segregated and more concentrated in precisely the same areas that need, I think, more attention into what's happening to our society at this moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Moran-Julio",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Educational attainment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "97851f3e-b821-4ed1-9b5a-2fe569a583ff"
+    },
+    {
+      "start_time": 120,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Census Bureau also says Latino unemployment rates are consistently higher and median family income lower than the population at large. Although more Latinos are graduating from high school than a decade ago, Latinos still lag behind the rest of the nation in education. For \"Latino USA,\" I'm Barrie Lynn Tapia in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Educational attainment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e8db032e-91ac-499d-a311-d084e73c28fe"
+    },
+    {
+      "start_time": 139,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hispanics in the United States are the group less likely to have access to healthcare. Luis Antonio Ocasio has a story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "National Coalition of Hispanic Health and Human Services Organizations",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Health and Human Services",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health care reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health and hygiene",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ab34f0be-9d55-4267-997f-602ad3e37b82"
+    },
+    {
+      "start_time": 146,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to a report from the National Coalition of Hispanic Health and Human Services Organizations, 30% of Hispanics do not have regular access to healthcare. The study shows that almost one-third of children of Hispanic working adults are not covered by health insurance. According to U.S. Assistant Secretary for Agent Fernando Torres Hill, the passage of a national healthcare plan is essential for meeting the healthcare needs of Hispanics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ocasio-Luis Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "National Coalition of Hispanic Health and Human Services Organizations",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Health and Human Services",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health care reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health and hygiene",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "dbe897ef-9d5e-4c0f-a5bf-8c22e89f974a"
+    },
+    {
+      "start_time": 173,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino families still tend to rely on each other. They still draw on extended families, and they still prefer to have their elders or disabled either with them or near them. That's not to over-romanticize the Latino community because we are also acculturating. And as we acculturate, our studies show we become like everybody else, where we look to nursing homes and hospices, and hospitals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hill-Fernando Torres",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "National Coalition of Hispanic Health and Human Services Organizations",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Health and Human Services",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health care reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health and hygiene",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ddc1fc97-73b2-4042-bd6d-d4ed9ebdff85"
+    },
+    {
+      "start_time": 198,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Torres Hill says the Department of Health and Human Services will promote home and community-based healthcare programs. For \"Latino USA,\" I'm Luis Antonio Ocasio in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ocasio-Luis Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "National Coalition of Hispanic Health and Human Services Organizations",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Health and Human Services",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health care reform",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health and hygiene",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "baea17a7-45fb-4e08-a13f-7f12bd6c6ffd"
+    },
+    {
+      "start_time": 209,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Educators and education reporters at the Washington Conference of the National Association of Hispanic Journalists agreed that the public schools in this country continue to fail Latino children, especially in bilingual education. Laura Varela reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association for Bilingual Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b39e5186-710b-4730-8062-a4e9eac2f1fa"
+    },
+    {
+      "start_time": 224,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jim Lyons, the executive director of the National Association for Bilingual Education, says the government and the media pay too much attention to test scores. Instead, he says, the education system should be graded in its performance. Still, Lyons says many Latino students are not letting the lack of quality bilingual ed programs get in their way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Varela-Laura",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association for Bilingual Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5a9bb2ec-eff4-4b14-987e-925138305499"
+    },
+    {
+      "start_time": 244,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think one of the great success stories in this country is the number of children that have become fully bilingual, many fully bi-literate, when most of their teachers are still hopelessly monolingual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lyons-Jim",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association for Bilingual Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1e1daa1d-d960-4be7-b72e-fed9f21d4dee"
+    },
+    {
+      "start_time": 261,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To solve the problem, Lyons says, more bilingual teachers must be hired, and more government funding for bilingual education programs must be made available. For \"Latino USA,\" I'm Laura Varela."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Varela-Laura",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association for Bilingual Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "65565dd4-68c3-47fc-af53-0669a49b0bf5"
+    },
+    {
+      "start_time": 274,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A new survey says there are now more Latino journalists working in the United States media, but few in management positions. Olga Rodriguez has this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f35a6012-bf23-44d4-a64e-988f68a8ffe6"
+    },
+    {
+      "start_time": 284,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to a survey conducted by the National Association of Hispanic Journalists, the number of Latinos employed in major newspapers rose by 27% in the last two years, but less than 3% of them are in management positions. Cesar Rocha, who conducted the study, says there are several reasons why the number of Latinos in management remains so low."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Olga",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7dcdcb9f-7184-4210-98b0-247846442982"
+    },
+    {
+      "start_time": 307,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's little commitment among many publishers and editors to the goal of diversifying their management team. There are very few Latino managers, as we said, to act as mentors, and there is the growing dissatisfaction among everyone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rocha-Cesar",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0f20e8fd-fe93-4b4d-991a-d4f9aa009033"
+    },
+    {
+      "start_time": 320,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The study also says that the number of Latinos in broadcast journalism is increasing, but at a slower pace than in print media. Another concern is the small number of Latinos in the nation's journalism schools. For \"Latino USA,\" I'm Olga Rodriguez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rodriguez-Olga",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f5bd163f-d36f-4cb9-9968-494d7d7ce6fc"
+    },
+    {
+      "start_time": 336,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino journalists continue to debate the relocation of this year's NAHJ conference from Denver to Washington. The new site was chosen because of the controversial passage of Amendment Two in Colorado, a law which allows employers to fire employees solely on the basis of sexual orientation. Betto Arcos reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Forums--Discussion and debate",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "946d2428-699b-49ee-bc38-952b5054d905"
+    },
+    {
+      "start_time": 355,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lesbian and gay Latino journalists and activists confronted reporters in Denver via satellite about the decision to cancel the conference scheduled for April in Colorado. Some NAHJ members from Colorado were still angry about the decision, saying it could have been more effective to fight the amendment in that state, but other members who supported the relocation defended their decision. Rosemary Arce, a TV producer in New York, said that the relocation decision served as an educational experience for the NAHJ members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Forums--Discussion and debate",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "146e60ec-6d35-49fa-824c-8ab5c8d10568"
+    },
+    {
+      "start_time": 386,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the problems with the debate that we had over this issue is that I think that they kept ignoring the fact that there are gay lesbian members of NAHJ that were very upset about our organization going into the state where they felt threatened, they felt under attack. And what ultimately happened, I think, is that the organization decided to respect their wishes. And it's been a good process. It's been a strengthening process for NAHJ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arce-Rosemary",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Forums--Discussion and debate",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5b0b05ba-b8ce-45f8-bbbb-8c8ff39c9565"
+    },
+    {
+      "start_time": 409,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arce said that for the members to become engaged in the cause of Hispanic journalists, the organization has to commit itself to making people more politically aware. For \"Latino USA,\" this is Beto Argos in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcos-Betto 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Colorado",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Homophobia",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Forums--Discussion and debate",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "LGBTQIA people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e6646ab3-b21c-4ce2-b9b9-17bedfefc554"
+    },
+    {
+      "start_time": 421,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to \"Latino USA.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "15bc05fd-6e21-413c-bc58-ea1538a1623a"
+    },
+    {
+      "start_time": 429,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[guitar strumming music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Guitar",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ff2dc349-fcd1-48b4-8102-aad171786df4"
+    },
+    {
+      "start_time": 428,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. Latino journalists were hoping they would get a chance to share their views with President Bill Clinton, but a rumored White House reception with the President was scaled down to just a small briefing with two of his assistants who apologized that the President couldn't make it. It was a big letdown for those who attended this year's conference. And as Patricia Guadalupe reports, although President Clinton has appointed two high-profile Latinos to his cabinet, many feel that small number of appointees is also a disappointment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "26d70459-be5d-48b0-a67e-1369eb0e217b"
+    },
+    {
+      "start_time": 462,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latinos applauded the president when he appointed former Denver Mayor Federico PeÃ±a as Transportation Secretary and former San Antonio Mayor Henry Cisneros as Secretary of Housing and Urban Development. However, almost five months later, Latinos around the country are disappointed more Hispanics aren't part of the Clinton administration, particularly in high-profile policymaking positions. The National Hispanic Leadership Agenda, a coalition of Latino agencies, says that Hispanics hold less than 5% of the positions requiring Senate confirmation. One of those who wants to see more Hispanics working inside the Clinton administration is Democratic Congressman Esteban Torres of California."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "26cc5cc7-43a6-4024-889a-0fe360a7554b"
+    },
+    {
+      "start_time": 503,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have asked the president to consider the numbers of the percentages based on former administrations and, again, with his commitment that he was going to seek for a more diversified administration and more diversified White House. And while the numbers are beginning to show up in percentages, we still see Hispanics as a very low-level number of appointments, and this should not be so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "860dc081-0cc1-4a4a-ba1e-3d9c67232206"
+    },
+    {
+      "start_time": 532,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of Clinton's most vocal critics is Dolores Huerta, former vice president of the United Farm Workers Union, but her disenchantment with the administration reaches beyond the issue of appointments. Huerta has been promoting the idea of forming a new political party with other prominent Latinos to give Hispanics an alternative voice. She's also critical of the Congressional Hispanic Caucus, which she feels is not applying adequate pressure on the Clinton administration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Selection and appointment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Coalitions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "333cf121-8c61-48c1-8bbb-f8198c27f924"
+    },
+    {
+      "start_time": 559,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that they have to do more. They have to be a lot more assertive, like the Black Caucus has been. The Black Caucus made up their own budget. They're not afraid to come out and blast the president and tell him he's wrong, right? And I don't see the same kind of thing coming from the Hispanic Caucus. I think they've got to talk more about issues and talk more about programs and take more leadership than what they're doing now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political appointments",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5c4879eb-e785-400d-8f4b-e36b28edf80d"
+    },
+    {
+      "start_time": 580,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But others are willing to give Clinton more time. One of them is Chicago City Treasurer Miriam Santos, the first Latina to oversee the budget of a major city. Santos says she is also disappointed, but she feels it's still too early to pass judgment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political appointments",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0d47eacd-515a-4c01-9427-e79b0891a69b"
+    },
+    {
+      "start_time": 593,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the process has been very slow and cumbersome. I'm hoping that the administration rectifies that. In fact, I mean, we should be delighted that we have Henry Cisneros and Federico PeÃ±a. There have been a few other Latino key appointments, and I think that most of us -- and I'd certainly like to see more Latino appointments, and we're hoping that that's going to be corrected. We're still sending resumes. We're still working with them. It's a little disappointing, though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santos-Miriam 1956-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political appointments",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3bcbdc67-8f98-4e3f-9ab0-d0361297928e"
+    },
+    {
+      "start_time": 618,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, the White House defends its appointment record, saying there are 15 Hispanics in high-level positions. Meanwhile, an administration source says the problem is not a lack of commitment to the Hispanic community but more an issue of disorganization within the office in charge of appointments. In fact, Latinos are not the only group complaining. Others also say the White House has been very slow in getting its team in place. For example, the administration took almost half a year to name a Commissioner of the Immigration and Naturalization Service. Director of Presidential Personnel, Jose Villarreal, acknowledges the appointment process has taken longer than expected. Nevertheless, he says President Clinton hopes to name more Hispanics soon. For \"Latino USA,\" I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Clinton-Bill 1946-",
+          "category": "People"
+        },
+        {
+          "tag": "Pena-Federico F--Federico Fabian 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "White House",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Congressional Hispanic Caucus",
+          "category": "Organizations"
+        },
+        {
+          "tag": "National Hispanic Leadership Agenda--Organization",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Political appointments",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b47584a0-7987-4dca-907a-56174e7ccb32"
+    },
+    {
+      "start_time": 667,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basic issues such as equality and fair media coverage are concerns that carry from one Latino Journalist Conference to the next. Both fairness and equity were main topics at last year's National Association of Hispanic Journalists gathering in Albuquerque and this year again in Washington D.C. Here's a collection of the voices of Latino journalists from around the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3933a589-99b2-4a37-8eea-5d51416ac500"
+    },
+    {
+      "start_time": 690,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our children, what they're getting at home, they put on the TV, they open the newspaper, the images they're seeing, and that is hurting our community. Usually, those images are very negative, the stereotypes. And they don't see themselves in a positive light when they put on the television or when they read the newspaper or when they listen to the radio. And I cannot tell you how basic that is to the development of our community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fa417930-1aff-4e54-9ad5-304c233bb14b"
+    },
+    {
+      "start_time": 713,
+      "end_time": 731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not all Latinos are in gangs. Teenagers, not all of them are drug dealers, hustlers, you know, on the street corners. But that's the only time they make the news. I mean, they never seem to -- When somebody's doing a positive thing, they never put that on news. They always put something negative, whether it's a burglary or robbery or killing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0470e42f-008d-44ca-ba09-1002f07ac5a9"
+    },
+    {
+      "start_time": 731,
+      "end_time": 742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're not this monolith, and we're not a bunch of crazy Latins who blow up buildings and play loud music and these sorts of things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b260bf6b-3146-4773-a8d8-0bbe86aa79b5"
+    },
+    {
+      "start_time": 742,
+      "end_time": 752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The stereotype needs to be broken. And in order for us to change that, we need to go back and we need to just get, encourage more students, more younger people to get involved in the media because it's the only way we're going to make a difference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "bc1f7ee3-a4d5-44f9-9c74-00c0adacc531"
+    },
+    {
+      "start_time": 752,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have to make inroads and get into the mainstream. And for that, we have to acquire a sense of our own worth. We have to start knocking the doors of Anglo America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "311d185a-186e-43a9-a1e0-592d32cfbe04"
+    },
+    {
+      "start_time": 763,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We need to get more Latinos into management positions that -- So that we actually decide what stories to cover rather than being told what stories to cover."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 6"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ad749f16-9305-4d71-bc26-098fca4b6532"
+    },
+    {
+      "start_time": 772,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The mass media and American society determines what the people will think about and what the people will talk about. And that is an awesome power. It is a power that has been held closely, consciously or unconsciously. It has been held closely. And the battle to open it up, the battle to insist that all aspects of our society and all sectors of our society will have equal access to that awesome power is a battle that we must wage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 7"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "37a3f5e5-0947-4752-b1a3-291d75a0e13c"
+    },
+    {
+      "start_time": 807,
+      "end_time": 852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once a year, Latino journalists from across the country come together to network, improve their skills, and examine their impact on the U.S. media. This year, over 800 members of the National Association of Hispanic Journalists met for four days in the nation's capital. And joining us today are Diane Alverio, the President of the National Association of Hispanic Journalists and a TV reporter in Hartford, Connecticut; Juan Gonzalez, a columnist for the \"New York Daily News\"; and George Ramos, a columnist reporter from the \"Los Angeles Times.\" Welcome to \"Latino USA.\" Some of you were involved 11 years ago when this organization was actually formed. Eleven years later, what is different now for Latino journalists operating and functioning in the United States? Juan?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e98b995f-ecaa-4f65-ab0b-d15860c1730f"
+    },
+    {
+      "start_time": 852,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think that one thing that has happened is you've had a spurt and a tremendous growth in the number of young people that have entered journalism as a profession. It seems to me that every conference, more and more young people appear to be eager to get into the profession. So I think that that's been a tremendous step. A lot of the work that NAHJ has done has been in nurturing and developing and helping to train those young college students and high school students, getting them scholarships and promoting their writing work. So that's been a tremendous step forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3d670f9e-a05a-45a7-8472-15970b13225d"
+    },
+    {
+      "start_time": 852,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately, on the other end, we don't seem to be retaining as many of the veteran journalists who apparently are coming up against walls and frustrations that they end up leaving the profession, so that on balance, the numbers of Latino journalists have not really grown qualitatively. There's this minute growth that is occurring -- part of a percentage point or a half a percentage point a year, but there's no real qualitative growth in the numbers of Latinos in the newsrooms of the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b5fffc09-30f0-4a9c-ab1f-498829475dcb"
+    },
+    {
+      "start_time": 915,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, when these Latino journalists get into wherever their newsrooms or if they be at TV stations, et cetera, how much debate is there for these Latino journalists around the questions of, \"I'm a journalist first, and then I'm Latino,\" or, \"I'm Latino first, and that influences my role as a journalist\"?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fc63f785-1515-4950-870e-19a2456559c3"
+    },
+    {
+      "start_time": 937,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know that at the \"LA Times,\" it's something that I have raised for about the last, oh, I'd say about at least five or six years. Am I a reporter who happens to be a Latino, or am I a Latino who happens to be a reporter? I don't think there's a right or wrong answer, but how you answer the question says a lot about how you look at news and whether or not you take news seriously. I happen to be a Latino who happens to be a reporter because they don't pay me to be a Latino. I'm that coming in. So when I look at a story --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ramos-George",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9bd2f777-acc0-4998-8adf-38e38895665d"
+    },
+    {
+      "start_time": 973,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were born that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "04b8a893-c7a0-4f58-a87f-95ee97fac454"
+    },
+    {
+      "start_time": 974,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born that way. I'm sorry, but that's a good way to put it. I have a unique perspective, and when I look at something, the editors know that that's how I'm going to look at it, that I -- Hopefully, I'm professional, but my eyes happen to be brown. They're not blue or hazel or something else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ramos-George",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "87ab348f-c638-4792-8fc8-20c7127a715d"
+    },
+    {
+      "start_time": 992,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is there an encouragement of that unique perspective, Juan, from a Latino journalist? Or is it more like, \"Well, don't necessarily look at it through those eyes. Maybe you need to see it through a more mainstream eye\"?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c69b2731-1423-416a-b53a-826174a936c4"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think there's a tremendous ambivalence on the part of the managers of the newspaper and television and radio stations on this question. They would like to have Latino reporters in their organizations, supposedly, to be able to give them access to communities and information that they otherwise would not have. However, they would rather that those Latino reporters look at these communities through the same eyes that the non-Latino reporters look at them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d19b77f1-52e2-4f96-9cf6-622913710903"
+    },
+    {
+      "start_time": 1034,
+      "end_time": 1076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a part of the great contradiction, I think, of American journalism is understanding that even when you are doing news reporting and trying to be fair and report reality, the fact is that reality is always looked at subjectively by each individual and that there is no such thing as objectivity. There are many individuals attempting to recreate objective reality and that, but you're always doing that subjectively because you're always doing it through how you were raised, what your parents taught you, the school that you went to, the things that you learned. That's the only eyes with which you have to look at the world. And that's true for all reporters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0372ca8f-0758-4dfa-97d2-d238f783a3c7"
+    },
+    {
+      "start_time": 1076,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But somehow, when it comes to Latinos working, let's say on a Latino's story, the editor may think that you will not look at that in an objective fashion, as if a white reporter covering that Latino story would look at it in an objective fashion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gonzalez-John"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b4f650aa-2793-4eec-9a9c-e4a490f2d0e4"
+    },
+    {
+      "start_time": 1091,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's not just about objectivity either. It's about your perspective that they both talked about. Just this past week, a national -- I won't mention the name of the show -- a national -- one of the network magazine shows aired a piece on 936, the tax issue with Puerto Rico in Puerto Rico, and I, as a viewer and possibly as a journalist, I'm sure, and especially as a PuertorriqueÃ±a, was watching it, and I thought, \"But they're not giving the entire story.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alverio-Diane",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "33d4fe91-b3ad-4ebc-80da-900c8b8d0ff4"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I happen to know the background of 936 just because I am Puerto Rican and I know the history, and the way the story was presented, it just explained the tax law and why the financial benefits the company, but it never delved into why this was instituted in the first place, what the U.S. role has been in Puerto Rico that necessitated a tax reform, a tax act like this. And I felt that the viewer was gypped. The viewer that was non-Hispanic, non-Puerto Rican like I, did not get the correct information in which to form his or her opinion so that what I'm saying is that Latino journalists bring that with them, information that other non-Hispanic journalists may not have or don't bother to go after."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alverio-Diane",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2b3b9bb9-554c-447d-9792-2ee10d544db6"
+    },
+    {
+      "start_time": 1162,
+      "end_time": 1199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, these are very, very interesting issues, not only for us as journalists who come together once a year to talk about these things but also for our communities. But the NAHJ as an organization really is probably not that well known across the United States. Should the organization, the National Association of Hispanic Journalists, become more of an activist organization where it is recognized across the country as an organization that is there supporting the Latino community and that has the Latino community's interest at hand, or should it be an organization that really focuses on this professional community, Latino journalists?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b21d90bd-fcf3-4c7a-9f5a-1cbfa80cc24e"
+    },
+    {
+      "start_time": 1199,
+      "end_time": 1236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We as Latino journalists have been discussing that in the last couple of years. And it's kind of an identity question. It's part of the growing pains of the organization. And I think -- I was attending a panel recently, and someone said it quite well. By the very fact that we have banded together as Latino journalists, we are a civil rights organization, whether all our members want to accept it or not, because our goals are primarily to increase the numbers of Latinos in the industry, to improve coverage of the Hispanic community. If those aren't civil rights issues, I don't know what are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alverio-Diane",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "811f2f22-1416-4464-a29b-4815040d835a"
+    },
+    {
+      "start_time": 1236,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Diane Alverio, the President of the National Association of Hispanic Journalists; Juan Gonzalez of the \"New York Daily News\"; and George Ramos of the \"Los Angeles Times.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Albuquerque",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Connecticut--Hartford",
+          "category": "Places"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York Daily News--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Los Angeles Times--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Panel discussion--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cd18d3d5-2f98-49df-998d-60752ecca476"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition music, percussion freestyle]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Drums",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "c6e7b807-d28e-4217-a80e-ad1ca76e2f47"
+    },
+    {
+      "start_time": 1248,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since the 1960s, the fight for fair media coverage has been an integral part of the struggle for Latino civil rights. Chicano and Puerto Rican activists fought to have their movements covered accurately and fairly by the press. Now, almost three decades later, civil rights activists and Latino reporters at the journalists' conference agreed that their goal of an unbiased media is the same. Barrie Lynn Tapia reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1960s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "539f825e-1f62-415e-a28c-5467a43740cd"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Politicians, activists, and journalists came together in Washington, D.C., to examine how well the media has covered Latino civil-rights issues. It was made clear there exists a unique link between social activism and the coverage of minorities. Many veteran Latino journalists, such as ABC's correspondent John QuiÃ±ones, say the activism of the '60s and '70s paved the way for them in the media."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1960s",
+          "category": "Dates"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "a3203c5b-c938-4e5b-86f8-72b14d7b4a68"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wouldn't be working in broadcasting today if it had not been for a group, an offshoot of la Raza Unida party in San Antonio 25 years ago. They picketed outside a top 40 station in San Antonio and demanded that they hire a force on the air that was more representative of the population of San Antonio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quinones-John",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9b319d42-0ce0-4b00-8e1f-70c9fe146cf4"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the United States Census Bureau, Latinos make up almost 10% of the total population. But Latinos in newsrooms around the country account for less than 5% of the work staff. Dolores Huerta, Vice President of United Farm Workers, says this leads to stereotypical portrayals in the media."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "da8c479c-b69c-4c52-a412-da1e9e8b0ac5"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think all of us probably have felt that what we get portrayed in the media as Latinos as Mexican Americans, is that we're all illegal aliens, right? And if you're not an illegal alien, you're a drug runner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4c391d68-c4d9-44ac-9536-c73db313ae5f"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hispanics, Latinos, Chicanos, Central Americanos were pictured and represented in a negative rather than positive way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reynoso-Cruz 1931-2021",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "84d607c4-fb38-4ab6-b9cf-d207d873a1e7"
+    },
+    {
+      "start_time": 1367,
+      "end_time": 1374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cruz Reynoso, a former California State Supreme Court judge, has recently been named to the U.S. Civil Rights Commission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e3dc5831-3710-49a2-8e1a-8eac720bb500"
+    },
+    {
+      "start_time": 1374,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does the media have to do with civil rights? And I must say that in my view, it has everything to do with civil rights, because the media is an important element in our country in setting the national agenda for issues to be discussed, issues to be debated, what makes America, who represents America, who are we."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reynoso-Cruz 1931-2021",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "53aa4a6d-e93a-405c-a67b-19e740b75740"
+    },
+    {
+      "start_time": 1398,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reynoso says lack of coverage of Latino issues makes this population almost invisible to the rest of the country. One example of this was the failure of the media to accurately report how the Los Angeles disturbances of last year affected Latinos. He also cited studies documenting not only a lack of positive Latino images but also how the media has ignored this segment of the population."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a809a857-dfe9-4aa3-88f2-effea953cf04"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More often than not, particularly not in the news reporting but in the general programming, Latinos were reported not at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reynoso-Cruz 1931-2021",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0229aed1-74d0-47fd-af0a-b24e5c0e66ed"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NAHJ President, Diane Alverio, says the poor portrayal of Latinos in the media is due in part to the small number of Latinos in the industry. Her organization is poised to try and change that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "58698dab-875c-472a-9422-5e0a15f9f1e0"
+    },
+    {
+      "start_time": 1443,
+      "end_time": 1458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We move forward with a determination and desire of so many Latinos before us, and that is to achieve equality. For us, that is to achieve equality in the newsrooms of this country. We ask for nothing more, for nothing less."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alverio-Diane",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "919fa80f-4863-452a-91db-84918971109a"
+    },
+    {
+      "start_time": 1458,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For \"Latino USA,\" I am Barrie Lynn Tapia with Arthur Dungan in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tapia-Barrie Lynn",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--San Antonio",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "US Census Bureau",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Commission on Civil Rights",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Raza Unida Party--Tex",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Television broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Interviews--Community leaders",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6753e6a4-7df2-4f6f-ad5a-5dcda4eb57e8"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, to get a poet's perspective on this year's National Association of Hispanic Journalist Conference, we turned to JosÃ© Burciaga. He watched and listened as journalists mingled. Burciaga found a feisty network of Latino media professionals and evidence in the form of a fruit that there is still much more work to be done in consciousness raising."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d6c0581e-18b0-4084-9550-3964e880b0fb"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a study of appreciation and diversity. Latino journalists could not take each other at face value. Blonde, blue-eyed, or African-American journalists could have easily been of Mexicano, Puerto Rican, or Colombian descent. The presence of women was strong, beginning with association president, Diane Alverio, who did express a lack of diversity in news media management. Only 3% of Latino journalists are managers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burciaga-Jose Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e014d62d-aedd-4002-8d32-87db3a9582e3"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At a noontime luncheon, Leonard Downie, executive editor of \"The Washington Post,\" lamented the lack of training among all journalists. Despite the diversity of the term \"all,\" he was taken to task for something Latinos hear a little too often: \"You are ill prepared.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burciaga-Jose Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7ae2aa5a-3feb-4099-a0a5-2f3d4a21a0f5"
+    },
+    {
+      "start_time": 1530,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was networking, interviewing for new jobs, old jobs, and workshops on everything from covering the Supreme Court to how to write a book. The conference was dedicated to the memory of Cesar Chavez with United Farm Worker Vice President Dolores Huerta giving a plenary session speech. Organizers had made sure no grapes would be served at the hotel, this to honor the United Farm Worker grape boycott. Nevertheless, an evening reception hosted by the \"Chicago Tribune\" featured the typical hors d'oeuvre fare crowned with a pineapple surrounded by two luscious mounds of forbidden grapes. Bothered by the hypocrisy and insensitivity, I placed the grapes on a silver tray, covered them with a napkin, laid the tray on the floor, and applied gentle foot pressure on the plump, juicy grapes. With a boycott sign over the squashed grapes, I placed the tray at the floor entrance, but this was not the end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burciaga-Jose Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3d46820b-daf7-4402-99f4-915bda858a73"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The word spread, and grapes were spotted at another reception on the terrace of the Freedom Forum office building. Hispanic Link News Service publisher Charlie Ericksen, carefully dumped them over the side of the 25th-floor terrace. No grapes were reported to have survived. And still, this was not the end. At another reception given by the Organization of American States, grapes were again served. This time I gave them a gentle warning, and the grapes were removed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burciaga-Jose Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ae2756f0-81df-4457-aa46-a3c876fe8553"
+    },
+    {
+      "start_time": 1618,
+      "end_time": 1636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The OAS reception and grape boycott were a fitting end to the NAHJ conference. As I looked across the Grand Halls bedecked with the many colorful flags representing our mother countries, we invoked the memory of Cesar Chavez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Burciaga-Jose Antonio",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7b3bcd5e-d7fd-4983-baa9-659bcfc90d8b"
+    },
+    {
+      "start_time": 1636,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poet JosÃ© Antonio Burciaga lives, writes, and paints in the San Francisco Bay Area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Chavez-Cesar 1927-1993",
+          "category": "People"
+        },
+        {
+          "tag": "Huerta-Dolores 1930-",
+          "category": "People"
+        },
+        {
+          "tag": "National Association of Hispanic Journalists--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "United Farm Workers--UFW",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Organization of American States",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Post Company",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Chicago Tribune--Firm",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Boycotts",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Agricultural laborers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Radio broadcasting",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Colombians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7371d505-c61d-42b6-a84d-28c0f707ba58"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Closing music] And for this week, y por este semana, this has been \"Latino USA,\" the Radio Journal of News and Culture. This week's special edition of \"Latino USA\" was produced by members of the Radio Ondas Training Project of the National Association of Hispanic Journalists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Background--Music--Closing Theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ea811e25-6812-4d62-9b81-abf90da1bc45"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Ondas interns: Beto Argos, Laura Varela, Barrie Lynn Tapia, Marina Ortiz, Elvia DÃ­az, Olga Rodriguez, Patricia Guadalupe, Luis Antonio Ocasio, and Arthur Dungan. The producers this week were Maria Emilia Martin, Mandalit del Barco, Frank Contreras, Rolando Ateria, Richard Buster Gonzalez, and Claudia Sanchez. Technical help, guidance, and support from John \"Johnny\" Carillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "08646fc5-d072-4a8d-a3fc-a97db257586e"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We want to hear from you, so why don't you call us on our toll-free listener hotline. It's 1-800-535-5533. That's 1-800-535-5533. Funding for \"Latino USA\" comes from the Ford Foundation and the Corporation for Public Broadcasting. The program is distributed by the Longhorn Radio Network. And a special thanks this week to the Gannett Foundation, the National Association of Hispanic Journalists, and National Public Radio for their support for the Radio Ondas Training Project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        }
+      ],
+      "uuid": "e4d437ba-1337-4008-84b7-5282cae75f79"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y hasta la proxima, until next time, I'm Maria Hinojosa for \"Latino USA.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        }
+      ],
+      "uuid": "1229ab17-3775-4982-a698-e1300c86075e"
+    }
+  ],
   "set": "Default",
   "event_id": "9bc21db8-af39-4d97-98c7-46666badca28",
   "source_id": "d07284ac-a50c-4ead-ac23-fc74aa1dd3f9"
