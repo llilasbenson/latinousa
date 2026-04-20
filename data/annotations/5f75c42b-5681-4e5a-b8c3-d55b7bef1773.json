@@ -1,5 +1,5860 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "5230aa8f-a439-4240-a2c8-a4e99d19d559"
+    },
+    {
+      "start_time": 5,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Opening Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "93951a0d-7d8e-4cf3-89c4-21c1c0b54a1d"
+    },
+    {
+      "start_time": 16,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. Today on Latino USA, the rocking sounds of Dr. Loco and his Jalapeno Band."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "c5164af6-06ce-4c58-90b7-79b9f02bfc44"
+    },
+    {
+      "start_time": 24,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were put down on the one side for being too Mexican and on the other side for being too anglicized. We're pochos and proud of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        }
+      ],
+      "uuid": "6988335a-0ed1-4e37-8a39-22116cc136b5"
+    },
+    {
+      "start_time": 33,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And other sounds from New York, the poetry of Puerto Rican women."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "9b893ecf-10f5-48e1-b7c7-04ed30036ed7"
+    },
+    {
+      "start_time": 38,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women have been traditionally storytellers, and have been in a very close relationship with the oral tradition because they were the grandmothers and the mothers that told those stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nieves-Colon-Myrna E",
+          "category": "People"
+        }
+      ],
+      "uuid": "1e6fe566-21f7-4571-a0ba-603cb01ef463"
+    },
+    {
+      "start_time": 53,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This and more coming up on Latino USA. But first, Las Noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "8cea2aca-444d-4db5-a26a-227fe799d4e9"
+    },
+    {
+      "start_time": 58,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA, I'm Vidal GuzmÃ¡n. Latino students at Cornell University have ended a four-day sit-in of the university's administration building. The protest, which also included some African-American students, began after a Latino art display was vandalized with what the students called racist graffiti. From Syracuse, Chris Bolt filed this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--Ithaca",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--Syracuse",
+          "category": "Places"
+        },
+        {
+          "tag": "Rhodes-Frank H--Frank Harold 1921-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Cornell University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4032d016-fde4-4a79-b251-fb72d1b74e15"
+    },
+    {
+      "start_time": 79,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the piece called Burning Castle was vandalized, Latino students at Cornell saw it as an act of racism. A demonstration followed, which escalated until a group of 75 students took over the university administration building. The artwork consists of several black walls constructed at places around the campus with slogans pointing out acts of discrimination against Hispanics. Vandals defaced the work by painting swastikas on the monoliths. Students want an aggressive response from the university to stop more acts of racism. The group of protestors refused a private meeting with Cornell President Frank Rhodes, instead calling for a public discussion of this incident and hiring practices at some of the university's colleges, especially those popular with students of color. Rhodes acknowledges the concerns of the students, but says they're the same problems confronting every major school in the nation. For Latino USA, I'm Chris Bolt in Syracuse, New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bolt-Chris",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--Ithaca",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--Syracuse",
+          "category": "Places"
+        },
+        {
+          "tag": "Rhodes-Frank H--Frank Harold 1921-2023",
+          "category": "People"
+        },
+        {
+          "tag": "Cornell University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Students",
+          "category": "Communities"
+        },
+        {
+          "tag": "Protest movements",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ebdc0f6c-ae83-4ce3-8f69-29b4ddb03c6f"
+    },
+    {
+      "start_time": 133,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the Journal of the American Medical Association, Latinos, despite their poverty and lack of access to healthcare, have a lower mortality rate than non-Hispanics. The researchers concluded that though there is a high Hispanic death rate from homicide, liver disease and pneumonia, Latino mortality rates from chronic diseases were relatively low compared to the general population. Researchers have not yet determined the cause for the disparity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "Journal of the American Medical Association",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "063e3808-df14-4dcb-a1f1-43c21bcfe212"
+    },
+    {
+      "start_time": 158,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The nation's second largest car rental agency, Avis, has been charged with employment discrimination. In a lawsuit filed by Latinos working at the company's San Francisco office, the workers claimed they were denied benefits routinely granted to non-Latino employees. From San Francisco, Isabel Alegria reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Avis Rent A Car System",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Superior Court of California",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "24198770-6f05-4f30-ad16-1e5573713841"
+    },
+    {
+      "start_time": 175,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "17 Latino drivers filed the suit in San Francisco's Superior Court saying they were the victims of constant discrimination and harassment by their supervisors over a period of three years. The workers, all immigrants, say they were threatened with firing, forced to use segregated toilets, subject to abusive language, and repeatedly required to produce verification of their immigration status. They also allege they were denied vacation time, rain gear and regular breaks. Avis has denied the charges. Representatives of both sides are meeting in an attempt to settle the case as is required in San Francisco's court system. A jury trial is scheduled to start December 13th. For Latino USA, I'm Isabel Alegria in San Francisco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alegria-Isabel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "Avis Rent A Car System",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Superior Court of California",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1993-12-13",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "938ccb16-bd93-445c-a1a4-020b25968430"
+    },
+    {
+      "start_time": 218,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Immigration rights groups in California have filed suit against the Immigration and Naturalization Service. They claim the 1986 immigration reform law have kept many families apart. They say INS regulations have put children of amnestied individuals in danger of being deported, in denial of the family unity protection clause of the immigration law. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "US Immigration and Naturalization Service",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration--Government policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1986",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "3e15aa88-89d7-43ae-9bf7-4988fd0d80d0"
+    },
+    {
+      "start_time": 239,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A recent study by a Latino think tank shows an underrepresentation of Latino teachers in schools across the country. Patricia Guadalupe in Washington has the story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ad32d816-c3e1-42f7-9d5f-5301d661f2f1"
+    },
+    {
+      "start_time": 249,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The study conducted over a five-year period by the TomÃ¡s Rivera Center found three times more Latino students than teachers in some states. It cites research that links the presence of Latino teachers to improved academic performance by Latino students. Rivera Center director Dr. Harry Pachon says the study highlights what he calls the crisis in Hispanic education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6cfe44cd-685d-43d7-8419-5bdf4b5e0d29"
+    },
+    {
+      "start_time": 270,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have a tremendous underrepresentation of Latino teachers in the United States. We're having school districts now that are 50% Latino, but yet less than 5% Latino teachers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pachon-Harry",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1a342989-0993-44e5-a25f-89ab357fd5fd"
+    },
+    {
+      "start_time": 280,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The importance of early childhood education, the importance of quality public schools, the availability of teacher leaders, the role of schools in the community are integral to our work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cisneros-Henry G--Henry Gabriel 1947-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cb79cebd-bb0a-44e3-a336-6985ee383992"
+    },
+    {
+      "start_time": 293,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Secretary of Housing and Urban Development, Henry Cisneros, who is a member of the center, says the lack of Latino teachers early in a student's life will have a later impact on the entire community. The center recommends that the US Department of Education target more resources to colleges with Latino students interested in teaching careers. The study's chief researcher, Dr. Reynaldo Macias, wants to see mentoring programs that would identify and support Latino teacher candidates."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0f82f4dc-c12d-4481-903d-c0d3e74603d8"
+    },
+    {
+      "start_time": 321,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The support that takes place as a result of interacting with faculty in the teacher education programs, counselors, practicing teachers in the schools and otherwise being told that yes, you do matter and yes, you can make it and we're here to make sure you make it has made a tremendous difference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Macias-Reynaldo Flores",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "43133820-c1a6-47a0-9e57-3633c48e2743"
+    },
+    {
+      "start_time": 342,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Representatives of the TomÃ¡s Rivera Center are meeting with members of Congress in hopes of including their recommendations in the Education Appropriations package now under consideration for Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Tomas Rivera Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Housing and Urban Development",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Department of Education",
+          "category": "Organizations"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Teachers",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Inequality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Youth",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9e863d93-21b2-481c-bd02-c7ac0f31f5e2"
+    },
+    {
+      "start_time": 356,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's news from Latino USA, I'm Vidal GuzmÃ¡n."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzman-Vidal",
+          "category": "People"
+        }
+      ],
+      "uuid": "b893d9a5-7bab-4ff2-8fd0-4a7fa50f86a4"
+    },
+    {
+      "start_time": 360,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--music--Chicano world] [Cumbia del Sol]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--music--Chicano world",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "362adb4d-7ce2-4265-8c3f-943617f71da4"
+    },
+    {
+      "start_time": 373,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] By now, Dr. Loco's Rockin' JalapeÃ±o Band has a reputation up and down the California coast. Their fun-loving style is broad in its range from cumbias like this to Dixie Land, the blues or a mix of gospel and soca with a little bit of Afro-Cuban percussion for spice. The members of this nine piece band like to think of their work as Chicano world music. The band leader is Dr. Loco, also known as Professor JosÃ© CuÃ©llar, PhD and Chairman of La Raza studies department at San Francisco State University. Dr. Loco says his music is an example of what Chicano culture is all about. Mixing and blending unlikely elements to create something entirely new."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "132f0a9a-159b-4505-8914-4a64cba2810d"
+    },
+    {
+      "start_time": 415,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] We see Afro-Cuban rhythms that have been a part of our culture since the twenties. We see Germanic elements that have been part of our music since the late 1800s. We see indigenous rhythms, indigenous instruments, and the reintegration in the influence of nueva canciÃ³n of the sixties, the cha chas and mambos of the forties and fifties, the doo-wop of the fifties and the rhythm and blues and more recently the rap influence as well as influences from rhythms around the world, songo, soca and et cetera. So we decided to call it Chicano world because we think it's Chicano music and it also represents the influences of the world on our music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1800s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "d967e04f-14f0-4b12-bb52-8dea19187dd1"
+    },
+    {
+      "start_time": 465,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've also done something that is really somewhat daring. You've taken a term, pocho, which if it's used by a Mexican towards a Mexican, it can be taken as an insult that you're too pocho, that means you're too Americanized, but you've in fact taken this term and you've said that you pochosized something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "9d3af22c-9572-463e-956c-d0d38f7a5121"
+    },
+    {
+      "start_time": 485,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. We're very proud of being not only bilingual, actually multilingual, and not only bicultural, but multicultural. And for the longest time we were put down on the one side for being too Mexican and on the other side for being too anglicized or too Africanized. And we decided to take a cultural position in saying we're pochos and proud of it. Somos bilingÃ¼es, so what? And then in fact we see that being bilingual even when changing the lyrics. We're speaking to two different, actually three different groups. Monolingual English speakers who fill in the blanks. Monolingual Spanish speakers who fill in the blanks and bilingual raza who trip [Laughter] off on how we can do this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "320f10a7-14cd-469d-9ce8-036d93f6c858"
+    },
+    {
+      "start_time": 537,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean they're the luckiest ones because they can understand everything that's going on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "31545268-5de8-452c-9c59-397dbbb73722"
+    },
+    {
+      "start_time": 541,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fine. Well, we appreciate it at a deeper level."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e18dca78-74d7-4489-8ab4-cbbe50300d88"
+    },
+    {
+      "start_time": 544,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can really hear the pochosizing of your music when you take a song like âI feel Chingonâ from your album Con Safos or âChile Pie,â also from Con Safos. [Background--music--Chicano world] Both of these are like fifties remakes of black songs, Â¿que no?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d4036f27-cb73-46d0-aceb-1fe37fbdac9e"
+    },
+    {
+      "start_time": 559,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] Absolutely, absolutely. âI feel Chingonâ is our jalapeno version of James Brown's âI Feel Goodâ and âChile Pieâ is a remake of the classic. It's always reverberating Chicano community, it resonated, it's the cherry pie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c0313246-9ec0-4fe9-815b-f5da41e1fe0a"
+    },
+    {
+      "start_time": 600,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--music--Chicano world]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "acfa2c4d-18a0-49ee-9aba-f38ee82592f1"
+    },
+    {
+      "start_time": 611,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] Black music is a very important part of the Chicano experience from the West Coast?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "8e43aaa5-be35-4efe-b332-046c529a1b74"
+    },
+    {
+      "start_time": 615,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] It's been an integral experience throughout. I mean whether we're Chicanos in Texas, we had the influence of the Louis Armstrongs and the Dixielands way back. I mean Ernie Caceres, Emilio Caceres, the jazz musicians, they're tremendous, in the thirties were influenced by Afro-Americans a lot from New Orleans. And then throughout the forties and fifties, the blues have been strong. It's one of our greatest blues singers that Chicano blue singers have been tremendously influenced by the blues. Freddy Fender wrote âWasted Daysâ, the first Chicano blues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1930s",
+          "category": "Dates"
+        },
+        {
+          "tag": "1940s",
+          "category": "Dates"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "a24c8268-df0b-4125-abb4-a7c065de3d5a"
+    },
+    {
+      "start_time": 647,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, one of the themes that runs through most of your music is the idea of Chicano pride and it's really especially apparent on your most recent CD called Movimiento Music. But at some point, Dr. Loco, don't you feel like, for example, let's take âEl Picket Signâ. I mean it sounded kind of predictable, kind of a throwback to the seventies or eighties, real stayed, predictable, even like rhetorical kind of political music. I mean, at what point do you continue to talk, let's say, in music that is considered panfletaria, [Background--music--Chicano world] really propagandistic, and on the other hand really wanting to do something that is communicating something else on a cultural level?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates"
+        },
+        {
+          "tag": "1980s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "3bcb46cf-649c-4e7f-b128-276f9fd570da"
+    },
+    {
+      "start_time": 687,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] Well, the reason we included that song, in fact, that song was the reason... The rest of the album grew out of that song conceptually for me. And that song was a song that we performed because the farm workers are still boycotting grapes. And because we're so close to really having more and more people understand the dilemma of pesticides on our food and our jobs and how many people in Ernie Mark and in other communities are really suffering from these pesticides, there has to be other ways of dealing with our food so that we have safe food and safe jobs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e5b5c6c2-2735-4ddd-9520-c49bfbc3c215"
+    },
+    {
+      "start_time": 730,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] Well, what do you say to people who believe that political music like this is really passe, that it's something of the past, and it's really from an old school, an old trend that's already gone?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7ae69f8b-b5a8-4c52-a112-ba5ab14602b0"
+    },
+    {
+      "start_time": 740,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I say to them the lyrics of the picket sign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ed456181-d30f-467d-89b5-bbae6ad7d0d1"
+    },
+    {
+      "start_time": 744,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world][El Picket Sign]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "7b04242a-b648-4164-ab4a-964bfefa4822"
+    },
+    {
+      "start_time": 766,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were encouraged to produce the music because of the movement, not because of the other way around. We were encouraged by what seems to be conditions all around us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "aa4602db-a3e6-4d4c-baa2-8e0f6a42293f"
+    },
+    {
+      "start_time": 778,
+      "end_time": 784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] [Nosotros Venceremos/We Shall Overcome] The last piece on your CD is an interesting remake and an interesting version of We Shall Overcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1163e1f8-4561-4164-93bf-d27f1bacbccf"
+    },
+    {
+      "start_time": 808,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Highlight--music--Chicano world] [Nosotros Venceremos/We Shall Overcome]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2569a3c7-e652-49f3-9ba2-f4df6307f97e"
+    },
+    {
+      "start_time": 838,
+      "end_time": 877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] [Nosotros Venceremos/We Shall Overcome] We believe that this is the essential song for the movement of social justice. I mean, it has been someone that sung all over the world, from Tiananmen Square to Berlin to South Africa to the fields of California. So we decided to do a remake, our own remake, blending something that would kind of reflect both its historical essence, and it's rooted in the south and the southern spirituals and the African American experience, but that has gone around the world and back and with different and interesting influences. So that's why we decided to do it in a blending of spiritual soca with Chicano jalapeno flavor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuellar-Jose"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0ad6c216-d3c1-4557-9184-d87ea1126f32"
+    },
+    {
+      "start_time": 877,
+      "end_time": 886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--Chicano world] [Nosotros Venceremos/We Shall Overcome] Speaking with us from KQED studios in San Francisco, Professor JosÃ© CuÃ©llar, leader of Dr. Loco's Rockin' JalapeÃ±o Band."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Francisco",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas",
+          "category": "Places"
+        },
+        {
+          "tag": "South Africa",
+          "category": "Places"
+        },
+        {
+          "tag": "Germany--Berlin",
+          "category": "Places"
+        },
+        {
+          "tag": "China--Beijing",
+          "category": "Places"
+        },
+        {
+          "tag": "Brown-James 1933-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Armstrong-Louis 1901-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Fender-Freddy 1937-2006",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Ernie 1911-1971",
+          "category": "People"
+        },
+        {
+          "tag": "Caceres-Emilio 1912-1990",
+          "category": "People"
+        },
+        {
+          "tag": "San Francisco State University",
+          "category": "Organizations"
+        },
+        {
+          "tag": "KQED-FM--885 MHz",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Dr Locos Rockin Jalapeno Band",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Music",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social justice",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Black people",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Chicano world",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Album--Con Safos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Album--Movimiento Music",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--I Feel Good",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Chile Pie",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--El Picket Sign",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--Nosotros Venceremos",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "Song--We Shall Overcome",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2730475f-3337-47b1-8442-080d312aff0e"
+    },
+    {
+      "start_time": 886,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--music--Chicano world] [Nosotros Venceremos/We Shall Overcome]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--music--Chicano world",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "04fe0e01-5069-4860-968f-2d7d4ff68ff4"
+    },
+    {
+      "start_time": 896,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--music--Salsa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Salsa",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ebe50980-c03d-440e-a910-e5824418474a"
+    },
+    {
+      "start_time": 886,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For years, Latino poetry in New York City was dominated by the Nuyorican School of Poets. Theirs was and is a street-wise poetry characterized by strong cultural pride presented in dramatic urban settings by poets such as Miguel AlgarÃ­n, Pedro Pietri and Bimbo Rivas. Today, another crop of Puerto Rican poets is making waves in the Big Apple. But what's different about this group is that they're all women from New York City. Mario Murillo prepared this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "3348d8f9-74ee-49e3-ad6e-c834cd986f84"
+    },
+    {
+      "start_time": 941,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women have been traditionally storytellers and have been in a very close relationship with the oral tradition because they were the grandmothers and the mothers that told us stories and sang us songs and recite poems to us when we were small."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nieves-Colon-Myrna E",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "bb831281-1ee6-4a7c-b86d-b0c6395c9b82"
+    },
+    {
+      "start_time": 963,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The wives of the dictators do not sit home and embroider, nor do they answer when their husbands return in full uniform from a kill and ask and what have you been doing? I have been doing the secret things that witches do. They are busy cutting ribbons."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arrastia-Maritza",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "fd274d16-bc3b-418f-9527-f7f32b62eb16"
+    },
+    {
+      "start_time": 983,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You tried to kill the wild woman fused into my little girl, the one you couldn't love while claiming to. So you held me down and stabbed and stabbed and stabbed with your sharp Swiss knife while whispering seductively in my face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lopez Betancourt-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e97942a5-2c08-49f9-bdaa-f899b4bdec0a"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Myrna Nieves, Maritza Arrastia and Ana Lopez Betancourt, three Puerto Rican poets living and working in New York City. Together they're carving a niche for Puerto Rican women writers in an arena traditionally dominated by men. The three poets founded the Atabex literature collection, which publishes the work of Puerto Rican women writers. Atabex comes from the Taino word meaning mother of the universe. Myrna Nieves says they're celebrating the diversity of writers coming from the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Murillo-Mario--Mario A",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a20c3aec-29d0-4bb8-9bd9-8b8e01cc8c04"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, when we talk about the Boys of Women writers, we are not talking about a voice, we are talking about really about the chorus. So it's not one voice that only presents a strong and potent women, but women in different stages of development, women from different social classes, women that has been recent in the immigration experience from Puerto Rico. It is very important that the leadership produced by women is made public."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nieves-Colon-Myrna E",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "11c85b64-268e-4ece-a719-98dd9ba9116a"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I explore grief, anger, rage in safe settings at home with Lynn, surrounded by books and African relics. But I don't feel safe. I'm afraid. I'm afraid my rage will.. One of the things my grandmother would say to us as was children speak when the chicken takes a leak. Never. Chickens don't take a leak."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lopez Betancourt-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6bee0cbd-735e-46c1-904a-60c600a6ab7b"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poet and educator, Ana Lopez Betancourt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Murillo-Mario--Mario A",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8cea624e-d8c9-488d-90cb-820a1f043913"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So children have no voices. Girl children have less voices and women should never be heard. So there's a lot, of course there's rage and there's a lot of stuff to explore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lopez Betancourt-Ana",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "517b9bb7-6b47-4dbd-a850-964d99c36515"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among the things to explore is the challenge of being an immigrant woman in a male-dominated culture. Once again, poet Myrna Nieves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Murillo-Mario--Mario A",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f22b4b4f-84c8-4326-9912-9dde627a3c68"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She has to defend this culture and at the same time in her work, she has to reexamine the culture with a critical eye and produce alternative cultural forms that are more harmonious and that give her a more just and better place in society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nieves-Colon-Myrna E",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "c39f790b-04b9-4f0f-8455-b4256dd091cd"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reciting poetry] When you finally let me into your games, I was the Indian and you the cowboy. Yours were the newfangled pistols, the cherry's batch which authorized your kicks and punches. Yours were the bows and arrows you lent me because you didn't like to play the Indian."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mar-Maria",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f37b4f04-8623-4a49-bab6-085fa272208d"
+    },
+    {
+      "start_time": 1175,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Theater Director and poet Maria Mar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Murillo-Mario--Mario A",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1cb5cf17-bdf9-4bda-b1bb-69e123ee23bc"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are powerful. We are doing things. We're really the ones, the women are shaping the community and keeping it alive and the structure of community alive. But we don't perceive our power and strength because there are a lot of ghosts between our powerful self and our self-image. [Reciting poetry] Come and cross over to this side of the ocean. But you are like I am. One more Indian destined to lose in the mortal game played in the wild west north of the Americas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mar-Maria",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cccac2b4-c69b-469c-ab75-781aeaa0b5c6"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Atabex literature collection will publish the work of many other Puerto Rican women in the coming months, including an anthology of poetry expected to be released this winter. For Latino USA, I'm Mario Murillo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Murillo-Mario--Mario A",
+          "category": "People"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York City",
+          "category": "Places"
+        },
+        {
+          "tag": "Algarin-Miguel 1941-2020",
+          "category": "People"
+        },
+        {
+          "tag": "Pietri-Pedro 1944-2004",
+          "category": "People"
+        },
+        {
+          "tag": "Rivas-Bimbo",
+          "category": "People"
+        },
+        {
+          "tag": "Atabex Literature Collection",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nuyorican Poets Cafe",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women authors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "4ddfd773-ec66-4083-aeaf-8b6c7b615f19"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--music--Latin folk] [Viene Clareando]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Folk music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "7b981f45-9e69-401a-bed4-dd2cd3adcd5a"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A few years ago, Texas artist Luis Guerra, moved to a village in the state of San Luis PotosÃ­ in northern Mexico. He says he was recently reminded of why he made the move as he took a long hike in the mountains in La Sierra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--San Luis Potosi",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Zacatecas",
+          "category": "Places"
+        },
+        {
+          "tag": "Rural life",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hospitality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mining",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "32e24514-bd47-4925-9061-bb0cfeb47546"
+    },
+    {
+      "start_time": 1280,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--natural sounds--crickets] La subida es dura. It's a steep climb, but after a few hours, the walking gets easier. The valleys and peaks of this beautiful rocky Sierra spread out before you like a solid ocean suspended in time. This is a dry land, almost a desert, yet sometimes I'll find a tiny spring in a niche of a canyon wall or I'll happen upon a small shrine in a lonely valley. Almost every day, I'll come across a shepherd tending his flock or I'll hear the sounds of children and discover they're gathering wild herbs like oregano or Rosa De Castilla."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guerra-Luis G--Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--San Luis Potosi",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Zacatecas",
+          "category": "Places"
+        },
+        {
+          "tag": "Rural life",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hospitality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mining",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Nature",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "cd5b375d-d586-4294-9a22-1e5a4b395cc8"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--natural sounds--birds chirping] Often, early in the morning, I'll see a woman or a man driving two or three burros loaded with mountain produce, heading for a nearby town or city. [Background--natural sounds--farm animals] I make it a point not to camp close to someone's home, just out of respect and so as not to use a firewood that doesn't belong to me. Firewood is scarce around here. This day, as I crested a hill, I spotted a ranchito, just a little two-room house, adobe walls with a flat roof. Smoke was rising from the chimney. I was barely 300 yards from the ranchito and it would be dark soon. [Background--natural sounds--crickets] It was too late to move on. It was going to be a cold night and the only firewood I could find was already cut, tu sabes. For the rancho's wood stove. Ni modo. I used the firewood. I felt guilty but warm that night. [Background--natural sounds--fire] Anyway, I would make it up to them in the morning. [Background--natural sounds--rooster]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guerra-Luis G--Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--San Luis Potosi",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Zacatecas",
+          "category": "Places"
+        },
+        {
+          "tag": "Rural life",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hospitality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mining",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Birds",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Background--Natural Sounds--Nature",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Background--Natural Sounds--Rooster",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ed37e2e6-4c47-41c4-8ab9-fb11b8de2bfa"
+    },
+    {
+      "start_time": 1384,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After breakfast, as I was packing my things, the campesino from the ranchito showed up, a barrel-chested man with strong hands, a weathered face, and a scraggly beard. Buenos dias, I walked up to him and offered to pay for the wood. He brushed my words aside. Mira, everything you see all around you is mine. Estas en tu casa, this is your home. To him, I was already his guest and my offer to pay was almost impolite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guerra-Luis G--Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--San Luis Potosi",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Zacatecas",
+          "category": "Places"
+        },
+        {
+          "tag": "Rural life",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hospitality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mining",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "16006042-969d-49a0-a52a-b8f54194aef1"
+    },
+    {
+      "start_time": 1415,
+      "end_time": 1475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He reached into his bag and handed me a small bundle. My wife packed this for you, he said. [Background--natural sounds--birds chirping] It was bread, goat cheese and jamoncillo, a homemade candy made from fresh milk. We talked for a while. I told him I was a painter who took inspiration from the Sierra. He told of his early life as a shepherd in these same mountains and of his many years as a miner in Zacatecas. The mines are bad luck he said, es muy duro. Siempre en lo oscuro. Always in the dark digging with dynamite for God knows what or for whom. Here, on top of the earth, we have everything a man can need. What more can one ask for. Dios provides the earth, the sun, wind and rain. We provide the labor, he smiled. Somehow, my pack felt especially light that whole day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guerra-Luis G--Guillermo",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--San Luis Potosi",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Zacatecas",
+          "category": "Places"
+        },
+        {
+          "tag": "Rural life",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hospitality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mining",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Birds",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "998ba0d8-8026-457a-a198-301d770a4b98"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Commentator Luis Guerra is an Austin artist who now resides in the Mexican state of San Luis PotosÃ­."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--San Luis Potosi",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico--Zacatecas",
+          "category": "Places"
+        },
+        {
+          "tag": "Rural life",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Hospitality",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mining",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7525a9ea-4e07-4a1d-81bb-344b017dcea6"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--music--regional Mexican] [Ven]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Regional Mexican",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "5452171c-cc66-4e8c-bde3-86be75905a7e"
+    },
+    {
+      "start_time": 1490,
+      "end_time": 1511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Background--music--regional Mexican] Thanksgiving for commentator BÃ¡rbara Renaud GonzÃ¡lez has never been a traditional type of holiday. Sometimes she goes out cumbia dancing in Austin's east side with friends and her swinging mom. So she was very surprised when her 60-something proud to be single mother called her recently to ask what she wanted with her turkey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Dallas",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--music--Regional Mexican",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "385db6f2-8be2-43e8-887d-20fd63f8fa28"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero, mami, why are we having turkey? I demanded. We never had turkey when we were growing up, when I wanted to play pilgrim fathers. \"No, yo queiro plato de enchiladas con pollo, por favor. âNo te entiendo, mijita she said in that superior Interior de Mexico, and you are just a pocha Spanish. You went to college, didn't you? And that school up north, what did you learn? I'm making pan gravy con giblets, cornbread dressing, the green beans Del Monte, cranberry relish, the potato salad too, the jello salad with real fruit cocktail, and the pumpkin pie. But I'll make rice and beans on the side if you want. The boys want their turkey. Mira, I am making 50 dozen tamales because I know how you love them, engordan.\" I was insulted by now. They make me fat. \"I only use Crisco,\" she said, \"that's not fat, that's Crisco.\" I still do not understand Thanksgiving. It doesn't translate well into Spanish. When I patiently explained about the pilgrims to my mother after a third-grade lesson, seeking some confirmation of our role in this event, she reminded me that every celebration has two faces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Barbara Renaud 1953-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Dallas",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "eee5cf69-01dd-44d2-8ce0-c096bb37cfd1"
+    },
+    {
+      "start_time": 1590,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vaya, she said, \"we don't celebrate it in Mexico, but I'll make a special guisada tomorrow just for you and you can have that 'Tricks are for kids' you like for breakfast.\" Perhaps I realized even then that no amount of turkey would make me belong with the pilgrim's descendants I sat with at school. Everyone but me seemed to have an ancestor on the Mayflower. Though I knew, I knew that the sepia skin of Texas with its sunset strung with a thousand pinatas embraced me too. Especially me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Barbara Renaud 1953-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Dallas",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "2e0d3247-bb14-4bdb-9e7f-62dc79e3a3a7"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanksgiving is not a day of giving, but of taking. We are grateful for another's tradition of generosity. One we cannot ever hope to match. A generosity that I liken to the Mexican Guelaguetza, that celebration of community founded in an ancient reciprocity that ensures the survival of the people. It is a ceremony of compadrazgo and more. It recognizes a solidarity that is symbolized with exchanges of the earth's bounty, which sustains us. It is not a day of thanksgiving, but a commitment to each other that we cannot survive alone. So let's celebrate that we are Americans and give thanks that there is room at the table for all of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzalez-Barbara Renaud 1953-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Dallas",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "69a8869f-490f-4e64-b15a-76b8bbc9d3c6"
+    },
+    {
+      "start_time": 1672,
+      "end_time": 1676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Commentator BÃ¡rbara Renaud GonzÃ¡lez is a writer living in Dallas, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Texas--Austin",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Texas--Dallas",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Holidays",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Storytelling--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ae1e1abf-7006-4f1d-98c4-f0d97eaf8f8d"
+    },
+    {
+      "start_time": 1676,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition--music--closing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Closing Theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "ab61697a-2396-46f7-b7e5-6171808b7356"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y por esta semana, this has been Latino USA, the radio journal of news and culture. Latino USA is produced and edited by senior producer Maria Emilia Martin and associate producer Angelica Luevano. We had help this week from Vidal GuzmÃ¡n and Neal Rauch. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. The executive producer is Dr. Gilbert Cardenas. Call us with your comments on our toll-free number at 1-800-535-5533. That's 1-800-535-5533 or write to us at Communication Building B, University of Texas at Austin, 78712. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Y hasta la prÃ³xima, Until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "a0bf2daf-c563-4152-be38-0913523451c8"
+    }
+  ],
   "set": "Default",
   "event_id": "1c8ab6cf-46f4-4df7-a643-cc2516ba16eb",
   "source_id": "d3775827-4229-4afa-9a08-09471e0a821f"
