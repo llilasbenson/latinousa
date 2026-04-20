@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "41ff7767-a537-45a7-9cdb-c59cdc4766e8": {
+      "label": "Latino USA 05",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/latino-usa-episode-22/Latino%20USA%20Episode%2005.mp3",
+      "duration": 1747
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Latino USA Episode 05",
+  "created_at": "2026-04-20T18:47:44.867Z",
+  "created_by": "amtellez16",
+  "updated_at": "2026-04-20T18:47:44.867Z",
+  "updated_by": "amtellez16"
+}

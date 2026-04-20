@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "9831eb23-e333-438b-8fa6-6385d65bcf9d": {
+      "label": "Latino USA 18",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/latino-usa-episode-22/Latino%20USA%20Episode%2018.mp3",
+      "duration": 1747
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Latino USA Episode 18",
+  "created_at": "2026-04-20T18:47:44.867Z",
+  "created_by": "amtellez16",
+  "updated_at": "2026-04-20T18:47:44.867Z",
+  "updated_by": "amtellez16"
+}

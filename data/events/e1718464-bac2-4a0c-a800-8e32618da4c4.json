@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "464b77c1-0a99-4e8b-9fe6-76e6663cc8ce": {
+      "label": "Latino USA 30",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/latino-usa-episode-32/LatinoUSA_Episode30.mp3",
+      "duration": 1746
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Latino USA Episode 30",
+  "created_at": "2026-04-20T18:47:44.867Z",
+  "created_by": "amtellez16",
+  "updated_at": "2026-04-20T18:47:44.867Z",
+  "updated_by": "amtellez16"
+}
