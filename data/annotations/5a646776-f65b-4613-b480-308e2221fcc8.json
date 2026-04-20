@@ -1,5 +1,6275 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the Radio Journal of News and Culture. [Opening music] I'm Maria Hinojosa today on Latino USA, a controversy over art and undocumented immigrant workers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Transition--Music--Opening theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "00f5a87d-728d-40ac-ad8f-b9ba16b87d9c"
+    },
+    {
+      "start_time": 25,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The only twist was that the taxpayers we chose to return the money to were undocumented."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Avalos-David",
+          "category": "People"
+        }
+      ],
+      "uuid": "28952c4b-6b49-4ed4-af3c-63b2046be618"
+    },
+    {
+      "start_time": 32,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the women of New Mexico's Santero tradition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "c85f97d9-e224-487a-8a67-cfb3b7705f74"
+    },
+    {
+      "start_time": 37,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women, I've said all along are the keepers of the faith in New Mexico. And so it makes sense that they would eventually start carving a painting them themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lucero-Helen R 1943-",
+          "category": "People"
+        }
+      ],
+      "uuid": "1b4ffde6-3aea-42c9-b988-4ea9a0867657"
+    },
+    {
+      "start_time": 46,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also Hispanic Heritage Month."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "e950aefc-e32b-4419-8fa3-ceb833817fa6"
+    },
+    {
+      "start_time": 49,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We must teach the Anglo world the meaning of cultural unity because we have it in our bloods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valdez-Luis",
+          "category": "People"
+        }
+      ],
+      "uuid": "8f58ef51-3c03-4164-ae75-cb2631735b93"
+    },
+    {
+      "start_time": 56,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's all coming up on Latino USA. But first las noticias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        }
+      ],
+      "uuid": "74d873b0-6e57-4229-9fbd-6fdefa99761d"
+    },
+    {
+      "start_time": 61,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is News from Latinos USA. I'm Maria Martin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        }
+      ],
+      "uuid": "4a07f7b7-9bed-4e03-a530-fd72c5d2276e"
+    },
+    {
+      "start_time": 64,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are we affirming Mexico as a dictatorship? That it's a dictatorship and it's the longest lasting dictatorship in this hemisphere, probably..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Castro-Fidel 1926-2015",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Press conference--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "678cb6ec-5f0e-40c0-914d-6bf32994b5cf"
+    },
+    {
+      "start_time": 70,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With increasing frequency opponents of the North American Free trade Agreement from labor to Ross Perot are attacking Mexico and the Mexican government. In Washington, Florida Congressman Lincoln Diaz-Balart joined other Cuban American representatives at a Capitol Hill press conference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Castro-Fidel 1926-2015",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Press conference--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b78aa619-bd98-45ac-908f-cb112b88c8e8"
+    },
+    {
+      "start_time": 87,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't see any change in the Mexican political system that leads me to believe that it's anything but the rotating dictatorship that it has been since the beginning of the pre-reign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diaz-Balart-Lincoln 1954-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Castro-Fidel 1926-2015",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Press conference--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9e94f9d0-7b00-42f7-8948-5f69ce0de414"
+    },
+    {
+      "start_time": 99,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Cuban American Congress members are concerned about what they feel is too cozy a relationship between the government of Carlos Salinas de Gortari and that of Fidel Castro. Since Premier Castro legalized the dollar and liberalized travel to Cuba in July, there have been indications some members of the Clinton administration favor negotiations with Cuba and that talks may actually have taken place, something the Cuban American delegation strongly opposes. Miami Congresswoman Illeana Ros-Lehtinen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Castro-Fidel 1926-2015",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Press conference--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0f16aef4-5be5-498c-82c2-fb35d2ec61cb"
+    },
+    {
+      "start_time": 128,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have asked repeatedly for specifics on these negotiations. Where have they taken place? Who has participated in them? Have any agreements been signed? We get back generalities about, well, it's an ongoing set of negotiations which have been taking place through various administrations and we demand specific..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ros-Lehtinen-Ileana",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Castro-Fidel 1926-2015",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Press conference--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "10971c99-584d-4f05-afff-606d578e0293"
+    },
+    {
+      "start_time": 149,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But according to another Cuban American Congressman Republican Lincoln Diaz Balart, the administration is not yet ready to ease relations with Cuba. He added the president may call for an oil embargo on the island as he did with Haiti."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Salinas de Gortari-Carlos",
+          "category": "People"
+        },
+        {
+          "tag": "Castro-Fidel 1926-2016",
+          "category": "People"
+        },
+        {
+          "tag": "US Congress",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Foreign policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Presidents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cubans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Press conference--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "1155e1f4-7e6d-4df3-9c78-428b1c148984"
+    },
+    {
+      "start_time": 162,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Arizona, the scene of a number of alleged incidents of human rights abuse against Mexican nationals, a US border patrolman has been charged with the rape of an undocumented woman. Manuel Arcadia reports from Tucson."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona--Nogales",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona--Tucson",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Miranda Valenzuela-Dario",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Selders-Larry Dean",
+          "category": "People"
+        },
+        {
+          "tag": "Elmer-Michael",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican Consulate",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nogales Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Human rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence against women",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "ebf8fbba-9b5c-4fd7-87ea-84ba5d480956"
+    },
+    {
+      "start_time": 175,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to a news release issued by the Nogales, Arizona Police Department, 31-year-old border patrolman, Larry Dean Selders arrested two Mexican women who had entered the country illegally. He then dropped one off, kidnapped the other and raped her in a remote location. Selders was arrested after the woman reported the incident to the Mexican consulate. This incident follows a sequence of human rights violations against Mexican undocumented workers in Arizona, like the notorious Michael Elmer case that ended up in the shooting death of 22-year-old Mexican National Dario Miranda Valenzuela and the exoneration of charges. Cases like this have prompted Arizona Congressman Ed Pastor to introduce legislation calling for the commission to investigate charges of human rights violations by US officials along the border for Latino USA. This is Manuel Arcadia reporting in Tucson, Arizona."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Arcadia-Manuel",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona--Nogales",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--Arizona--Tucson",
+          "category": "Places"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Miranda Valenzuela-Dario",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "Selders-Larry Dean",
+          "category": "People"
+        },
+        {
+          "tag": "Elmer-Michael",
+          "category": "People"
+        },
+        {
+          "tag": "US Border Patrol",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Mexican Consulate",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Nogales Police Department",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Border patrol agents",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Human rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Violence against women",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "552f61ef-5faf-434e-95f3-1d35d79077b0"
+    },
+    {
+      "start_time": 222,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A much-cited Los Angeles report on the cost of immigrants to local government is being called into question. A report by the Urban Institute claims the LA County report overstated the cost of immigrants on local government services. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--Los Angeles",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Urban Institute",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social services",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Reader--Journalists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0afdf417-3601-4687-9be7-ef7b2e0fa8a6"
+    },
+    {
+      "start_time": 239,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Latino community, according to many health experts, is often least likely to receive attention from policy makers often because there is little available information. A new study in the nation's capital seeks to change that. As Patricia Guadalupe reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "368f0c62-ec75-4de9-9208-e96a8f074378"
+    },
+    {
+      "start_time": 253,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the first time ever, the National Cancer Institute, in cooperation with the Washington Hospital Center, will conduct an in-depth study of cancer in the Washington DC Latino community. It will start with the Salvadoran community, the largest group of Hispanics in the area. Investigator Dr. Elmer Huerta of the National Cancer Institute says the study will concentrate on behavioral patterns in educating that community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7e407507-f074-4665-8b55-ec1da27e0f1f"
+    },
+    {
+      "start_time": 276,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do they know that smoking cigarette causes cancer? Do they know that a pap smear is important to detect cervical cancer? Then we are trying to find out their attitudes towards cancer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Huerta-Elmer E",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "273202b2-5921-42eb-9bf1-1d342fba525f"
+    },
+    {
+      "start_time": 288,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the beginning of the study, government officials were at first concerned that because of the high number of undocumented Salvadorans, many people would be afraid to participate. But so far says Dr. Huerta response to the study has been very positive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e22e9fd2-1f0b-4e3d-a531-d47a3629d98b"
+    },
+    {
+      "start_time": 302,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Salvadorians who are coming to this interview after we explain to them what this study is about, they say, \"listen, doctor, I don't care if you pay me or not. I think this study is so good, it's going to be so good for my community that I will work for free.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Huerta-Elmer E",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a6c7d3c4-7c4d-44d1-8e40-b63cc2387c9c"
+    },
+    {
+      "start_time": 322,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over 2000 Salvadorans will be included in the six-month study for Latino USA, I'm Patricia Guadalupe in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guadalupe-Patricia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "cd1b4199-796b-47b5-b50d-827546405a23"
+    },
+    {
+      "start_time": 330,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to government statistics, more than a third of all babies born in 1991 had unwed parents. These accounted for 22% of white births and 68% among African Americans, while a total of 39% of Latino births were to unmarried women. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Martin-Maria E--Maria Emilia 1951-2023",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Washington DC",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "National Cancer Institute--US",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Washington Hospital Center",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Diseases",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Health",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Health disparities",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Cancer",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Salvadorans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Professionals",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "79ec03d1-8eaa-4807-aa09-1aa40d4ee64c"
+    },
+    {
+      "start_time": 349,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Latin hip-hop transition music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Hip-hop",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "985ed989-8b88-450f-a1a3-40d4e2aff546"
+    },
+    {
+      "start_time": 360,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. In New York City's, East Harlem, the Puerto Rican Barrio. A neighborhood marketplace known as La Marqueta has long been a symbol of the area's economic development or lack of it. The one's thriving market is now run down and in need of renovation, but as the political climate heats up in New York City for local elections, La Marqueta is beginning to become an issue. From New York Mandalit del Barco reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a607a928-8c2a-44d6-b7c0-d27df12b5b8f"
+    },
+    {
+      "start_time": 396,
+      "end_time": 404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beuno, aqui tengo platano maduro, platano verdes. Tengo Yucca, [inaudible], aguaâaguacate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santiago-Jose Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "577abd79-7238-4a2b-9eef-1020571e864f"
+    },
+    {
+      "start_time": 404,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Banana King, Jose Luis Santiago sells fruit from a stand at La Marqueta. A warehouse under the old, elevated subway tracks in the heart of El barrio, Santiago has been here for 42 years in the business he took over from his father in that time, he says he is seen many changes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "da82a041-514b-4117-b411-2a2f229512c7"
+    },
+    {
+      "start_time": 421,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh! Aqui la luna han cambiado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santiago-Jose Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "5f70e3d9-5e74-459f-9f8e-a6dc0a7ad973"
+    },
+    {
+      "start_time": 426,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "6b3e420f-b88a-46b4-b6e7-25b0d00d1734"
+    },
+    {
+      "start_time": 428,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como te dije al principio que la marqueta se cayeron, caer no, no limpieza toda via ven la marca."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santiago-Jose Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "a26dbc64-f5b4-46e0-a654-082c068939dc"
+    },
+    {
+      "start_time": 435,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Marqueta fell into disrepair over the years. He says, leaving the place dirty and neglected. Luis the Banana King's just one of eight or nine vendors left at La Marqueta, along with a couple of butchers, fabric vendor, egg seller and botanica merchants. He's watched the once thriving marketplace deteriorate before his eyes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "d9244ed7-5711-4c40-b59a-86edd1ada91a"
+    },
+    {
+      "start_time": 453,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No hay mucho publico, muy pco lo que nadie aqui, no hay nada que buscar--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Santiago-Jose Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "b7a0653f-d854-4166-b867-2c9d1e14b749"
+    },
+    {
+      "start_time": 460,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luis the Banana King laments that nobody shops at the marketplace anymore and there's not much to shop for. It's a far cry from 1936 when it was created by Mayor Fiorello La Guardia as an indoor space to keep the push cart pedalers off the streets. What started as the Park Avenue market with Italian and Jewish merchants slowly shifted to becoming La Marqueta as Puerto Rican started flooding into East Harlem in the 1950s, there were five Marqueta buildings where there now is barely one. Butcher Alex Garcet, a Puerto Rican New Yorker remembers how La Marqueta used to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1936",
+          "category": "Dates"
+        },
+        {
+          "tag": "1950s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "4bc8a537-9a0e-4b30-89d8-031e40e1ee97"
+    },
+    {
+      "start_time": 493,
+      "end_time": 511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "30 years was different, was crowded you couldn't even... We used to open at five in the morning by six o'clock was people waiting outside the N 20. The bus used to be crowded. Everything, it's nothing, was different. Everybody was concerned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Garcet-Alex",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "38d53cdd-f12a-40c7-ac91-aa6e7ccc7ead"
+    },
+    {
+      "start_time": 511,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the 1970s, tenants at La Marqueta organized to run the marketplace and later several developers took over all without success. La Marqueta became the site of building code violations and neglect as small vendors retired or moved elsewhere and there was no one left to take their place. A year and a half ago, the city finally took charge again. Through the Economic Development Corporation. [Natural sounds of neighborhood] The city is fixing the one remaining building hoping to welcome new tenants by October. There's now a task force working on choosing a new developer to boost La Marqueta to a new future. The city is committed $5 million to the project and the task force is hoping for state and federal money in addition. East Harlem City council member Adam Clayton Powell IV envisions La Marqueta as a tourist attraction and an affordable neighborhood shopping center."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural sounds--Neighborhood ambience",
+          "category": "Sounds"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "5da9fb27-8aed-474f-b422-1d05944d02e3"
+    },
+    {
+      "start_time": 561,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to see like a flea market where different vendors can have their push guards and where we can have fruits, vegetables, t-shirts, magic, trick stores that that sort of thing, and I think it can be done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Powell-Adam Clayton 1962-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e4aad97f-3b1d-456e-9765-d3c1dcf272d3"
+    },
+    {
+      "start_time": 576,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But others, including Powell's rival in the current city council election, William Del Toro wonder about the viability of such a dream becoming reality given the marketplace's history and the neighborhood's lack of buying power. Also, the wisdom of spending so much money to revive a place that might simply be outmoded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "7714d871-e335-43ab-bdff-3778a6706b63"
+    },
+    {
+      "start_time": 593,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The goal is to create 20 stalls at a cost of $2,000,000.00 Do you know what we're talking about? $100,000.00 a stall. And you know what a stall is? A couple of pieces of plasterboard and a gate that rolls down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "del Toro-William",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "56deb95b-6c0c-4e40-be45-860c15b37e7c"
+    },
+    {
+      "start_time": 613,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Archival sound] Temperatura en la cuidad de Nueva York en los 84 grados."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 24"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Archival sound--Radio broadcast",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "a293d62d-f92c-4cf3-90af-b37acdb8aa5c"
+    },
+    {
+      "start_time": 616,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those working to revitalize La Marqueta disagree that the place is doomed. They see a future mixed east marketplace complete with food vendors, clothing stores, movie theaters, and a community space with the smells, feel, and mood of East Harlem. Across from the banana stand, Alex Garcet sells fresh meat, accepting food stamps and allowing his customers to buy food on credit. He even has a whole index card catalog filled with IOUs like many in the neighborhood, Garcet considers where he works a landmark. Not long ago, he had to lay off 11 employees from behind the meat counter, still he says he'll stay. Why do you stay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "96193840-f3cf-460c-ac0e-c430b6dbd340"
+    },
+    {
+      "start_time": 654,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, listen, the reason we stand, because we have hope. Okay? Everybody have hope and I have a hope that one day we might be able to make it and we doing it by ourself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Garcet-Alex",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "63882cf3-ad22-4fb3-8a67-d1ebebd74a91"
+    },
+    {
+      "start_time": 665,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Until La Marqueta becomes a sensation that's promised, Alex Garcet says the vendors will continue to wait for customers to return. For Latino USA, Mandalit del Barco in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barco-Mandalit del",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New York--New York City--Manhattan--El Barrio--East Harlem",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New York--New York--East Harlem--La Marqueta",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "La Guardia-Fiorello H--Fiorello Henry 1882-1947",
+          "category": "People"
+        },
+        {
+          "tag": "New York City Economic Development Corporation",
+          "category": "Organizations"
+        },
+        {
+          "tag": "New York City Council",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Small business",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Employment",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Elections",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mayors",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Public Works",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Social conditions",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Working class",
+          "category": "Communities"
+        },
+        {
+          "tag": "Field reporting--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Community members",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Politicians",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "92332660-50f6-4900-8aa9-2b872d83f87c"
+    },
+    {
+      "start_time": 676,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition music] [Rock en espaÃ±ol]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Rock",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "519988a0-cffb-4dbc-83f2-970dd0dbb726"
+    },
+    {
+      "start_time": 684,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the intense anti-immigrant climate of California artists, David Avalos, Lewis Hawk and Elizabeth Cisco wanted to make a statement. They came up with a project called Arte Reembolso, Art Rebate in which the artists distributed marked $10 bills to undocumented day laborers to show how the immigrant's money circulates and contributes to the area's economy. That project though proved to be very controversial, so much so that the National Endowment for the Arts recently withdrew their funding with us to speak about the project is one of the artists. David Avalos is a longtime activist for immigrant rights and a professor at California State University at San Marcos. Now, some people might see this as a piece of art that was basically handing out money, giving away free money to undocumented immigrants. Can you tell us a little bit about what was the conceptual background behind this piece?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d2dd825d-5fa6-4e45-91a5-9597e098321e"
+    },
+    {
+      "start_time": 753,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, interestingly enough, in the past, many projects that I've worked on have been criticized as a waste of taxpayer dollars. So Louis, Liz and I came upon the idea of taking the money for an art project and returning it to taxpayers who would think that anyone could criticize us for that? The only twist was that the taxpayers we chose to return the money to were undocumented workers, and that seems to be the problem in most people's eyes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Avalos-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "09c21826-0ce3-4949-9785-8bf4328bad4a"
+    },
+    {
+      "start_time": 786,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What exactly did you want to show by giving these undocumented immigrants money, though?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "603cf25f-0142-4ed5-9af1-6a31797d5a68"
+    },
+    {
+      "start_time": 791,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's a very simple gesture. Louis, Liz and I pay taxes and we recognize that we're part of a tax paying community and we recognize the undocumented worker in the United States as part of that tax paying community. Many of them have taxes deducted, federal income taxes, for example, deducted from their payroll checks. Others pay taxes in a variety of ways whenever they fill up their car with a tank of gas, whenever they buy a pair of socks or a bar of soap in a Kmart. This is something that's been forgotten in all the hysteria and all the hatred that's been whipped up by politicians like Pete Wilson against the immigrant. So we think it's ridiculous when people criticize the undocumented for using taxpayer dollar supported services. Hey, they're taxpayers too. That's all we're saying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Avalos-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ad2466a2-e27b-44b9-abea-030f2d145c23"
+    },
+    {
+      "start_time": 844,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, is this really an art project? Or is this more of using art to make a very definitive statement about immigrants' rights in this country?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ce756c39-8d1c-4015-b734-6f89de74f09a"
+    },
+    {
+      "start_time": 853,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's definitely an art project. I think if you look at the $10 bill as a material of this project, instead of using bronze or marble or oil paints, we used as a material for this project, this $10 bill, I think it's pretty easy to realize that the monetary value of the bill has been replaced in the public's mind with a symbolic value of the bill. $1,250 is what we're talking about in terms of the NE's portion of the $5,000 commission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Avalos-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "decb5b1b-5cc9-4740-9cd4-efccd6359de5"
+    },
+    {
+      "start_time": 888,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're talking about a molecule in the bucket, not a drop in the bucket, but what people are reacting to is not the monetary value, they're reacting to the symbolic value and I think they're reacting because it is so painful for many of us who want a simple answer to the economic problems in this country. It's so painful for many people to recognize, \"hey, the undocumented are part of our community.\" Like it or not, they're part of the tax paying community like it or not. So we're dealing with symbols. Unfortunately in this country, the quote illegal alien has become a media symbol, a media celebrity. The hard-earned tax dollar is another cultural symbol in this country, and we put those two symbols together. We juxtapose them just as artists, juxtapose symbols and images all the time, and the reaction that we've seen is a reaction that is all out of proportion to the amount of money that we're talking about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Avalos-David",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "8eb4dea0-81e8-473c-b63d-7350b72b9a18"
+    },
+    {
+      "start_time": 949,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pues, muchas gracias. Thank you very much. David Avalos, who along with Louis Hawk and Elizabeth Cisco have come up with a project called Arte Reembolso, Art Rebate in San Diego. Muchas gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--California--San Diego",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Wilson-Pete 1933-",
+          "category": "People"
+        },
+        {
+          "tag": "Hawk-Louis",
+          "category": "People"
+        },
+        {
+          "tag": "Cisco-Elizabeth",
+          "category": "People"
+        },
+        {
+          "tag": "National Endowment for the Arts",
+          "category": "Organizations"
+        },
+        {
+          "tag": "California State University San Marcos",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Government Policy",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Arts fund raising",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Noncitizens",
+          "category": "Communities"
+        },
+        {
+          "tag": "Immigrants",
+          "category": "Communities"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Art project--Arte Reembolso",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "8dd68515-1217-4db1-bfaf-babc9378ea08"
+    },
+    {
+      "start_time": 961,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transition music, Flute]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition--Music--Flute",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "eacca9b8-eea3-42f1-9f92-11a9894afa33"
+    },
+    {
+      "start_time": 995,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For over 400 years since New Mexico was settled by Spain in the 16th century, Hispanic folk artists in that state have created wooden statues called Santos, representing figures of Catholic saints. They've also made retablos, images of the saints painted on wooden panels. The practitioners of these carving arts or santeros were exclusively men until the last 20 years or so, but today, women are some of the best-known santeros and their contribution is the focus of an exhibit at the Museum of International Folk Art in Santa Fe, New Mexico. Catalina Reyes reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "16th century",
+          "category": "Dates"
+        },
+        {
+          "tag": "1970s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "a5c30c75-1e4e-4f1a-82fd-7479c9964229"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Though documentation is hard to find, it may be that New Mexican men and women have always collaborated at Santo making just as they often do today. Helen Lucero curated the art of the Santera exhibit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "eb07f40e-1677-4c51-a4bc-263e6011a4be"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women have said all along are the keepers of the faith in New Mexico, and so they will put up these images to decorate their homes to pray, to carry in processions, to dress, and so it makes sense that they would eventually start carving and painting them themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lucero-Helen R 1943-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "fc4f3c14-588f-469e-a7f7-67360237130b"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds of Museum] 40 objects representing the work of 26 Santeras are on view in the small exhibit room. There's a bulto tableau of Noah's Arc by Marie Romero Cash and her tin Smith husband, complete with wooden animals, a tin arc and foot tall carvings of Noah and his wife With Hispanic features and early 20th century dress, popular saints are rendered in various media Santo Nino de Atocha, a Christ child who helps prisoners. Dona Sebastiana or La Muerte, a skeleton in a two-wheeled wooden cart who represents death and of course our Lady of Guadalupe and Indian Virgin Mary who's especially venerated throughout the Americas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Museum",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "20th century",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "e02a7b62-63f9-4370-a93f-a6360e47cba2"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I haven't seen anything quite like this that the men have done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lucero-Helen R 1943-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "9e49f3bb-9c5a-4536-beea-a9a5accdb318"
+    },
+    {
+      "start_time": 1115,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are looking at a carving by Monica Sosaya Halford, a crucified woman who looks strikingly cheerful, smiling in a bright blue and white Basque peasant dress. She's an apocryphal saint named Santa Librada. A legend says she wanted to devote herself to God, so she prayed he would make her ugly to prevent her marriage. When God granted her wish and gave her a mustache and beard. The brother's enraged father had her crucified, but he converted to Christianity as she prayed from the cross. In New Mexico, Santa Librada goes without the beard in mustache. She sent to intercede on behalf of women with troublesome husbands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0fafa828-717a-4170-90a1-bb44af7f1119"
+    },
+    {
+      "start_time": 1152,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is the only crucified woman that we know of. This is the saint that women would pray to, and I just find it real interesting that her name is Librada also, which is basically translates as liberated. She is the one who helped women before there was a women's movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lucero-Helen R 1943-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "1ceaf2ef-bdd4-4792-995b-0e662380f697"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was during the civil rights movement of the 60s says Lucero, that Hispanic men in New Mexico began to revive the dying Spanish colonial Santero tradition. About 10 years later, women artists began to emerge from behind the dominance of men in public arenas, making saints images in such a variety of media that Lucero decided to include more than bultos and retablos in the exhibit broadening the definition of santera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        },
+        {
+          "tag": "1960s",
+          "category": "Dates"
+        }
+      ],
+      "uuid": "5b15f6fa-0772-4c3c-baba-2d46b92db7f8"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I chose to expand it to include other media as well. In other words, images of saints produced on straw applique on tin, on culture, embroidery, weaving, hide paintings, and even one woman's work, Rosa Maria Calles, whose work is all decorating ceramic face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lucero-Helen R 1943-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "e649c013-3ee4-4787-a86a-fe3aaca758eb"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds of woodworking] What I'm doing now is the actual roughing out taking the excess wood away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Calles-Rosa Maria",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Woodworking",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "0d01d69f-3d8e-423a-958d-e2dfd667b25e"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marie Romero Cash began carving and painting saints in the seventies when she was in her mid-thirties, the daughter of two famed Santa Fe tinsmiths. She's gone on to become one of the region's most recognized Santeras. Today she's working on a favorite figure, La Senora de Guadalupe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "601a7720-72f9-4f80-befd-32d015f1f949"
+    },
+    {
+      "start_time": 1251,
+      "end_time": 1266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Natural sounds of woodworking] After all the excess wood is gone, I'll be able to start working on the face and the hands and toning it down, and then it'll be ready for sanding and gesso and painting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cash-Marie Romero",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Woodworking",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "c3040ac5-b41f-431f-84c6-df93424141f3"
+    },
+    {
+      "start_time": 1266,
+      "end_time": 1287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Romero Cash has traveled throughout northern New Mexico studying Santo carvings in villages like Chimayo, where people still venerate figures hundreds of years old, but she'd rather be called a wood carver than a santera, which to her mind means a holy person. She says her goal isn't religious."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "d003c008-a9ee-44d0-a054-0ea55559f306"
+    },
+    {
+      "start_time": 1287,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mine happens to be learning everything that I can about specific things, including the santeros and what they did and how they did it and trying to get all our traditions in one bundle and then saving them and perpetuating them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cash-Marie Romero",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "ec35562d-c30f-4f53-bd36-f715aa917d6e"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Helen Lucero believes that for most of the Santeras in the exhibit, honoring the spirit of tradition is connected inseparably to the life of the soul."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "672d1f1e-6ff7-49a6-9c21-7bba471fa1c5"
+    },
+    {
+      "start_time": 1318,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I asked the women what this meant to them to be producing saints. And quite often the spiritual aspect of it was much more dominant than any I would've ever expected. If you are busy representing God, then you have a real direct link if you are a Hispanic, Catholic, new Mexican to what your work is so that these people really see themselves as a bridge almost between a holy place and a secular place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lucero-Helen R 1943-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "2d9af864-9545-4d3e-81e0-2349634c4dbb"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The art of the Santera continues at the Museum of International Folk Art in Santa Fe, New Mexico until January of next year. The exhibit will then travel throughout the country for several years, starting in Dallas, Texas for Latino USA. This is Catalina Reyes in Santa Fe, New Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reyes-Catalina",
+          "category": "People"
+        },
+        {
+          "tag": "United States--New Mexico--Santa Fe",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--New Mexico--Chimayo",
+          "category": "Places"
+        },
+        {
+          "tag": "Halford-Monica Sosaya",
+          "category": "People"
+        },
+        {
+          "tag": "Museum of International Folk Art--NM",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Catholic Church",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Folk art",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Women",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Interviews--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Exhibition--The Art of the Santera",
+          "category": "Works-Cited"
+        }
+      ],
+      "uuid": "4bec6945-b048-4a52-861c-39af3a61316a"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are most honored to have the following dignitaries celebrating with us tonight, and they are the honorable members of Congress. First of all, from Texas, Solomon Ortiz, from California, Esteban Torres from Guam, Ben Blaz, from Arizona, Ed Pastor..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 16"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "781e7827-3bcd-4d1a-adef-775f2d692094"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the time of the year dedicated to celebrating the contributions Latinos bring to this country. In Washington, an annual ceremony honoring Hispanic achievements in the arts, sports, literature, leadership, and education takes place in September."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "87ea5a2e-96de-493e-b90e-116c4d740d80"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A celebration of our culture from all over the world. A big hand for all of our special guests, ladies and gentlemen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 16"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "8cca85c8-5151-4bd1-bbbe-e4fecda650dd"
+    },
+    {
+      "start_time": 1405,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today, Latino USA begins our Hispanic Heritage Month programming with the words of some of those who've been recognized in the past for their contributions, preserving and enriching Hispanic heritage in the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0d6d696c-f788-4398-98de-ea65d88a83ab"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 1429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At a time in life when many are enjoying the easy life of retirement, Dr. Pantoja is actively engaged in building institutions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 17"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "72932df8-884e-459e-92c7-57b6bcc96e33"
+    },
+    {
+      "start_time": 1429,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Antonia Pantoja institution is a Puerto Rican educator, the founder of the National Puerto Rican Forum and the Youth Leadership Organization, Aspira."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e08b7809-fb7a-41bf-9795-67ca7826a807"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I invite you to come see me in my retirement. I live in the hills of Puerto Rico in a place called El Yunque, which is a magical mountain. [Natural sounds of clapping] A magical mountain where the Tainos, who were the people who were in Puerto Rico, when Columbus came to find Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pantoja-Antonia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Civic leaders",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Background--Natural Sounds--Clapping",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "33c40228-9202-4aab-a155-57b17fb2d3e0"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They live there in that mountain, in that magical mountain, and they believe that it was the abode of the gods, the good God [inaudible 00:24:38] and the bad God [inaudible 00:24:41], tonight we have been talking about family and we said back there, families understand one another. They work together, they fight together, and at times we have fought. But tonight we're together. And I wanted to comment on the fact that as I was looking around, I said, the Puerto Ricans that are being honored today are bringing the Black into the group, which is a very good thing for us to do. Sometimes we forget that that race is also part of us. I wanted to say that because sometimes you look around and you say, \"well, you're the only one.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pantoja-Antonia",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0b94a26d-de25-4b4a-bf5e-08c34a0cbc55"
+    },
+    {
+      "start_time": 1530,
+      "end_time": 1545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We must teach the Anglo world the meaning of cultural fusion. We must teach the Anglo world the meaning of cultural unity because we have it in our bloods and in our families. Uno saleprieto otro saleguero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valdez-Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Ortiz-Solomon P 1937-",
+          "category": "People"
+        },
+        {
+          "tag": "Torres-Esteban E--Esteban Edward 1930-2022",
+          "category": "People"
+        },
+        {
+          "tag": "Blaz-Ben",
+          "category": "People"
+        },
+        {
+          "tag": "Pastor-Ed 1943-2021",
+          "category": "People"
+        },
+        {
+          "tag": "National Puerto Rican Forum",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Aspira-inc",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "578d63e8-8bc0-4bee-a7a7-b6fe6bacdbb5"
+    },
+    {
+      "start_time": 1545,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Playwright Luis Valdez is the founder of El Teatro Campesino and recognized as the father of Modern Chicano Theatre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Tupac Amaru-Jose Gabriel 1738-1781",
+          "category": "People"
+        },
+        {
+          "tag": "El Teatro Campesino",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "0c6bd45c-4bff-4aaf-8d46-e801e30a9a5d"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I stand before you as an Indio, as un Indito, to celebrate the literature of our people. I don't look cultured, I look illiterate. I have been asked as a grown man whether I can read, but that's my advantage because I'm always underestimated. People never know what I'm going to come up with. [Laughter] AsÃ­ es que cuidado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valdez-Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Tupac Amaru-Jose Gabriel 1738-1781",
+          "category": "People"
+        },
+        {
+          "tag": "El Teatro Campesino",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Highlight--Natural Sounds--Laughter",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "1c1c43aa-1e5b-4ae5-a841-2efabcb5e2b7"
+    },
+    {
+      "start_time": 1589,
+      "end_time": 1624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We built the pyramids because we were mathematicians and we were brain surgeons and we were poets, and my people have been in Sonora and Arizona and in Aztlan for 40,000 years. So I embrace America and I know that we've all been taught in our schools that the name came from Americo Vespucci, cartographer of the new World. That wasn't the only place that America came from. The Peruvian, Las Peruanos, Peru had a name for this place. They had a leader called Tupac Amaru, which means the feathered serpent. What did Tupac Amaru called this place? Amaruca. Amaruca."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valdez-Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Tupac Amaru-Jose Gabriel 1738-1781",
+          "category": "People"
+        },
+        {
+          "tag": "El Teatro Campesino",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "e9dadd29-5e97-4db3-af99-8d1147a492e6"
+    },
+    {
+      "start_time": 1624,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mayas had a name for this place too. They called it Americua, the land of the four winds because they had a myth that here in the Americas, in Americua, the four winds came together, the four great roads, the white road, the black road, the yellow road, and the red road, and they all met at the naval of the universe, the spot that joins heaven and Earth. That is the Mayan vision, and that is my vision of our raza, of our American raza, of our Hispanity, of our American Hispanity. Asi es que, Thank you. Que viva la raza, que viva America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Valdez-Luis",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Tupac Amaru-Jose Gabriel 1738-1781",
+          "category": "People"
+        },
+        {
+          "tag": "El Teatro Campesino",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "f7dd9905-cfd6-4215-a142-afdb3bdd1d5e"
+    },
+    {
+      "start_time": 1668,
+      "end_time": 1671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Playwright and film director Luis Valdez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "United States--Arizona",
+          "category": "Places"
+        },
+        {
+          "tag": "United States--California",
+          "category": "Places"
+        },
+        {
+          "tag": "Peru",
+          "category": "Places"
+        },
+        {
+          "tag": "United States",
+          "category": "Places"
+        },
+        {
+          "tag": "Tupac Amaru-Jose Gabriel 1738-1781",
+          "category": "People"
+        },
+        {
+          "tag": "El Teatro Campesino",
+          "category": "Organizations"
+        },
+        {
+          "tag": "Hispanic Heritage Month",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Chicano movement",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Ethnic Identity",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Speech",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "History",
+          "category": "Subject-Headings"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "Communities"
+        },
+        {
+          "tag": "Peruvians",
+          "category": "Communities"
+        },
+        {
+          "tag": "Feature package--Journalists",
+          "category": "Journalistic-Approaches"
+        },
+        {
+          "tag": "Speeches--Artists",
+          "category": "Journalistic-Approaches"
+        }
+      ],
+      "uuid": "9bfc215b-7fce-4536-bd02-addd70a2764d"
+    },
+    {
+      "start_time": 1678,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, y por esta semana, this has been Latino USA. The Radio Journal of News and Culture. Latino USA is produced and edited by Maria Amelia Martin. The associate producer is Angelica Luevano. We had help this week from station KUNM in Albuquerque, WNYC in New York City, Neil Raush and the Hispanic Link News Service. Latinos USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. We want to hear from you, so Â¿por quÃ© no nos llaman? Why don't you call us on our toll-free number. It's 1-800-535-5533. That's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. Y hasta la prÃ³xima, until next time, I'm Maria Hinojosa for Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hinojosa-Maria 1961-",
+          "category": "People"
+        },
+        {
+          "tag": "Background--Music--Closing Theme",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "278cbff6-46c2-41ab-a340-1ee45f8d2179"
+    }
+  ],
   "set": "Default",
   "event_id": "9b467d98-806f-4606-9f51-114a4e916743",
   "source_id": "1f0da387-efc4-4b3e-bece-1417550dbfca"
