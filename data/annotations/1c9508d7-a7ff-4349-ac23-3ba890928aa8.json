@@ -1,5 +1,1749 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | Transition--Music--Opening theme"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "This is Latino USA, the Radio Journal of News and Culture. I'm Maria Hinojosa."
+        }
+      ],
+      "uuid": "057ca6dc-4395-4238-a610-8c53f8d1b3d2"
+    },
+    {
+      "start_time": 19,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Today on Latino USA, the defeat of English-only in Miami."
+        }
+      ],
+      "uuid": "530e9e1a-580d-448c-8089-fb99517fe759"
+    },
+    {
+      "start_time": 24,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I don't want to be forced to learn Spanish. That's one of the things I hear all the time. And I don't think the law is about forcing anyone to learn Spanish or Creole or any other languages spoken here."
+        }
+      ],
+      "uuid": "6724a9e3-f853-477a-8b14-c6a5f031d784"
+    },
+    {
+      "start_time": 34,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The plight of the chile workers in New Mexico and West Texas."
+        }
+      ],
+      "uuid": "18f5599e-febe-4143-b2ec-c5bb16115a4b"
+    },
+    {
+      "start_time": 38,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marentes-Carlos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "They continue to be treated in a inhuman way by the agri business and the food industry."
+        }
+      ],
+      "uuid": "fb03e2c0-40c2-4840-acba-ff821123e6bf"
+    },
+    {
+      "start_time": 45,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "And also on Latino USA, young poets in Seattle put their hearts into words."
+        }
+      ],
+      "uuid": "2e619357-9697-4347-b08e-b2d5cabec664"
+    },
+    {
+      "start_time": 51,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maestas-Roberto"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "There's a little poet running around your house no matter how small he or she is."
+        }
+      ],
+      "uuid": "164053bb-c5cd-42f1-b8fe-f29caabd8845"
+    },
+    {
+      "start_time": 57,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "This and more on Latino USA. But first, las noticias."
+        }
+      ],
+      "uuid": "7746c8b7-0b07-49e4-8284-43441f08021f"
+    },
+    {
+      "start_time": 62,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin-Maria E--Maria Emilia 1951-2023 | United States | Latvia | Estonia | Russia | Japan | United Nations | Inequality | Poverty | Education | Black people | Women | Reader--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "This is news from Latino USA. I'm Maria Martin. According to the United Nations, US Latinos and African Americans enjoy a lower quality of life than people in many developing countries. Franc Contreras reports."
+        }
+      ],
+      "uuid": "baca2f02-2190-4d7c-8421-d1cdab4a9c97"
+    },
+    {
+      "start_time": 75,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contreras-Franc | United States | Latvia | Estonia | Russia | Japan | United Nations | Inequality | Poverty | Education | Black people | Women | Reader--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The report from the United Nations studied quality of life for people living in 137 countries around the globe. It's called the Quality of Life Index and it examines life expectancy, education, and purchasing power. The report found that, as a group, US Latinos fall way behind the US as a whole. The report says the non-minority population in the US has the best standard of living in the world, but Latinos ranked 35th worldwide. Life for Latinos in the US compares to people living in the former Soviet republics of Latvia and Estonia. And according to the report, US Latinos do just a little better than people living in Russia. The number one country in the world, according to the report, is Japan, but that country drops to number 17 when the treatment of Japanese women is taken into consideration. For Latino USA, I'm Franc Contreras in Washington."
+        }
+      ],
+      "uuid": "67de1d8f-01f3-4d3c-a45d-979635845c83"
+    },
+    {
+      "start_time": 127,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin-Maria E--Maria Emilia 1951-2023 | United States--New York--New York City | Dinkins-David N 1927-2020 | Giuliani-Rudolph W | New York Times Company | WCBS--Radio station | Hispanic Federation of New York City | Elections | Mayors | Voting | Citizen participation | Discrimination | Reader--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Latino voters in New York could be a key force in that city's upcoming mayoral race. That's what recent polls say, as Latino USA's Mandalit del Barco reports."
+        }
+      ],
+      "uuid": "cc7a6901-39f4-41f5-aa68-5b98f19791c0"
+    },
+    {
+      "start_time": 136,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barco-Mandalit del | United States--New York--New York City | Dinkins-David N 1927-2020 | Giuliani-Rudolph W | New York Times Company | WCBS--Radio station | Hispanic Federation of New York City | Elections | Mayors | Voting | Citizen participation | Discrimination | Reader--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "A New York Times WCBS poll shows more than 1200 Latino voters giving Mayor David Dinkins a 40% approval rating. They were split in their support between Dinkins and a Republican challenger, Rudolph Giuliani. But analysts say the results prove a growing political power in the city where one of every four New Yorkers is Latino. Another survey by the Hispanic Federation of New York City shows Latinos don't think the mayor's doing a good job, but if the election were held today, they would vote for Dinkins. In the last election, Dinkins got about 70% of the Latino vote. Some say that's because Latinos here believe they shared a political agenda with the city's first African-American mayor. The poll shows continued support for the mayor with a warning that the quality of life must improve for Latinos in the city. The picture that emerged from the thousand Latinos polled was one of anger and despair about discrimination, education, the economy, crime, and drugs. For Latino USA, I'm Mandalit del Barco in New York."
+        }
+      ],
+      "uuid": "96d41600-b570-46bb-9f38-7038099d5e94"
+    },
+    {
+      "start_time": 193,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin-Maria E--Maria Emilia 1951-2023 | Puerto Rico--Vieques | United States--Washington DC | Committee for the Rescue and Development of Vieques | United States Navy | United States Congress | Armed forces | Military bases | Environmental degradation | Environmental protection | Government Policy | Protest movements | Puerto Ricans | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "A delegation from the Puerto Rican island of Vieques, the site of a US naval base, came to Washington to ask Congress to close that base. Robert Rabin, head of the Committee for the Rescue and Development of Vieques says the Navy's presence on the island has had a negative impact on the economy and environment."
+        }
+      ],
+      "uuid": "522ef5d7-42ec-4374-a1bc-66ba9963f5e6"
+    },
+    {
+      "start_time": 210,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rabin-Robert | Puerto Rico--Vieques | United States--Washington DC | Committee for the Rescue and Development of Vieques | United States Navy | United States Congress | Armed forces | Military bases | Environmental degradation | Environmental protection | Government Policy | Protest movements | Puerto Ricans | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The US Navy has been bombing the island of Vieques for the last 50 years, and they also use the Western and the Vieques as giant ammunition depot. So we are asking now that the Vieques Navy bases be included in the base closure program, which is part of the Clinton administration's plan for reducing military expenditures."
+        }
+      ],
+      "uuid": "6e495bd2-ab84-400a-9f73-bcd8cabe0ed2"
+    },
+    {
+      "start_time": 232,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin-Maria E--Maria Emilia 1951-2023 | Puerto Rico--Vieques | United States--Washington DC | Committee for the Rescue and Development of Vieques | United States Navy | United States Congress | Armed forces | Military bases | Environmental degradation | Environmental protection | Government Policy | Protest movements | Puerto Ricans | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "A spokesperson for the Navy says moving the personnel station on Vieques could cost the Navy much more than it paid for the base in 1940. You're listening to Latino USA."
+        }
+      ],
+      "uuid": "a4943869-5c16-4686-8d3c-94956667678b"
+    },
+    {
+      "start_time": 243,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin-Maria E--Maria Emilia 1951-2023 | Puerto Rico | United States--Washington DC | Clinton-Bill 1946- | Moynihan-Daniel P--Daniel Patrick 1927-2003 | US Congress | US Department of the Treasury | Economic policy | Corporations | Tax incentives | Government Policy | Puerto Ricans | Interviews--Politicians"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Puerto Rico's governor, Pedro RossellÃ³, also came to Washington to lobby Congress. RossellÃ³ wants the US government to maintain Section 936 of the US tax code. Section 936 allows US companies operating in Puerto Rico to go without paying taxes for 10 years. From Washington, Patricia Guadalupe has more."
+        }
+      ],
+      "uuid": "ed25095e-7af1-4694-85b9-9b74f3961f1e"
+    },
+    {
+      "start_time": 262,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guadalupe-Patricia | Puerto Rico | United States--Washington DC | Clinton-Bill 1946- | Moynihan-Daniel P--Daniel Patrick 1927-2003 | US Congress | US Department of the Treasury | Economic policy | Corporations | Tax incentives | Government Policy | Puerto Ricans | Interviews--Politicians"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Section 936 was originally planned as a post-World War II economic incentive to industrialize the once agricultural economy of Puerto Rico. Section 936 is viewed by many lawmakers, including President Clinton, as an unnecessary tax shelter. According to congressional figures, eliminating Section 936 would add more than 6 billion to the US Treasury. President Clinton has proposed eliminating Section 936, but Puerto Rico's governor Pedro RossellÃ³ believes that would spell economic disaster for the island. RossellÃ³ says Puerto Rico's unemployment rate, now at 18%, double the US average, would rise sharply. Over a third of the island's workforce is employed by Section 936 companies. RossellÃ³ met with New York Democrat Daniel Patrick Moynihan, chairman of the Senate Finance Committee."
+        }
+      ],
+      "uuid": "6aa13943-9b21-4482-afb9-fb2139be81ba"
+    },
+    {
+      "start_time": 316,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rossello-Pedro J 1944- | Puerto Rico | United States--Washington DC | Clinton-Bill 1946- | Moynihan-Daniel P--Daniel Patrick 1927-2003 | US Congress | US Department of the Treasury | Economic policy | Corporations | Tax incentives | Government Policy | Puerto Ricans | Interviews--Politicians"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "What we asked him to do was to include a two-option plan. Also, that the level of contribution from Section 936 is new revenues to treasury be kept in the range of 3 billion dollars over the next five years."
+        }
+      ],
+      "uuid": "936e678e-ef31-430a-b4a1-24000d8816fb"
+    },
+    {
+      "start_time": 331,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guadalupe-Patricia | Puerto Rico | United States--Washington DC | Clinton-Bill 1946- | Moynihan-Daniel P--Daniel Patrick 1927-2003 | US Congress | US Department of the Treasury | Economic policy | Corporations | Tax incentives | Government Policy | Puerto Ricans | Interviews--Politicians"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Some proposals include keeping Section 936 revenues in Puerto Rico to help pay for a national healthcare plan. For Latino USA, I'm Patricia Guadalupe in Washington."
+        }
+      ],
+      "uuid": "87ed3907-aaf6-4ccb-980b-f9934dc25f8e"
+    },
+    {
+      "start_time": 341,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin-Maria E--Maria Emilia 1951-2023 | United States | Home Box Office--Firm | Telemundo Group-Inc | Reuters Television News | Television broadcasting | Spanish language | Reader--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Home Box Office has announced plans to launch HBO en EspaÃ±ol, a Spanish language version of its regular schedule of movies. HBO en EspaÃ±ol will be available in the top 10 Latino markets beginning in October, and television network Telemundo plans to launch their Spanish-language newscast in conjunction with Reuters television. I'm Maria Martin with news from Latino USA."
+        }
+      ],
+      "uuid": "a6025a1d-148b-4e27-ad26-102fb88aa8c4"
+    },
+    {
+      "start_time": 371,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "This is Maria Hinojosa. The memory of farm worker leader Cesar Chavez continues to be honored throughout the country. In Los Angeles, there's talk of naming a boulevard after him and a bill has been introduced in the state of California to make his birthday a statewide holiday. Recently, in another state, in El Paso, Texas, the city and county government declared a Cesar Chavez Day when a local supermarket chain announced it would honor the boycott of table grapes advocated by the United Farm Workers. Cesar Chavez Day in El Paso was also commemorated with a march attended by farm workers and farm worker advocates. It was an occasion, as an Angelica Luevano reports, to focus on the plight of the farm workers who picked chile in the fields of West Texas and Southern New Mexico."
+        }
+      ],
+      "uuid": "c915ae53-721a-4aee-a8cd-ad464e12830d"
+    },
+    {
+      "start_time": 420,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luevano-Angelica | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Close to 3,000 gathered to pay tribute to the late Cesar Chavez, the farm labor leader who fought to better working conditions in the picking fields. And it's here near the border with Mexico, in the chile fields, where the worst working conditions prevailed, according to Carlos Marentes, president of the Border Farm Workers Union."
+        }
+      ],
+      "uuid": "dcd07478-c10e-44e2-a117-b4b967ba102f"
+    },
+    {
+      "start_time": 441,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marentes-Carlos | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Farm workers in this area are still receiving wages way below the federal minimum wage. They are working on their unhealthy and unsafe working conditions, and they continue to be treated in an inhuman way by the agri business and the food industry."
+        }
+      ],
+      "uuid": "2a7e6331-4da9-4bf7-b5b6-e05479844b0e"
+    },
+    {
+      "start_time": 459,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luevano-Angelica | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals | 1992"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Marentes indicates that the average annual income for a farm worker in this area is just over $5,000, well below the poverty line. At the same time, the chile industry has become the most prosperous in the region. In 1992, picante sauce or salsa surpassed ketchup as the most popular condiment in the US. And for the state of New Mexico, chile is the most lucrative crop. Mark Schneider, a lawyer with Texas Rural Legal Aid says that the Department of Labor for years has ignored the enforcement of minimal labor laws for the farm workers."
+        }
+      ],
+      "uuid": "23a564fd-b363-4227-ab81-422f6ee6da25"
+    },
+    {
+      "start_time": 497,
+      "end_time": 506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Schneider-Mark | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The sad thing is, here in El Paso, in southern New Mexico, even the minimal laws are not complied with and they're broken more than they're complied with."
+        }
+      ],
+      "uuid": "9906371c-6b06-41cb-b241-2e99d64168ea"
+    },
+    {
+      "start_time": 506,
+      "end_time": 511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luevano-Angelica | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Is the situation here for the farm workers worse than in any part of the country or what is the situation?"
+        }
+      ],
+      "uuid": "e6a6c481-21ac-4d90-be32-49d35737de43"
+    },
+    {
+      "start_time": 511,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Schneider-Mark | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I think it's probably the worst of any place in the country because of our day hall system and that means that people are recruited one day at a time, they spend four to five hours a day in old dangerous school buses going a hundred to 120 miles away to work, picking chile in 100, 110-degree heat on a piece rate. They don't even make minimum wage for time in the fields, let alone for travel time, and the workers are made homeless. These are people who maybe have homes, but they have to sleep in the streets of El Paso so they can get a job every day."
+        }
+      ],
+      "uuid": "692f9659-fe9b-46ef-ad3b-a9c4cd4d8747"
+    },
+    {
+      "start_time": 545,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luevano-Angelica | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Even the Catholic diocese of El Paso has joined in the call for better working conditions. Bishop Raymundo PeÃ±a honored Cesar Chavez and the struggle of the farm workers."
+        }
+      ],
+      "uuid": "74f8387a-a0e1-4f9a-863d-3cf968e1dd87"
+    },
+    {
+      "start_time": 556,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pena-Raymond Joseph 1934- | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "We are consciously aware of the fact that we must carry on his work. That much remains to be done in order to bring about the necessary legal and social changes that may ensure just wages for the farm worker, fair treatment in the workplace, and a life of dignity and respect that results when civil and human rights are protected."
+        }
+      ],
+      "uuid": "bcba6b65-685d-428c-b978-9da453a93229"
+    },
+    {
+      "start_time": 585,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luevano-Angelica | United States--California--Los Angeles | United States--Texas--El Paso | United States--Texas--West Texas | United States--New Mexico | United States--New Mexico--Southern New Mexico | Chavez-Cesar 1927-1993 | United Farm Workers--UFW | Border Farm Workers Union--El Paso-Tex | Texas Rural Legal Aid | Catholic Church Diocese of El Paso--Tex | Agricultural laborers | Exploitation | Poverty | Community organizations | Protest movements | Working class | Immigrants | Mexicans | Field reporting--Journalists | Interviews--Community leaders | Interviews--Professionals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Three years ago, over 100 workers went on strike against one of the largest chile farms in New Mexico, and as a result, a collective bargaining agreement was signed. That contract has not been renewed. Still, labor leader Carlos Marentes says the farm workers' movement is alive and as time goes on, more attention continues to be focused on the plight of the chile workers. For Latino USA, I'm Angelica Luevano in El Paso, Texas."
+        }
+      ],
+      "uuid": "b04ea8f1-f2c6-41d7-9a29-300bb914c007"
+    },
+    {
+      "start_time": 615,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "We're doing a survey to find out how people feel about the repeal of the anti-bilingual ordinance, making Dade County bilingual again."
+        }
+      ],
+      "uuid": "f8fbd817-4dc6-45a9-b4a1-e1911c4bcb4a"
+    },
+    {
+      "start_time": 622,
+      "end_time": 627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 2 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Estamos de acuerdo con esa ley de que sea bilingÃ¼e, no?"
+        }
+      ],
+      "uuid": "ce90ede7-1bab-4f46-9fdf-c153d0377010"
+    },
+    {
+      "start_time": 627,
+      "end_time": 631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 3 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Why should we have to learn two languages where we stay here in America?"
+        }
+      ],
+      "uuid": "ab6d149e-4e33-4f88-a7a3-c54c81209ef1"
+    },
+    {
+      "start_time": 631,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 4 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "60% of the county speak Spanish, so yeah, I approve it."
+        }
+      ],
+      "uuid": "07d0eb82-bff8-44d0-97a9-5aa89fe7c162"
+    },
+    {
+      "start_time": 636,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 5 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Yo cuando comenzÃ³ la le ese estaba trabajandoâ¦"
+        }
+      ],
+      "uuid": "0f642963-0371-48f0-864c-233af8673be5"
+    },
+    {
+      "start_time": 640,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 7 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I remember when the law began and I was working, speaking Spanish with a coworker and some people came over and told me it was absolutely forbidden to speak Spanish."
+        }
+      ],
+      "uuid": "43d8c893-549f-4c2f-9431-405e191285e4"
+    },
+    {
+      "start_time": 653,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 21 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "From my understanding, is that I think it would probably better if anything because the government's going to be understood by more people."
+        }
+      ],
+      "uuid": "f596de34-da87-492d-a5dc-4599d81822ac"
+    },
+    {
+      "start_time": 659,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 8 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "And in case of a hurricane or something, these people got to know where to go, what to do."
+        }
+      ],
+      "uuid": "654f1a64-b153-4e3a-bb9a-931e55ec618f"
+    },
+    {
+      "start_time": 663,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists | 1980"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I'm Maria Hinojosa. You've been listening to a sampling of opinions from Miami about the recent repeal of a 13-year-old English-only law, which prohibited the official use of Spanish in Dade County. The law was enacted in 1980 in the wake of the Maria boat lift from Cuba and the arrival of thousands of Haitian refugees. One observer said the repeal of the English-only amendment signals a new era of bilingualism and bi-culturalism in South Florida."
+        }
+      ],
+      "uuid": "8f6c768f-e1ac-481e-91d4-d9c36b061bb4"
+    },
+    {
+      "start_time": 691,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "With us to speak about, if indeed this is a new era, and what it symbolizes, are Ivan Roman, a staff writer with El Nuevo Herald, Nancy San Martin, a general assignment reporter for the Sun-Sentinel, and Emilio San Pedro of WLRN Radio and a Miami correspondent for Latino USA. Welcome to all of you and muchos gracias, thank you for joining us. Many people are talking about this, in fact, as the dawn of a new political and cultural era in South Florida. Does this, in fact, set the stage for a whole new political reality in that area?"
+        }
+      ],
+      "uuid": "a4815a2b-781b-414f-9bcf-997942a2c0fb"
+    },
+    {
+      "start_time": 723,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 9 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "It's not so much the repeal of the ordinance that's going to foster that change. I think that a lot has happened in Miami and this is just a step in the right direction. It's the first concrete example of working together in unity, if you will, from the standpoint of politicians or leaders in the community taking a certain position with this issue. I think a lot will follow."
+        }
+      ],
+      "uuid": "342321fd-d9a5-4bc7-94a8-9b41c58da223"
+    },
+    {
+      "start_time": 747,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Well, the people were saying that in fact this could, in many of the reports there were questions of whether this was going to increase ethnic divisions. What is the reality there? Is this in fact going to divide more groups? Or has this brought together the minority groups in the Miami area to say, look, if we work together, we're not a minority, we're a majority and we have political clout and can do things?"
+        }
+      ],
+      "uuid": "fae0c6fe-b8ad-43d3-bfb8-472cc0723c4b"
+    },
+    {
+      "start_time": 769,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I think we can look at a combination of factors there. If we look at the new composition of the county commission, we have six Hispanics and four Blacks on it. In addition, three non-Hispanic Whites, and the commission has made it clear, everyone on that commission, that they're looking towards change, they're looking towards working together. One of the ways to do it is with repealing this law."
+        }
+      ],
+      "uuid": "799d56f4-05f3-4dde-a52e-5adfad74c63c"
+    },
+    {
+      "start_time": 793,
+      "end_time": 827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Another thing that has happened in the last few weeks was the ending of the Black Boycott of Miami, the Black Convention Boycott. There are just a series of factors in which basically what's happening is a realization of the changes in Dade County and just getting rid of the vestiges to reflect the reality in Dade County that's been happening for the last 10 years, that it is a community with a bunch of different groups that need to work together and the leadership is finally saying, look, let's work together and let's deal with all these different vestiges that keep us apart."
+        }
+      ],
+      "uuid": "e2417e4d-fef1-4324-bb2e-dd479b356a3b"
+    },
+    {
+      "start_time": 827,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Was there any one specific thing that really set the stage for these groups beginning to work together and as you say, Ivan, realizing that this is the reality in the Miami area?"
+        }
+      ],
+      "uuid": "faff55f4-134d-451e-a43f-5467075926f6"
+    },
+    {
+      "start_time": 838,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I think the redistricting of the county commission and the way that the commission is set up and voted on, I think that was this very significant focal point and that was when things started to really perhaps change because of the way that the commission has changed and the diversity on the commission, as Ivan was mentioning, has made it possible for all these things to come up again, things that were had become law and were not discussed for quite a while."
+        }
+      ],
+      "uuid": "f507244e-e276-4e34-86e3-34a0235637de"
+    },
+    {
+      "start_time": 866,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 10 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "People realize that to get anything done, you need a coalition. If you have six Hispanics and four Blacks and three Whites on a commission, you realize that you have to establish coalitions to get anything done. You just can't not do anything. I think another thing that happened, is the success of the boycott was finally making the leaders here realize that something needed to be done to ensure the economic health of the county, and at the same time, the hurricane I think was very helpful in making everybody realize here that everybody needed to work together to help."
+        }
+      ],
+      "uuid": "8b403104-dc0b-4306-964d-874b4b908bd4"
+    },
+    {
+      "start_time": 899,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "What was interesting for me was that there was not only divisions on the issue of the English-only law between for example, Latinos and African Americans or Anglos, for example. We also saw heated confrontation between Latino groups. Not all Latinos wanted to repeal the English-only law."
+        }
+      ],
+      "uuid": "8b9427a0-b4cf-4096-9fc1-9cca8e1726fa"
+    },
+    {
+      "start_time": 915,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 11 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Well, I think it's good that they can speak their own language, but I don't like to walk in a place where nobody speaks English even though I do speak Spanish and I'm Cuban."
+        }
+      ],
+      "uuid": "f9fe2a70-55b6-4e13-b03e-9d2466caf705"
+    },
+    {
+      "start_time": 925,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 9 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I think you're right, that both sides had a combination of Latinos or Blacks and non-Hispanic Whites did speak on both sides of the issue, but I was at the meeting and the pro or anti-repeal folks were certainly a lot smaller. The interesting thing also was that just using Hispanics and Haitian as an example, in recent events, those two particular groups have been on opposing sides, and for the first time in recent months, you saw both facets fighting for the same thing, and that was to repeal the ordinance. I think it was clearly a demonstration of unity that had not been seen in recent months here, and I think it's a good sign."
+        }
+      ],
+      "uuid": "d0b19c97-94f2-4318-b270-d62193b2851f"
+    },
+    {
+      "start_time": 972,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 10 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I also think that younger generations of Hispanics here in Miami, because of increased immigration, daily immigration every day, and a strong identification of Hispanics in Dade County with their culture and with their ancestry, especially in the Cuban community, that it's much harder to have a particular Hispanic group that would be against a law that in essence attacks or sub-estimates Spanish, which is part of what they are. So, I think that, of that group that you're mentioning, I think is a very minor thing in this community."
+        }
+      ],
+      "uuid": "d4de669d-ba17-4b85-9752-f896344a5a8a"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 1 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "However, in many cases, I think the discord in relation to the law that was just passed is because a lot of people don't really understand what the law really means. I mean, when you ask them, when you go out and interview them and you talk to them about it, to many people it's a matter of pride. It's a matter of defining your stake in this community. And I think for them when they talk about it, they say things like, I don't want to be forced to learn Spanish. That's one of the things I hear all the time, and I don't think the law is about forcing anyone to learn Spanish or Creole or any other languages spoken here. Also, among the Haitian community, they don't really know what role this will play in their language, Creole being also spoken or translated or, and used in county documents."
+        }
+      ],
+      "uuid": "b5cc192c-9e2b-41e2-8a27-62b10be3a006"
+    },
+    {
+      "start_time": 1052,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 10 | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "You know, it's not that the law is really going to change anything. It's not that the previous law really did anything that would change much that was of substance. It's largely symbolic. It's people trying to define what American culture is. We're still hearing all of these catchphrases about, well, people should adapt to what American culture is, and everybody's trying to define what that is. And in Dade County, people are saying, no American culture is not necessarily what you would define as American culture in the Midwest. It's reflective of different groups that are here and we all have something to contribute. So it's a redefinition of American culture, and people who don't want to define it that way and want to resist any change to what they understand as American culture, take this as a very symbolic and important issue when, in essence, practically, it really means nothing."
+        }
+      ],
+      "uuid": "7b18f16b-046c-4a18-9765-6f4870894116"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Florida--Dade County | United States--Florida--Miami | United States--Florida--South Florida | Dade County--Fla County Commission | El Nuevo Herald | Sun-Sentinel--Fort Lauderdale-Fla | WLRN--Radio station Miami-Fla | Government Policy | Coalitions | Spanish language | Discrimination | Cubans | Haitians | Black people | Immigrants | Interviews--Community members | Panel discussion--Journalists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Thank you for joining us from Miami, Ivan Roman of El Nuevo Herald, Nancy San Martin, a general assignment reporter for the Sun-Sentinel, and Emilio San Pedro of WLRN Public Radio."
+        }
+      ],
+      "uuid": "bd9b7e55-6146-429e-aa12-ca1d8c74e4a8"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition--Music--Hip-hop"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(singing)"
+        }
+      ],
+      "uuid": "0f447fa0-b1d0-434e-8bc5-1a9f4531a6c2"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "In an old classroom in South Seattle, in the community center known as El Centro De La Raza, a transformation is taking place. Two evenings a week, kids as young as eight and as old as 20, some of them just a step away from joining a gang, are instead writing poetry. Ingrid Lobet reports that little by little, the kids and the adults who hear them are realizing the importance of what they have to say."
+        }
+      ],
+      "uuid": "390a6798-1a42-480d-a18c-3a4a418cb088"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Outside the old school building, a dozen kids are shooting hoops as a cool night begins to fall across the city of Seattle."
+        }
+      ],
+      "uuid": "134fe43d-628d-4f9d-8168-32610482421c"
+    },
+    {
+      "start_time": 1177,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 12 | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Fellas, let's go."
+        }
+      ],
+      "uuid": "d587ab30-348c-418b-b862-19ed62a93f18"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "As 6",
+          "tag": "30 approaches, the kids file into the classroom from the ball court. Others come in from elsewhere, looking tired. Whether tired or full of energy, the 15 kids in this room are here by choice. They've come because here they can put heart into words."
+        }
+      ],
+      "uuid": "ff17b8ab-3359-4d19-b8ac-96700a76c898"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martinez-Armando | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ode To My Car. The exhaust blows out like the drop of oil. The black dewey night that passes, simply turn itself into a single piece of grass."
+        }
+      ],
+      "uuid": "3a13a955-850c-4b7b-a1b6-21351c9f596e"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Martinez, Armando (Man) has been coming to El Centro for several months now."
+        }
+      ],
+      "uuid": "1ea4db64-4510-4a83-ae67-e5728e5a973e"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martinez-Armando | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Wild rivers, one drop of water that continues, grass, and then run off with my motor vehicle."
+        }
+      ],
+      "uuid": "4ac46b10-495c-408f-b045-6148a6f1e6ee"
+    },
+    {
+      "start_time": 1238,
+      "end_time": 1256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The kids' hands shoot into the air. They can't wait to comment. Their comments encourage, but also suggest certain word changes or changes in delivery. Armando's own older sister has a comment for him. I liked your poem, hijo, she says, it was really good. I like the way you read really slow."
+        }
+      ],
+      "uuid": "c7db2c8d-0004-4bb9-a7a3-9cb48bf49ad6"
+    },
+    {
+      "start_time": 1256,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 12 | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Let's go ahead and stand up. It really helps to stand up. I'll be right here beside him."
+        }
+      ],
+      "uuid": "b137da92-9bc2-472d-814f-c5427d6b4482"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "But even the support that fills this room isn't enough for 16-year-old Glenda Arenas on her first night. When it comes time for her to read the poem she's just written, she hangs her head, her long dark hair, mostly covering her face. Her voice begins, barely audible."
+        }
+      ],
+      "uuid": "fd1825a6-fe1b-4546-927c-a622828c4f7c"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arenas-Glenda | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ode To The Homies. The tree, kicking it. Summer, smooth."
+        }
+      ],
+      "uuid": "49e2f130-9c2a-474a-8c6d-076cbe604c95"
+    },
+    {
+      "start_time": 1286,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "This first night, Glenda can't finish. Another girl comes over, stands by her, and finishes the poem."
+        }
+      ],
+      "uuid": "e78a5be7-650d-4f20-a5bb-abd40bcf7187"
+    },
+    {
+      "start_time": 1292,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker 13 | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ode to the homie, the tree, kicking it. Summer, smooth. It's all eight-ball. Say eyes, high on weed, 44 Magnum, blow to the head, a scorched rag in the hood, the brightness and the sky showing a flag. Green, white, and red grows into multiplication, sweet and sad."
+        }
+      ],
+      "uuid": "f4ced78a-53a2-492f-8491-e970eb5a15da"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maestas-Roberto | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "There's a little poet running around your house, no matter how small he or she is."
+        }
+      ],
+      "uuid": "9bdad86c-d352-467d-a1ac-81d16f9a47b9"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberto Maestas has directed El Centro for 20 years. He's seen a good number of the 74 children who've spent time in the workshops changed by them. Some are getting better grades, some are being invited to recite poetry at rallies and banquets."
+        }
+      ],
+      "uuid": "8201c34d-cca6-4e46-b9a1-24d128a6da74"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maestas-Roberto | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "I don't think that poetry itself is going to save the inner cities, but when a young person reads their poetry and other people appreciate their poetry, that begins to build a sense of value, a sense of worth, a sense of somebodiness."
+        }
+      ],
+      "uuid": "16f5619c-9670-427a-bace-da73aea00d27"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martinez-Sandra | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Recently, we had an election for student council, and I didn't really think I'd make it, and I beat everybody by 10 points. It was really amazing."
+        }
+      ],
+      "uuid": "1c26e8f8-2492-4eeb-857e-a0be28ef1afb"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "15-year-old Sandra Martinez says it was in the poetry workshops that she learned to be confident enough to assume that position of leadership."
+        }
+      ],
+      "uuid": "6fa8e372-6b40-433a-a40c-03c5cc13932e"
+    },
+    {
+      "start_time": 1384,
+      "end_time": 1390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martinez-Sandra | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "My name's Sandra Martinez and the poem I'm going to read is \"Garibaldi Park in Mexico City\"."
+        }
+      ],
+      "uuid": "b8961cb5-c0eb-4034-825f-53d8c038a3b8"
+    },
+    {
+      "start_time": 1391,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martinez-Sandra | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Blue corazon danced on the stones, cuando la mujer was tocando las musica. On the streets, los gatos laughed, and tonight's the final night."
+        }
+      ],
+      "uuid": "598875f2-98e4-41a7-8da0-5b691e230a1b"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lobet-Ingrid | United States--Washington--Seattle | Mexico--Distrito Federal--Mexico City--Garibaldi Park | Mexico | Chile | El Centro de la Raza--Seattle-Wash | Hope for Youth--Seattle-Wash | Students | Art | Gangs | Youth | Immigrants | Mexicans | Feature package--Journalists | Interviews--Community members | Interviews--Community leaders | Book--Word Up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The poets of El Centro, known as Hope for Youth, now have a book, it's called Words Up. And the kids are getting more and more attention, some even nationally and internationally. Just recently, Hope for Youth received an invitation from the government of Chile to travel there this summer. For Latino USA, I'm Ingrid Lobet in Seattle."
+        }
+      ],
+      "uuid": "bce67f38-2d4b-4776-93fc-5afa493bf5ab"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gomez-Pena-Guillermo | United States | Canada | Mexico | Arizmendi-Yareli | European Economic Community | Commercial treaties | Economic policy | Globalization | Transnationalism | Mexicans | Indigenous people | Storytelling--Artists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "A North American Free Trade Agreement has been signed by Canada, the US, and Mexico. Once it becomes law, we will be in the process of becoming the largest artificial economic community of the planet."
+        }
+      ],
+      "uuid": "9adcb004-0404-4399-b43c-ab8e1d73498d"
+    },
+    {
+      "start_time": 1464,
+      "end_time": 1496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | United States | Canada | Mexico | Arizmendi-Yareli | European Economic Community | Commercial treaties | Economic policy | Globalization | Transnationalism | Mexicans | Indigenous people | Storytelling--Artists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Negotiations between the US, Canada, and Mexico continue regarding the North American Free Trade Agreement. If the three parties should come to an agreement regarding environmental protection and labor issues, and if the US Congress approves NAFTA, free trade will be the economic order on the continent. But there are many opposing views on the impact NAFTA will have, should it become law. For performance artist and Latino USA commentator Guillermo Gomez PeÃ±a, many questions regarding the free trade agreement remain."
+        }
+      ],
+      "uuid": "b7b3bc96-c24f-476d-94dc-a5470fb23741"
+    },
+    {
+      "start_time": 1496,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gomez-Pena-Guillermo | United States | Canada | Mexico | Arizmendi-Yareli | European Economic Community | Commercial treaties | Economic policy | Globalization | Transnationalism | Mexicans | Indigenous people | Storytelling--Artists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "In terms of geography and demographics, it will be much larger than the European community or than the fashionable Pacific Rim. From the myriad possibilities of free trade agreements that could be designed and implemented, the neoliberal version we have is not exactly an enlightened one. It is based on the fallacy that the market will take care of everything. Avoiding the most basic social labor, environmental, and cultural responsibilities, there are many burning questions that remain unanswered. Given the endemic lack of political and economic symmetry between the three countries, will Mexico become, as Mexican artist Yareli Arizmendi says, the largest Indian reservation of the US? Or will it be treated as an equal by its bigger partners?"
+        }
+      ],
+      "uuid": "39003fac-6444-490d-bf45-8a077b0b220a"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gomez-Pena-Guillermo | United States | Canada | Mexico | Arizmendi-Yareli | European Economic Community | Commercial treaties | Economic policy | Globalization | Transnationalism | Mexicans | Indigenous people | Storytelling--Artists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Will the predatory Statue of Liberty depower the Virgin of Guadalupe, or are they merely going to dance a sweaty cumbia? Will Mexico become a toxic and cultural waste dump of the US and Canada? Who will monitor the behavior of the three governments? Given the exponential increase of American trash and media culture in Mexico, what will happen to our indigenous traditions, social and cultural rituals, language, and national psyche? Will the future generations become hyphenated Mexican-Americans, brown-skinned gringos and Canochis or upside-down Chicanos? And what about our northern partners? Will they slowly become Chicanadians, Waspacks and Anglomalans?"
+        }
+      ],
+      "uuid": "89fdb44e-3fea-48af-aec5-2f41a67640a5"
+    },
+    {
+      "start_time": 1618,
+      "end_time": 1641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gomez-Pena-Guillermo | United States | Canada | Mexico | Arizmendi-Yareli | European Economic Community | Commercial treaties | Economic policy | Globalization | Transnationalism | Mexicans | Indigenous people | Storytelling--Artists"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Whatever the answers are, NAFTA will profoundly affect our lives in many ways. Whether we like it or not, a new era has begun and the new economic and cultural topography has been designed for us. We must find our new place and role within this new federation of US Republics."
+        }
+      ],
+      "uuid": "0e09b343-b465-4c44-9650-881e769678f5"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961- | 1991"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Latino USA commentator Guillermo Gomez PeÃ±a is an award-winning performance artist based in California. In 1991, he was a recipient of a MacArthur Genius grant. Well, what do you think of NAFTA? Give us a call and leave a brief message at 1-800-535-5533."
+        }
+      ],
+      "uuid": "eb82c62c-3f18-4fa6-931e-17fb7b9956a6"
+    },
+    {
+      "start_time": 1664,
+      "end_time": 1722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hinojosa-Maria 1961-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "And for this week, y para esta semana, this has been Latino USA. The Radio Journal of News and culture. Latino USA's, producer and editor is Maria Amelia Martin. We had help this week from Vidal Guzman, Peter Dome, and David Goran. Latino USA is produced at the studios of KUT in Austin, Texas. The technical producer is Walter Morgan. We really want to hear from you, so call us on our toll-free number, 1-800-535-5533. That's 1-800-535-5533. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin. This program is distributed by the Longhorn Radio Network. Y hasta la proxima.  Until next time, I'm MarÃ­a Hinojosa for Latino USA."
+        }
+      ],
+      "uuid": "dd58a8a1-1db2-4d3a-82e3-009e01d85fa4"
+    }
+  ],
   "set": "Default",
   "event_id": "77f8c758-03d3-4240-97dc-eed886986c0e",
   "source_id": "c640490c-6afd-4269-92a9-19c1cfc09abe"
