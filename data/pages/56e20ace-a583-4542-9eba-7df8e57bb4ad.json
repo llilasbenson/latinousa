@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 32",
+          "text": "Latino USA - Episode 6",
           "textSize": "heading-one"
         }
       ]
@@ -13,7 +13,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -22,8 +21,29 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Date range: December 5, 1993 - December 11, 1993",
+          "text": "Date range: June 6, 1993 - June 12, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
+          "bold": true,
           "textSize": "heading-four"
+        },
+        {
+          "text": "\nNews anchor Maria Martin covers several stories. The Hispanic National Bar Association is lobbying President Clinton to appoint the first-ever Latino to the U.S. Supreme Court, presenting a shortlist of seven candidates including a New Mexico Supreme Court justice, the Texas Attorney General, and a former leader of MALDEF. In Florida, Dade County's 13-year English-only law is repealed after a contentious five-hour hearing, meaning county services including AIDS information and child abuse resources will now be available in Spanish. A coalition of 28 Latino organizations gives the Clinton administration a C-minus for Latino appointments in its first 100 days, noting that four departments received failing grades for having no Latinos in Senate-confirmed positions. Three California Latino organizations take out a full-page ad in the New York Times urging Clinton to include undocumented immigrants in his healthcare plan, arguing it is both a public health necessity and a cost-saving measure. The segment closes with a note that farm workers were excluded from Washington State's new healthcare law, which advocates call unconstitutional."
         }
       ]
     },
@@ -31,7 +51,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-four",
           "text": ""
         }
       ]
@@ -40,16 +59,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Noticias",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
+          "text": "Audio Essay: \"Alien Nation\"",
           "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nPerformance artist Guillermo Gomez-Pena, actress Yareli Arizmendi, and rock musician Sergio Arau contribute a sharp audio essay on the dehumanizing language used to describe undocumented immigrants. Playing on words like \"alien,\" \"wetback,\" and \"illegal,\" the piece uses humor, spoken word, and hip-hop to expose the absurdity and cruelty baked into everyday immigration discourse."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -58,32 +80,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The House of Representatives passed NAFTA 234 to 200, with the Congressional Hispanic Caucus splitting geographically: members west of the Mississippi voted for the treaty while those from the Midwest and East Coast voted against it. The Border Patrol confirmed that what began as Operation Blockade in El Paso had become permanent standard procedure, with 400 agents maintaining round-the-clock coverage of a 20-mile stretch of the border and arrests of undocumented crossers down nearly 90 percent. The CDC reported that AIDS had become the leading cause of death among Hispanic men ages 25 to 44, surpassing homicide and suicide. And more than 100 Hispanic officers in San Antonio filed a discrimination complaint with the EEOC, alleging that Mexican American officers were passed over for promotion, subjected to unfair discipline, and forced to work in an environment where racist slurs were used openly over police radio communications."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "NAFTA Passes: Latino Reactions",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
+          "text": "The Clave: Heartbeat of Latin Music",
           "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Marta Valentin offers a rich music appreciation segment tracing the clave, a five-stroke rhythmic pattern played on two wooden sticks, as the foundational heartbeat of Cuban rumba, salsa, and Latin music broadly. Valentin explains how the pattern holds an entire performance together even when the physical claves are not present, and traces its presence across merengue, cha-cha-cha, guaracha, and bolero. The segment is built around a conversation Valentin had with an American coworker who was tapping to the wrong beat at a Latin club, and blooms into a warm invitation to listen differently."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -92,32 +101,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Patricia Guadalupe reported on the final House vote, noting that Cuban American members opposed NAFTA in part because of Mexico's diplomatic ties to Cuba, while virtually all Mexican American members supported it. Jose Nino of the US Hispanic Chamber of Commerce, Sylvia Puente of the Latino Institute in Chicago, Jose La Luz of the Amalgamated Clothing and Textile Workers Union, and Andy Hernandez of the Southwest Voter Research Institute joined Maria Hinojosa for a roundtable. All four agreed that, regardless of their position on the treaty, Latino involvement in the NAFTA debate represented an unprecedented level of influence on major legislation. Puente and La Luz, who had conditionally opposed NAFTA before supporting it, emphasized the importance of monitoring job losses in manufacturing-heavy cities like Chicago. Nino warned that the anti-Mexican rhetoric of the debate previewed a 1994 election cycle in which Latinos could become political scapegoats."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Puerto Rico Plebiscite: Commonwealth Wins",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
+          "text": "The CARA Art Exhibition",
           "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Maria Martin covers the final stop of the CARA show, an acronym for Chicano Art Resistance and Affirmation, at the San Antonio Museum of Art. The two-year traveling exhibit is the first ever devoted specifically to Chicano art, and features posters, holograms, and altars from the Chicano art movement of the 1960s and 70s. Playwright Luis Valdez connects the show's title to the Aztec concept of acquiring a face through life, while art scholar Tomas Ybarra-Frausto argues that lumping Chicano identity under the broader label of Hispanic erases its Indigenous and African roots."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -126,32 +122,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In the November 14th plebiscite, Puerto Rico's Commonwealth option prevailed with nearly 49 percent of the vote, edging out statehood by roughly 3 percentage points, while independence received a small share that prevented either major option from winning a majority. Maria Martin reported from San Juan as Commonwealth supporters celebrated in the streets of Old San Juan. Statehood governor Pedro Rossello conceded but vowed to keep fighting. Political analyst Juan Manuel Garcia Passalacqua declared statehood effectively dead, arguing that the U.S. would use the result to move Puerto Rico out of its territorial status without granting statehood. The Independence Party's representative framed the outcome as a victory for national identity and a rejection of economic dependency. Puerto Rico's representative in Congress, Carlos Romero Barcelo, argued that regardless of the result, the U.S. could not ignore that Puerto Ricans had formally rejected colonial status."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Luis Aguilar: From Undocumented Immigrant to Community Benefactor",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
+          "text": "Interview: Ana Castillo",
           "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nMaria Hinojosa speaks with Chicana novelist and poet Ana Castillo about her new novel \"So Far From God,\" set in New Mexico and following a woman named Sophie and her four daughters as they navigate themes of faith, women's rights, environmental racism, and Catholicism. Castillo rejects the label of magical realism, saying the book is better understood as rooted in faith, whether Catholic, Pueblo Indian, or otherwise. She reflects on nearly 20 years of writing through racism, sexism, and classism before reaching wide recognition, and closes with advice to young Latino writers: read everything, write constantly, and trust your voice."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -160,21 +143,13 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Twenty-three years after arriving in the United States undocumented from Michoacán and being deported, Luis Aguilar built two successful restaurants in Lamont, California, and began hosting free meals for the homeless three times a year. Drawing on his own experience of homelessness, Aguilar described the events as coming from the heart. Guests at the most recent meal included farm workers left unemployed by the Central Valley's chronic joblessness, undocumented immigrants without access to food stamps, and families with young children living without stable housing."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n"
+          "text": ""
         }
       ]
     },
     {
       "type": "event",
-      "uuid": "168c88db-84b4-46ea-9bbc-62fb43ff317b",
+      "uuid": "1981971d-9909-4f4c-84a1-f088a3db1f98",
       "includes": [
         "media",
         "annotations",
