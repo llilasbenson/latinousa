@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 1",
+          "text": "Latino USA - Episode 24",
           "textSize": "heading-one"
         }
       ]
@@ -13,6 +13,7 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -21,7 +22,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Date range: May 5, 1993 - May 8, 1993",
+          "text": "Date range: October 10, 1993 - October 16, 1993",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
           "bold": true
         }
       ]
@@ -30,37 +48,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This inaugural episode of Latino USA opens with host Maria Hinojosa previewing its theme: the state of Latino communities across the U.S. in the early months of the Clinton administration."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Las Noticias/The News",
           "bold": true,
-          "textSize": "heading-four"
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Maria Martin covers several stories: hearings on the North American Free Trade Agreement begin, with Latino organizations pushing for parallel agreements on immigration, the environment, and job retraining. In New York, school chancellor Joseph Fernandez, a Puerto Rican who rose from gang member and heroin addict to head the nation's largest school district, is ousted after controversy over condom distribution and an LGBTQ-inclusive curriculum. A U.S. Civil Rights Commission report finds widespread discrimination against Latinos in Washington, D.C. Reporter Alberto Aguilar files a moving tribute to Father Luis Olivares, the rebel priest who declared his Los Angeles parish a sanctuary for the undocumented and homeless, who died from AIDS. The segment closes with a sobering statistic: Latinos hold fewer than 1% of executive positions in Fortune 500 companies."
+          "text": "President Clinton's health plan was widely discussed, with Latino/a health advocates noting that as many as one-third of Latino/as lacked health coverage and stood to benefit significantly from reform. However, the Hispanic Medical Association, representing 25 Latino/a health groups, expressed concern that the plan excluded undocumented workers, failed to adequately address border healthcare as a bi-national issue, and did not ensure cultural and linguistic access for the country's 24 million Latino/as. Mexican President Carlos Salinas visited San Francisco to promote NAFTA, arguing that free trade would reduce illegal immigration by creating jobs in Mexico, and pushing back against characterizations of undocumented workers as a burden on U.S. taxpayers. Missouri Congressman Richard Gephardt's announced opposition to NAFTA was seen as a significant setback for the treaty's prospects in Congress. California State Senator Art Torres called for a cooling-off period on all immigration-related legislation, arguing the debate had become too emotional and that immigration needed to be addressed as a complex international issue. In El Paso, the Border Patrol launched Operation Blockade, deploying hundreds of agents along 20 miles of the U.S.-Mexico border in a round-the-clock effort. Officials reported a 90% drop in arrests of undocumented immigrants, but immigration rights advocates warned the operation created an atmosphere of fear in border communities."
         }
       ]
     },
@@ -76,85 +73,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "A Report Card for President Clinton",
-          "bold": true,
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nThree Latino journalists, Sandra Marquez, Zita Arocha, and José Carreño, assess Clinton's record on Latino inclusion. While he appointed Federico Peña and Henry Cisneros to cabinet posts, 86% of his appointments so far had gone to white males in their mid-forties. Marquez highlights a grassroots Latina organizing effort in Washington that raised over $10,000 in minutes to pressure the White House for high-level Latina appointments. The panelists express cautious optimism but note that meaningful action remains elusive."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "One Year After the L.A. Riots: Pico-Union",
-          "bold": true,
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nReporter Alberto Aguilar returns to the Pico-Union neighborhood of South Central Los Angeles, one of the hardest-hit areas of the April 1992 uprising. Latinos made up half of those affected, a third of those killed, and owned 40% of the damaged businesses. Aguilar interviews María Elena Mejía, a single mother who lost her three swap meet stalls and her life savings in the fires, as well as city council member Mike Hernandez, who describes city leadership as out of touch with its residents. Social worker Sandra Cuevas, who criticizes Rebuild L.A. for excluding Latinos, and county supervisor Gloria Molina, who says the mayor \"missed the boat\" by relying on corporate programs rather than systemic reform, are also featured. The segment closes with a longtime resident describing the fear that has taken hold: \"It's terrible, because we are not supposed to be like this.\""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Gloria Romero: \"Todavía Ando Sangrando\"",
-          "bold": true,
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nChicana activist and scholar Gloria Romero delivers a powerful spoken-word piece reflecting on standing at the intersection of Adams and Hobart in South Central in the hours after the Rodney King verdict, weaving together themes of race, class, poverty, and the ongoing wound of injustice in America."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Sesame Street Goes Latino",
+          "text": "Clinton's Healthcare Plan and Latinos",
           "bold": true
         }
       ]
@@ -163,7 +82,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nReporter Mandalit Del Barco reports on Sesame Street's 24th season, which centers Latino culture for the first time. Viewers see Big Bird lead a mariachi band, Oscar the Grouch dance the mambo with Tito Puente, and Los Lobos and Los Pleneros de la 21 perform on set. The season introduces Rosita, a new bilingual blue Muppet played by Mexican puppeteer Carmen Osbahr, designed to build self-esteem among Latino children after researchers found Puerto Rican preschoolers had significantly lower self-images than their peers. Actress Sonia Manzano (María) and actor Emilio Delgado (Luis) reflect on two decades of representing Latino life on mainstream American television."
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Correspondent Patricia Guadalupe provided an in-depth look at the healthcare plan's implications for Latino/as. A notable provision would equalize Medicaid payments for Puerto Rico with the mainland for the first time, bringing the island from 20% of standard coverage to full parity, which Puerto Rico's resident commissioner, Carlos Romero Barcelo, praised as historic. However, the plan's exclusion of undocumented workers drew sharp criticism from Cecilia Munoz of the National Council of La Raza, who described it as politically motivated and harmful to public health. Chief presidential advisor Ira Magaziner defended the exclusion on the grounds that benefits should be reserved for legal residents. Republican responses were generally more favorable to Clinton's plan than usual, though some raised concerns about bureaucracy."
         }
       ]
     },
@@ -179,7 +107,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Cinco de Mayo Audio Essay",
+          "text": "National Professor of the Year: Dr. Vicente Villa",
           "bold": true
         }
       ]
@@ -188,7 +116,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nThe episode closes with a playful but thoughtful audio essay exploring what Cinco de Mayo actually commemorates: the 1862 Mexican victory over French forces at the Battle of Puebla, and how its meaning has evolved into a broader celebration of Latino unity and cultural pride, even as many people on the street confuse it with Mexican Independence Day."
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maria Martin spoke with Dr. Vicente Domingo Villa of Southwestern University in Georgetown, Texas, named National Professor of the Year by the Council for the Advancement and Support of Education. Dr. Villa described how, when he arrived at Southwestern in 1985, there were virtually no Latino/a science students. Eight years later, nearly 20% of science graduates were Hispanic. He credited informal weekly study sessions outside the classroom as the key to building real relationships with students and spotting those who were not aiming high enough. The son of a ranch cowboy who never attended school and a mother who emigrated from Monterrey, Mexico, with a fifth-grade education, Dr. Villa described parental encouragement as the foundation of educational achievement, and said his father's difficult wartime experience as a non-English speaker had made education the defining value of his household."
         }
       ]
     },
@@ -197,12 +134,72 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Border Fence Debate in Arizona",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reporter Manuel Arcadia covered community forums in Naco, Arizona, over a Border Patrol proposal to build steel walls along portions of the Arizona-Mexico border. Supporters, including the local trade alliance, argued the barrier was needed to deter drug traffickers and unauthorized crossings. Opponents from the coalition Hermanos Unidos called the wall racist, noting no such barrier would be proposed on the Canadian border. One activist compared any aesthetically designed version of the wall to a beautiful Berlin Wall, rejecting the premise entirely. The proposal had already been rejected in Douglas, Arizona, and was under reconsideration in Nogales, with Naco still deliberating."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Year of the White Bear",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Correspondent Betto Arcos reported on a multimedia art exhibition at the Otis Gallery in Los Angeles, curated by Coco Fusco and performance artist Guillermo Gomez-Pena. Titled The Year of the White Bear, the show took its name from a Colombian Indigenous term for Europeans and used performance, visual art, ceramics, and audio installations to interrogate 500 years of colonialism and its connections to contemporary issues, including NAFTA, immigration enforcement, and the INS. Gomez-Pena argued that political art need not be solemn, and that humor was often a more effective vehicle for political reflection. The show juxtaposed pre-Hispanic imagery with current events, inviting visitors to consider how the history of conquest continues to shape present-day power and policy.\n\n"
         }
       ]
     },
     {
       "type": "event",
-      "uuid": "df59e20b-f82f-40c3-ae02-4c408c0fe939",
+      "uuid": "3b439bce-cdd8-41b8-8b3c-3a2a6db0086f",
       "includes": [
         "media",
         "annotations",
