@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 2",
+          "text": "Latino USA - Episode 35",
           "textSize": "heading-one"
         }
       ]
@@ -14,7 +14,7 @@
       "children": [
         {
           "text": "",
-          "textSize": "heading-one"
+          "textSize": "heading-four"
         }
       ]
     },
@@ -22,7 +22,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Date range: May 9, 1993 - May 15, 1993",
+          "text": "Date range: December 26, 1993 - January 1, 1993",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
           "bold": true
         }
       ]
@@ -31,8 +48,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "italic": true
+          "bold": true,
+          "text": ""
         }
       ]
     },
@@ -40,12 +57,7 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "textSize": "heading-four",
-          "text": "Las Noticias: The Death of César Chávez"
-        },
-        {
-          "text": "\nThe news segment opens with an extended tribute to César Chávez, who died at 66 at his home in Arizona near where he was born. News anchor Maria Martin traces his journey from a 10-year-old field worker to the organizer who built the United Farm Workers and inspired a generation of Chicano activists. Voices from Father Virgil Elizondo, UFW's Rebecca Flores Harrington, and former colleague Osvaldo Jaurechi paint a portrait of a man who, despite setbacks in his later years, remained a towering symbol of the campesino struggle. The news also covers a Supreme Court case threatening minority-based redistricting districts that could jeopardize 26 Black and Latino majority districts nationwide, and touches on the debate over whether President Clinton's forthcoming healthcare plan will cover undocumented immigrants, a question on which the White House is sending mixed signals."
+          "text": "Residents of Nogales, Arizona, reported alarming clusters of rare cancers and what may be the world's highest rate of systemic lupus, prompting the creation of a state and federal border health task force, though causes remained undetermined. Fuerza Unida, a group of former Levi Strauss workers from San Antonio whose plant was moved to Costa Rica, brought their boycott campaign to Levi's San Francisco headquarters, demanding a fair settlement and challenging the company's progressive reputation. San Juan's mayor joined other city leaders in Washington to request federal help with violent crime, reporting more than 100 additional murders compared to the previous year. And President Clinton signed NAFTA into law, with National Council of La Raza president Raul Yzaguirre calling on Latino organizations to unite to ensure communities received the promised North American Development Bank funding, while some speculated that the caucus's split vote on the treaty would create lasting divisions."
         }
       ]
     },
@@ -61,12 +73,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "NAFTA and the Latino Community",
-          "bold": true,
-          "textSize": "heading-four"
-        },
+          "text": "Cesar Chavez Boulevard: Fresno vs. Austin",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nThe same panel of journalists from Episode 1, Sandra Marquez, Zita Arocha, and José Carreño, return to dig into NAFTA, whose trade talks are now formally underway. The conversation reveals deep divisions within the Latino community: working-class Latinos fear losing low-skilled jobs to Mexico, while bicultural Latino entrepreneurs see real opportunity in cross-border commerce. Carreño notes that geography matters as Latinos in Texas tend to favor NAFTA while those in California are more skeptical. Arocha adds a counterintuitive argument: if NAFTA reduces immigration, it could actually protect low-wage jobs already held by U.S. Latinos."
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In a heated special session attended by over 1,000 people, the Fresno City Council reversed its earlier decision to rename a major boulevard after Cesar Chavez, with opponents arguing the valley's history belonged to many ethnic groups. Austin took a starkly different path, unanimously renaming East 1st Street to Cesar Chavez Street in a ceremony featuring Aztec dancers, lowriders, farm workers from the Rio Grande Valley, and NAACP members. UFW president Arturo Rodriguez and members of Chavez's family attended the Austin inauguration, with Rodriguez describing the ongoing wave of renamings as a source of strength and proof that the farm worker movement was not alone."
         }
       ]
     },
@@ -82,12 +107,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Two Years After the Mount Pleasant Riots",
-          "bold": true,
-          "textSize": "heading-four"
-        },
+          "text": "New York Latinos and the Giuliani Transition",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nThe centerpiece report, filed by William Troop from Washington D.C., revisits the May 1991 uprising in the city's predominantly Central American Latino neighborhood. The riots were sparked when a Salvadoran immigrant, Daniel Gomez, was shot by a police officer during a public drinking stop. Three days of looting and burning followed. Legal advocate Juan Milanés reflects that, in a painful way, the riots were the best thing that ever happened to D.C.'s Latino community: \"Overnight, Latinos were an issue in Washington DC.\" Two years on, the city has made incremental progress, including bilingual 911 operators, Spanish language police training, and more Latino officers on the beat, but the Latino Civil Rights Task Force says much remains undone, with police brutality cases continuing. The report also explores a deeper tension: over half of D.C.'s 60,000 Latinos are undocumented, making political organizing difficult, while African American council member Frank Smith argues bluntly that representation requires citizenship and voter registration. The episode notes that Daniel Gomez, whose shooting ignited the riots, recovered and was later acquitted of assaulting the officer."
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With Rudy Giuliani having won only 27 percent of the Latino vote, New York's Latino leaders were cautiously monitoring the transition. Supporters, including members of Dominicans for Giuliani, pointed to his diverse transition team and early meeting with Bronx Borough President Fernando Ferrer as positive signs. Critics, led by National Congress of Puerto Rican Rights spokesperson Richie Perez, warned against what he called 'accommodationism' and pointed to conservative Latino figures on the transition team who had opposed HIV/AIDS curriculum in public schools. Community leaders said the key tests would be appointments, police department oversight, and economic development, with the Institute for Puerto Rican Policy noting that the Puerto Rican poverty rate in New York exceeded even that of the African American community."
         }
       ]
     },
@@ -103,19 +141,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Profile: Mario Bauzá, Pioneer of Afro-Cuban Jazz",
+          "text": "Gloria Cabrera: Turning 30 in New York",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "bold": true,
-          "textSize": "heading-four"
-        },
-        {
-          "text": "\nReporter Emilio San Pedro profiles 81-year-old Mario Bauzá, one of the last living architects of Afro-Cuban jazz. A native of Havana who arrived in New York in 1930, Bauzá helped launch Ella Fitzgerald's career at the Apollo, played with the Cab Calloway Orchestra, and, alongside Dizzy Gillespie, helped fuse Afro-Cuban rhythms with American jazz. He co-founded the legendary band Machito and His Afro-Cubans in the early 1940s. Bauzá is particular about terminology, as he insists the music be called \"Afro-Cuban jazz,\" not \"Latin jazz,\" to honor its specific cultural roots. At 81, he's still active, planning a tour and a new album, "
-        },
-        {
-          "text": "Explosión 93",
-          "italic": true
-        },
-        {
-          "text": "."
+          "text": ""
         }
       ]
     },
@@ -123,26 +159,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Commentary: A Hike in the Sierra",
-          "bold": true,
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nThe episode closes on a quiet, meditative note. Texas artist Luis Guerra, who left Austin to live in the mountains of San Luis Potosí, shares a personal essay about a hike in the Sierra, during which he encounters shepherds, wild herbs, small shrines, and a campesino who catches him taking firewood from his ranchito. Rather than accept payment, the man sends him off with bread, goat cheese, and homemade candy. \"Here on top of the earth, we have everything a man can need,\" the farmer tells him. It's a gentle reminder, Guerra suggests, of what gets left behind in modern life and what draws many Latinos back to their roots."
+          "text": "California-born Chicana writer Gloria Cabrera reflected on reaching her 30th birthday in New York City, contrasting her path of two university degrees and a career chosen on her own terms with her mother's experience of divorce, welfare, and housekeeping work at the same age, and her sister's experience of raising four children while finishing college. She framed her own life as a redefinition of the familial paradigm she inherited."
         }
       ]
     },
@@ -151,12 +168,38 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Virgen de Guadalupe",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maria Martin prepared a feature on the Virgin of Guadalupe, tracing the 1531 apparition at Tepeyac, where the brown-skinned image appeared to the Aztec Indian Juan Diego on a site previously sacred to the indigenous goddess Tonantzin. Scholars and clergy described how the apparition arrived at a moment of cultural devastation, when the Aztec world had collapsed under Spanish conquest, and provided a spiritual center for millions of newly converted indigenous people within a decade. An indigenous elder framed the Virgin within the Aztec concept of cosmic duality, linking her to the feminine principle recognized across spiritual traditions. The episode also documented the danzante tradition, in which communities across the Southwest perform ritual dances in her honor, sometimes for hours, offering movement itself as prayer and fulfillment of personal promises to the Virgin.\n\n\n"
         }
       ]
     },
     {
       "type": "event",
-      "uuid": "51c02208-0d45-468e-ae23-610806e36229",
+      "uuid": "f5bef20d-e631-4c90-91fa-11fd02f62d3f",
       "includes": [
         "media",
         "annotations",
