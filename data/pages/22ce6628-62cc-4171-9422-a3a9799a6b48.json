@@ -1,5 +1,200 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 32",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: December 5, 1993 - December 11, 1993",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noticias",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The House of Representatives passed NAFTA 234 to 200, with the Congressional Hispanic Caucus splitting geographically: members west of the Mississippi voted for the treaty while those from the Midwest and East Coast voted against it. The Border Patrol confirmed that what began as Operation Blockade in El Paso had become permanent standard procedure, with 400 agents maintaining round-the-clock coverage of a 20-mile stretch of the border and arrests of undocumented crossers down nearly 90 percent. The CDC reported that AIDS had become the leading cause of death among Hispanic men ages 25 to 44, surpassing homicide and suicide. And more than 100 Hispanic officers in San Antonio filed a discrimination complaint with the EEOC, alleging that Mexican American officers were passed over for promotion, subjected to unfair discipline, and forced to work in an environment where racist slurs were used openly over police radio communications."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "NAFTA Passes: Latino Reactions",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Patricia Guadalupe reported on the final House vote, noting that Cuban American members opposed NAFTA in part because of Mexico's diplomatic ties to Cuba, while virtually all Mexican American members supported it. Jose Nino of the US Hispanic Chamber of Commerce, Sylvia Puente of the Latino Institute in Chicago, Jose La Luz of the Amalgamated Clothing and Textile Workers Union, and Andy Hernandez of the Southwest Voter Research Institute joined Maria Hinojosa for a roundtable. All four agreed that, regardless of their position on the treaty, Latino involvement in the NAFTA debate represented an unprecedented level of influence on major legislation. Puente and La Luz, who had conditionally opposed NAFTA before supporting it, emphasized the importance of monitoring job losses in manufacturing-heavy cities like Chicago. Nino warned that the anti-Mexican rhetoric of the debate previewed a 1994 election cycle in which Latinos could become political scapegoats."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Puerto Rico Plebiscite: Commonwealth Wins",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the November 14th plebiscite, Puerto Rico's Commonwealth option prevailed with nearly 49 percent of the vote, edging out statehood by roughly 3 percentage points, while independence received a small share that prevented either major option from winning a majority. Maria Martin reported from San Juan as Commonwealth supporters celebrated in the streets of Old San Juan. Statehood governor Pedro Rossello conceded but vowed to keep fighting. Political analyst Juan Manuel Garcia Passalacqua declared statehood effectively dead, arguing that the U.S. would use the result to move Puerto Rico out of its territorial status without granting statehood. The Independence Party's representative framed the outcome as a victory for national identity and a rejection of economic dependency. Puerto Rico's representative in Congress, Carlos Romero Barcelo, argued that regardless of the result, the U.S. could not ignore that Puerto Ricans had formally rejected colonial status."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Luis Aguilar: From Undocumented Immigrant to Community Benefactor",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Twenty-three years after arriving in the United States undocumented from Michoacán and being deported, Luis Aguilar built two successful restaurants in Lamont, California, and began hosting free meals for the homeless three times a year. Drawing on his own experience of homelessness, Aguilar described the events as coming from the heart. Guests at the most recent meal included farm workers left unemployed by the Central Valley's chronic joblessness, undocumented immigrants without access to food stamps, and families with young children living without stable housing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "168c88db-84b4-46ea-9bbc-62fb43ff317b",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.861Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 32",
