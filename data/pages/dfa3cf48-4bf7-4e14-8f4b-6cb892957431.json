@@ -1,5 +1,199 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 16",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: August 15, 1993 - August 21, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Las Noticias"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Congressional Hispanic Caucus conditioned its support for President Clinton's budget on preserving the House version's social program funding, which the Senate version largely eliminated. Caucus chair José Serrano also raised concerns about an amendment that would bar federal funds from any agency serving undocumented immigrants. Separately, 100 Democratic members of Congress asked Clinton to delay a vote on NAFTA until after healthcare reform was addressed. In Puerto Rico, Governor Pedro Rosello launched the official campaign for the November plebiscite on the island's political status. On the mainland, New York organizers, including Bronx Borough President Fernando Ferrer, announced a parallel, nonbinding vote for stateside Puerto Ricans, scheduled for October. On Cuba policy, the State Department issued new telephone regulations allowing U.S. companies to negotiate service agreements with Cuba and split revenues equally with the Cuban phone company. Some exile groups criticized the move as enriching the Castro government, while the administration maintained it simply implemented an existing law rather than softened the embargo."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clinton's Immigration Crackdown",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "President Clinton announced a new immigration enforcement plan requesting $172 million in additional funding to hire 600 new border patrol agents, expedite the removal of undocumented immigrants with criminal records, and increase penalties for smuggling. The plan drew lukewarm support from most Hispanic members of Congress, who were absent from the announcement. Hispanic Caucus chair José Serrano worried that expedited airport asylum procedures would endanger people with legitimate persecution claims who arrive without papers. Legal advocates Warren Liden of the American Immigration Lawyers Association and Vivianna Andrade of MALDEF both expressed alarm over the expedited exclusion proposal, with Andrade warning it could remove judicial oversight of INS policy. Both also noted growing anti-immigrant backlash in California, including local ordinances targeting day laborers and increased border abuses near San Diego."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Nueva Canción: Sotavento",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Correspondent Betto Arcos profiled Sotavento, a Latin American music group based in Madison, Wisconsin, that traces its roots to the Nueva Canción movement founded in the 1960s by artists including Violeta Parra, Victor Jara, and Atahualpa Yupanqui. Founded in 1981, Sotavento evolved from playing traditional South American folk music to blending instruments and styles from across the Americas, including Afro-Peruvian festejo rhythms and poetry by Cuban Poet Laureate Nicolás Guillén. Members described their work as a deliberate rejection of commercial music industry pressures, and framed the spirit of Nueva Canción as an ongoing tradition of artistic restlessness rather than a fixed historical moment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pastors for Peace and the Cuba Embargo",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A group of roughly 300 religious leaders and activists known as Pastors for Peace defied U.S. policy by loading school buses and trucks with powdered milk, pharmaceuticals, and other aid destined for Cuba without obtaining the required federal license. The group's founder, Reverend Lucius Walker of Brooklyn, framed the action as religious civil disobedience in the tradition of Martin Luther King and Gandhi, and said he had received death threats. Latino USA spoke with caravan participants in Austin shortly before they crossed into Mexico at Laredo. Among those present was Elisa Ruiz Zamora, a Cuban-born woman whose mother, brother, and grandfather remained on the island. Sandra Levinson of the Center for Cuban Studies suggested the Clinton administration was quietly searching for small openings to ease tension with Cuba without appearing to concede anything to Castro. As the episode aired, most of the caravan had crossed into Mexico, but two school buses were stopped at the border. Reverend Walker, among those blocked, began a hunger strike in protest."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "71091323-bd19-4dde-9531-e1d5011a1cab",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.419Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 16",
