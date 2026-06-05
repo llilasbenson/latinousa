@@ -1,5 +1,185 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 5",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: May 30, 1993 - June 5, 2026",
+          "bold": true,
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-four",
+          "text": "Las Noticias"
+        },
+        {
+          "text": "\nNews anchor Maria Martin covers several stories: Representative Javier Becerra of California is pushing legislation to create an independent commission to investigate human rights abuses by the Border Patrol, INS, and Customs along the U.S.-Mexico border. At UCLA, more than 90 students are arrested after occupying the faculty center to demand an independent Chicano Studies department, with students arguing the university has long withheld their own history from them. The newscast also touches on the retrial of Miami police officer William Lozano, whose 1989 shooting of an African American man sparked three days of riots; a PTA survey finding Hispanic parents are more optimistic than Anglo parents about public school improvement; and a report that Latino voter registration rose 12% in the 1992 election, nearly double the national average."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Murder of Manuel de Dios Unanue",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Mandalit Del Barco covers a major break in the 1991 assassination of Manuel de Dios Unanue, an investigative journalist and editor at New York's "
+        },
+        {
+          "text": "El Diario",
+          "italic": true
+        },
+        {
+          "text": " who was shot at a Queens restaurant. Federal authorities now link the killing to the Cali cartel in Colombia, which allegedly placed a bounty on de Dios after years of his reporting on drug trafficking. A Univision reporter reflects on how the murder revived fears she thought she had left behind when emigrating from Peru. "
+        },
+        {
+          "text": "El Diario",
+          "italic": true
+        },
+        {
+          "text": "'s editor notes an unintended consequence: the killing inspired journalists who previously avoided crime and drug stories to start covering them."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Like Water for Chocolate\"",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Beto Arcos profiles Laura Esquivel's novel and film \"Como Agua para Chocolate,\" set on a border ranch during the Mexican Revolution. The story follows Tita, the youngest daughter forbidden from marrying by family tradition, who transforms everyone around her through her cooking. A University of Colorado professor highlights the novel's structural boldness in centering female domestic space rather than the male adventure stories that define traditional fiction. The film won more than 10 international awards and the novel has been published in English by Doubleday."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ruben Blades on Politics",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nMaria Hinojosa speaks with Ruben Blades, the Panamanian-born salsa star, actor, and Harvard Law graduate, who is leaving music to launch a political party in Panama called Papa Egoro, meaning \"Mother Land\" in the Embera language. Blades describes the party as a response to years of abuse by both the left and right, and says his credibility with ordinary Panamanians comes from his years as an artist, not despite them."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Rise of Tejano Music",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Elena Quezada reports on the explosive growth of Tejano music, with sales jumping from $3 million in 1980 to $16 million in 1992. Major labels are signing Tejano artists, radio stations are switching formats, and 21-year-old Selena Quintanilla from Corpus Christi has topped Billboard's regional Mexican charts for seven straight months. The Tejano Music Awards were broadcast by satellite to 32 markets for the first time, a sign that the music has grown well beyond its regional roots."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e0c1eb09-c786-4f0c-a664-1eae9a9e94be",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.182Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 05",
