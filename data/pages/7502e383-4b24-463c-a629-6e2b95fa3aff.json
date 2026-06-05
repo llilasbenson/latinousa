@@ -1,0 +1,161 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "About",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Project Development",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project was developed by Graduate Student Technicians Luz Gonzalez, Allysa Tellez, Rebekah Ramos, and Sergio Morales, and LBDS LAS undergraduate intern Ash Catalan, at the LLILAS Benson Digital Scholarship Lab during the 2025-2026 academic year. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Financing and Technical Support",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Financing and technical support for the project were provided by the "
+        },
+        {
+          "text": "AVAnnotate",
+          "link": "https://av-annotate.org/"
+        },
+        {
+          "text": "Mellon Foundation-funded project. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AI Use",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Segment summaries and annotations were created using UT Spark and ChatGPT-5 and were reviewed closely for accuracy. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "About",
+  "parent": "937afc79-99bb-4e2b-a6a1-775179ed745a",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "about",
+  "created_at": "2026-05-28T18:25:43.768Z",
+  "created_by": "amtellez16",
+  "updated_at": "2026-05-28T18:25:43.768Z",
+  "updated_by": "amtellez16"
+}
