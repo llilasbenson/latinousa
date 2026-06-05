@@ -1,5 +1,251 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 11",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: July 11, 1993 - July 17, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The episode was produced in partnership with Radio Ondas Training Project interns of the National Association of Hispanic Journalists.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
+          "bold": true,
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The news segment opened with a U.S. Census Bureau report showing the Latino population grew seven times faster than any other group over the prior decade, yet Latinos continued to face higher unemployment, lower median incomes, and persistent gaps in education and healthcare coverage. A separate report from the National Coalition of Hispanic Health and Human Services Organizations found that 30% of Hispanics lacked regular access to healthcare. On education, experts at the NAHJ conference called for more bilingual teachers and greater federal funding for bilingual programs. A new survey also found that Latino representation in major newspapers rose by 27% over two years, though fewer than 3% of those journalists held management positions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clinton Administration Appointments",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite celebrating the appointments of Federico Pena as Transportation Secretary and Henry Cisneros as Housing Secretary, many Latino leaders expressed frustration that Hispanics held fewer than 5% of Senate-confirmed positions in the Clinton administration. Dolores Huerta of the United Farm Workers called on the Congressional Hispanic Caucus to be more assertive, while others like Chicago City Treasurer Miriam Santos urged patience with the slow process."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "NAHJ Conference Roundtable",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Maria Hinojosa spoke with NAHJ President Diane Alverio, New York Daily News columnist Juan Gonzalez, and Los Angeles Times reporter George Ramos about challenges facing Latino journalists. Panelists discussed the tension between professional objectivity and the distinct cultural perspective Latino reporters bring to their work. They also debated whether the NAHJ should function primarily as a professional organization or more explicitly as a civil rights organization, with Alverio arguing that fighting for equal representation in newsrooms is, by nature, a civil rights cause."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Media Coverage and Civil Rights",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A report by Barrie Lynn Tapia examined the deep connection between Latino/a civil rights activism and media coverage. Activists and journalists noted that while Latino/as make up nearly 10% of the U.S. population, they account for fewer than 5% of newsroom employees. Former California Supreme Court Justice Cruz Reynoso, newly appointed to the U.S. Civil Rights Commission, argued that media representation is inseparable from civil rights, as the press shapes national conversations about who belongs in American society."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Poet's Perspective: Grape Boycott at the Conference",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Poet José Antonio Burciaga offered a literary account of the NAHJ gathering, noting its diversity and energy. The conference was dedicated to the memory of Cesar Chavez, and organizers had requested that no grapes be served in honor of the United Farm Workers grape boycott. When grapes appeared at multiple receptions, Burciaga and others took matters into their own hands, stomping and discarding the offending fruit at two separate events. The grape incidents became an emblem of the unfinished work of Latino/a advocacy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "a6afa22f-49b4-480d-ba7c-eed7d288c0bb",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.299Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 11",
