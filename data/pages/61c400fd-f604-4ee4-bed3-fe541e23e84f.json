@@ -1,5 +1,196 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 10",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: July 4, 1993 - July 10, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nNews anchor Vidal Guzman leads with Latino disappointment over President Clinton's nomination of Ruth Bader Ginsburg to the Supreme Court. The Hispanic National Bar Association and MALDEF had both lobbied hard for a Latino nominee, with MALDEF president Antonio Hernandez warning that Ginsburg's record on Latino constitutional rights is not self-evident. The International Ladies Garment Workers Union launches a nationwide series of meetings called Acceso to involve its Latino retirees, who make up 40% of the membership, in the healthcare reform debate, with a focus on linguistic access to care. Section 936 of the tax code, which benefits U.S. companies operating in Puerto Rico, comes under new pressure as Clinton moves to eliminate it; Puerto Rico's governor has formed a task force to lobby the Senate, warning of severe economic consequences for the island."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Santería and the First Amendment",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nMaria Hinojosa speaks with anthropologist Mercedes Sandoval, an expert on Afro-Cuban religions, about the U.S. Supreme Court's ruling that Santería's practice of animal sacrifice is protected under the First Amendment's freedom of religion clause. The ruling overturned a 1987 ban in Hialeah, Florida. Sandoval explains that Santería, whose followers seek guidance from deities called Orishas, has long suffered from misconceptions linking it to black magic and satanism, partly due to its African origins and the secretive nature of some rituals. She sees the ruling as a legitimizing moment that should redirect law enforcement attention away from religious practitioners and toward actual criminal activity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Profile: Comedian Marga Gomez",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nReporter Mandalit Del Barco profiles Marga Gomez, a San Francisco-based comedian and performance artist whose off-Broadway one-woman show Memory Tricks earned rave reviews. The daughter of a Puerto Rican exotic dancer and a Cuban theatrical impresario, Gomez grew up in New York watching her parents perform alongside Tito Puente and Celia Cruz. Memory Tricks is a warm, funny tribute to her flamboyant mother, a belly dancer known as Margo the Exotic who could never quite remember song lyrics. Gomez also discusses her second show, which deals openly with her sexuality and jealousy in relationships. She is writing a screenplay adaptation of Memory Tricks for PBS."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "NAFTA: Debate and Performance",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nReporter Brian Shields covers a Dallas meeting between Mexican president Carlos Salinas de Gortari and Latino business leaders, where opposition from Ross Perot and grassroots groups like San Antonio's Fuerza Unida is pitted against the enthusiasm of Hispanic entrepreneurs already trading across the border. Salinas argues NAFTA will raise wages in Mexico over time, while skeptics worry about U.S. manufacturing jobs moving south. Performance artist Guillermo Gomez-Pena follows with a satirical piece in which he plays an Aztec salesman pitching NAFTA as a cultural and economic spectacle, before breaking down mid-pitch into an identity crisis and offering to do gardening, translation, and community outreach in exchange for a job."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Indigenous Roots, Human Rights, and the Environment",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nReporters Lillie Rodulfo and Lucy Edwards cover the 17th Encuentro of the National Chicano Human Rights Council in Brownsville, Texas, where Chicanos and Indigenous elders from both sides of the border gather for ceremony and testimony. Mexican shaman Andre Segura leads participants in the Danza Conchera, a sacred Aztec tradition, as part of a broader movement reconnecting Mexican Americans with their Indigenous roots. Community organizer Susana Renteria of Austin's PODER describes the injection of toxic chemicals into the earth as a form of contamination of the planet's bloodstream. Elders warn that the loss of the relationship between people and the earth is at the root of the modern environmental and social crisis. Testimony from the gathering will be presented to the United Nations Commission on Human Rights."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "c979597f-a569-4cf8-a650-b5a777328223",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.119Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 02",
