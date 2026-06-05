@@ -1,5 +1,182 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 2",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: May 9, 1993 - May 15, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-four",
+          "text": "Las Noticias: The Death of César Chávez"
+        },
+        {
+          "text": "\nThe news segment opens with an extended tribute to César Chávez, who died at 66 at his home in Arizona near where he was born. News anchor Maria Martin traces his journey from a 10-year-old field worker to the organizer who built the United Farm Workers and inspired a generation of Chicano activists. Voices from Father Virgil Elizondo, UFW's Rebecca Flores Harrington, and former colleague Osvaldo Jaurechi paint a portrait of a man who, despite setbacks in his later years, remained a towering symbol of the campesino struggle. The news also covers a Supreme Court case threatening minority-based redistricting districts that could jeopardize 26 Black and Latino majority districts nationwide, and touches on the debate over whether President Clinton's forthcoming healthcare plan will cover undocumented immigrants, a question on which the White House is sending mixed signals."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "NAFTA and the Latino Community",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nThe same panel of journalists from Episode 1, Sandra Marquez, Zita Arocha, and José Carreño, return to dig into NAFTA, whose trade talks are now formally underway. The conversation reveals deep divisions within the Latino community: working-class Latinos fear losing low-skilled jobs to Mexico, while bicultural Latino entrepreneurs see real opportunity in cross-border commerce. Carreño notes that geography matters as Latinos in Texas tend to favor NAFTA while those in California are more skeptical. Arocha adds a counterintuitive argument: if NAFTA reduces immigration, it could actually protect low-wage jobs already held by U.S. Latinos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Two Years After the Mount Pleasant Riots",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nThe centerpiece report, filed by William Troop from Washington D.C., revisits the May 1991 uprising in the city's predominantly Central American Latino neighborhood. The riots were sparked when a Salvadoran immigrant, Daniel Gomez, was shot by a police officer during a public drinking stop. Three days of looting and burning followed. Legal advocate Juan Milanés reflects that, in a painful way, the riots were the best thing that ever happened to D.C.'s Latino community: \"Overnight, Latinos were an issue in Washington DC.\" Two years on, the city has made incremental progress, including bilingual 911 operators, Spanish language police training, and more Latino officers on the beat, but the Latino Civil Rights Task Force says much remains undone, with police brutality cases continuing. The report also explores a deeper tension: over half of D.C.'s 60,000 Latinos are undocumented, making political organizing difficult, while African American council member Frank Smith argues bluntly that representation requires citizenship and voter registration. The episode notes that Daniel Gomez, whose shooting ignited the riots, recovered and was later acquitted of assaulting the officer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Profile: Mario Bauzá, Pioneer of Afro-Cuban Jazz",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Emilio San Pedro profiles 81-year-old Mario Bauzá, one of the last living architects of Afro-Cuban jazz. A native of Havana who arrived in New York in 1930, Bauzá helped launch Ella Fitzgerald's career at the Apollo, played with the Cab Calloway Orchestra, and, alongside Dizzy Gillespie, helped fuse Afro-Cuban rhythms with American jazz. He co-founded the legendary band Machito and His Afro-Cubans in the early 1940s. Bauzá is particular about terminology, as he insists the music be called \"Afro-Cuban jazz,\" not \"Latin jazz,\" to honor its specific cultural roots. At 81, he's still active, planning a tour and a new album, "
+        },
+        {
+          "text": "Explosión 93",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Commentary: A Hike in the Sierra",
+          "bold": true,
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe episode closes on a quiet, meditative note. Texas artist Luis Guerra, who left Austin to live in the mountains of San Luis Potosí, shares a personal essay about a hike in the Sierra, during which he encounters shepherds, wild herbs, small shrines, and a campesino who catches him taking firewood from his ranchito. Rather than accept payment, the man sends him off with bread, goat cheese, and homemade candy. \"Here on top of the earth, we have everything a man can need,\" the farmer tells him. It's a gentle reminder, Guerra suggests, of what gets left behind in modern life and what draws many Latinos back to their roots."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "51c02208-0d45-468e-ae23-610806e36229",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.941Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 35",
