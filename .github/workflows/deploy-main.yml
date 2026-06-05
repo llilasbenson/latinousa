@@ -3,7 +3,7 @@ name: Deploy main branch to GitHub Pages
 # Deploy project
 
 on:
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
+# Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
 # Allow this job to clone the repo and create a page deployment
@@ -19,77 +19,124 @@ jobs:
       group: deploy-to-main-group
       cancel-in-progress: true
     steps:
-      - name: Checkout project repository
-        uses: actions/checkout@v4
+    - name: Checkout project repository
+      uses: actions/checkout@v4
 
-      - name: Read in the project file
-        id: project
-        uses: antifree/json-to-variables@v1.0.1
-        with:
-          filename: ./data/project.json
-          prefix: project
+    - name: Read in the project file
+      id: project
+      uses: antifree/json-to-variables@v1.0.1
+      with:
+        filename: ./data/project.json
+        prefix: project
 
-      - name: Checkout project-client
-        uses: actions/checkout@v4
-        with:
-          repository: AVAnnotate/project-client
-          path: "./client"
-          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
+    - name: Checkout project-client
+      uses: actions/checkout@v4
+      with:
+        repository: AVAnnotate/project-client
+        path: "./client"
+        ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
 
-      - name: npm install
-        working-directory: "./client"
-        run: npm install
+    - name: npm install
+      working-directory: "./client"
+      run: npm install
 
-      - name: Ensure a content directory
-        run: mkdir -p "./client/src/content"
+    - name: Ensure a content directory
+      run: mkdir -p "./client/src/content"
 
-      - name: Copy data to content directory
-        run: cp -r ./data/* ./client/src/content
+    - name: Copy data to content directory
+      run: cp -r ./data/* ./client/src/content
 
-      - name: Make a project directory if it does not exist
-        run: mkdir -p "./client/src/content/project"
+    - name: Make a project directory if it does not exist
+      run: mkdir -p "./client/src/content/project"
 
-      - name: Move project.json file to project directory
-        run: mv ./client/src/content/project.json ./client/src/content/project/project.json
+    - name: Move project.json file to project directory
+      run: mv ./client/src/content/project.json ./client/src/content/project/project.json
 
-      - name: Copy any VTT files to public
-        run: cp -r ./data/vtt/. ./client/public/
+    - name: Copy any VTT files to public
+      run: cp -r ./data/vtt/. ./client/public/
 
-      # Only publish when directed
-      - name: Setup Pages
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        id: pages
-        uses: actions/configure-pages@v5
+    # Only publish when directed
+    - name: Setup Pages
+      if: ${{ env.project_publish_publish_pages_app == 'true' }}
+      id: pages
+      uses: actions/configure-pages@v5
 
-      - name: Make a manifests directory if it does not exist
-        run: mkdir -p "./client/src/content/manifests"
+    - name: Make a manifests directory if it does not exist
+      run: mkdir -p "./client/src/content/manifests"
 
-      - name: Generate manifest
-        run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
+    - name: Generate manifest
+      run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
 
-      - name: Build Astro Client
-        uses: withastro/action@v4
-        with:
-          path: "./client"
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: "22"
+        cache: npm
+        cache-dependency-path: "./client/package-lock.json"
 
-      - name: Deploy to GitHub Pages
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        id: deployment
-        uses: actions/deploy-pages@v4
-        env:
-          name: github-pages
-          url: ${{ steps.deployment.outputs.page_url }}
+    - name: Compute build cache key
+      id: cache-key
+      run: |
+        DATA_HASH=$(find ./data -type f | sort | xargs sha256sum | sha256sum | cut -d' ' -f1)
+        CLIENT_HASH=$(find ./client/src ./client/astro.config.mjs ./client/dynamic-astro-config.js ./client/package-lock.json -type f 2>/dev/null | sort | xargs sha256sum | sha256sum | cut -d' ' -f1)
+        echo "key=astro-dist-${DATA_HASH}-${CLIENT_HASH}" >> $GITHUB_OUTPUT
 
-      - name: Create an offline site
-        if: ${{ env.project_publish_publish_static_site == 'true' }}
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          rm -rf ./site
-          mv ./client/dist ./site
-          cp ./client/static-site-readme.md ./site/README.md
-          git config user.email "gitbot@avannotate.com"
-          git config user.name "GitHub Action Bot"
-          git add ./site
-          git diff-index --quiet HEAD || git commit -m 'Created offline site'
-          git push
+    - name: Restore Astro build cache
+      id: astro-cache
+      uses: actions/cache@v4
+      with:
+        path: ./client/dist
+        key: ${{ steps.cache-key.outputs.key }}
+
+    - name: Build Astro Client
+      if: steps.astro-cache.outputs.cache-hit != 'true'
+      working-directory: "./client"
+      run: |
+        # Run the build, streaming output to both console and log file
+        npm run build 2>&1 | tee /tmp/astro-build.log &
+        PIPE_PID=$!
+        # Poll until dist/index.html exists (the final page built by Astro)
+        # This is more reliable than matching log text
+        while true; do
+          if [ -f "dist/index.html" ]; then
+            echo "dist/index.html found - build complete, killing npm..."
+            sleep 2
+            pkill -KILL -f "astro build" 2>/dev/null || true
+            pkill -KILL -f "npm run build" 2>/dev/null || true
+            kill $PIPE_PID 2>/dev/null || true
+            break
+          fi
+          # Check if the build process exited on its own (success or failure)
+          if ! kill -0 $PIPE_PID 2>/dev/null; then
+            echo "Build process exited on its own"
+            break
+          fi
+          sleep 5
+        done
+        # Final check
+        if [ ! -f "dist/index.html" ]; then
+          echo "ERROR: Build failed - dist/index.html not found"
+          exit 1
+        fi
+
+    - name: Deploy to GitHub Pages
+      if: ${{ env.project_publish_publish_pages_app == 'true' }}
+      id: deployment
+      uses: actions/deploy-pages@v4
+      env:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
+
+    - name: Create an offline site
+      if: ${{ env.project_publish_publish_static_site == 'true' }}
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        rm -rf ./site
+        mv ./client/dist ./site
+        cp ./client/static-site-readme.md ./site/README.md
+        git config user.email "gitbot@avannotate.com"
+        git config user.name "GitHub Action Bot"
+        git add ./site
+        git diff-index --quiet HEAD || git commit -m 'Created offline site'
+        git push
