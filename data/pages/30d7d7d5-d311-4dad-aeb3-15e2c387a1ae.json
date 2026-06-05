@@ -1,5 +1,215 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 31",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: November 28, 1993 - December 4, 1993",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noticias",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vice President Al Gore and Ross Perot squared off in a nationally televised NAFTA debate, though congressional observers said the exchange did little to move undecided members. Anti-NAFTA witnesses at a House banking committee hearing chaired by Texas Congressman Henry Gonzalez described high levels of corruption in Mexico and called for a fully renegotiated treaty with greater public transparency. The pro-NAFTA Latino Consensus coalition intensified its grassroots lobbying effort, with Southwest Voter Research Institute director Andy Hernandez arguing that NAFTA's defeat, if it came, would owe more to latent bigotry against Mexicans and Latino/as than to substantive policy concerns. In Miami, voters elected Steve Clark as the city's first non-Hispanic mayor in over two decades, with younger Cuban American voters, Black voters, and non-Cuban Hispanics rejecting challenger Miriam Alonso's ethnically centered campaign by a 59 percent margin. Additionally, Illinois Congressman Luis Gutierrez introduced legislation to fund English and citizenship classes for the millions of immigrants who became eligible for naturalization under the 1986 Immigration Reform Act."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mexico Donates Books to Chicago Schools",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mexico's Secretary of Public Education, Ernesto Zedillo, visited Chicago to present city schools with over one million dollars in Spanish-language books and audiovisual materials. The collection, ranging from encyclopedias with a Mexican perspective to classic literature, was intended to benefit bilingual education programs, adult literacy efforts, and community colleges. Zedillo framed the donation as a way to strengthen cultural ties between Mexico and Chicago's growing Mexican American community and also used the visit to promote NAFTA. Students and parents interviewed at a participating school described a gap in their public education around Mexican history and culture, and welcomed the materials as a source of pride and identity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Puerto Rico on the Eve of the Plebiscite",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With the November 14th status vote days away, Latino USA's Maria Martin reported from San Juan on the campaign's final stretch. Political analyst Juan Manuel Garcia Passalacqua framed the plebiscite as historically significant, calling it the first time all three parties jointly petitioned Congress under the First Amendment's Right to Petition clause, formally naming colonialism as their grievance. Statehood proponents argued that Puerto Ricans bore the obligations of U.S. citizenship, including military service, without the full rights, including the ability to vote for president or voting representatives in Congress. Commonwealth defenders warned that statehood would cost Puerto Rico its Spanish-language status, its Olympic team, and the Section 936 tax incentives that supported roughly one in three jobs on the island. Independence supporters, though polling in the low single digits, hoped a split result might push Congress to view sovereignty more favorably. Former Governor Roberto Sanchez Vilella called the entire exercise a fraud and pursued legal standing for a blank ballot protest option. Polls showed statehood and commonwealth in a virtual tie, with a large undecided share expected to determine the outcome."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El Rancho de las Golondrinas: A Living Museum",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Just south of Santa Fe, El Rancho de las Golondrinas preserves three centuries of New Mexico's Spanish colonial history through living demonstrations. Some 75 volunteer demonstrators showed visitors how blacksmiths, millers, and bakers worked across the 70-building property, which served as a stop on the Santa Fe Trail for over 200 years. The museum's director noted that the state's Native American heritage had long drawn more scholarly and tourist attention than its Spanish colonial past, and hoped the site would help visitors appreciate the difficulty of building settlements in the region's harsh landscape. About 12,000 of the museum's 40,000 annual visitors were schoolchildren, some of whom used the site for creative writing projects, imagining life in the 1800s."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "5dc5e244-5128-401f-8682-01c8334b88ab",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.837Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 31",
