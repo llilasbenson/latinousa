@@ -96,7 +96,6 @@ jobs:
         npm run build 2>&1 | tee /tmp/astro-build.log &
         PIPE_PID=$!
         # Poll until dist/index.html exists (the final page built by Astro)
-        # This is more reliable than matching log text
         while true; do
           if [ -f "dist/index.html" ]; then
             echo "dist/index.html found - build complete, killing npm..."
@@ -106,18 +105,22 @@ jobs:
             kill $PIPE_PID 2>/dev/null || true
             break
           fi
-          # Check if the build process exited on its own (success or failure)
           if ! kill -0 $PIPE_PID 2>/dev/null; then
             echo "Build process exited on its own"
             break
           fi
           sleep 5
         done
-        # Final check
         if [ ! -f "dist/index.html" ]; then
           echo "ERROR: Build failed - dist/index.html not found"
           exit 1
         fi
+
+    - name: Upload Pages artifact
+      if: ${{ env.project_publish_publish_pages_app == 'true' }}
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./client/dist
 
     - name: Deploy to GitHub Pages
       if: ${{ env.project_publish_publish_pages_app == 'true' }}
