@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 10",
+          "text": "Latino USA - Episode 2",
           "textSize": "heading-one"
         }
       ]
@@ -13,8 +13,8 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
-          "text": ""
+          "text": "",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Date range: July 4, 1993 - July 10, 1993",
+          "text": "Date range: May 9, 1993 - May 15, 1993",
           "bold": true
         }
       ]
@@ -31,7 +31,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "italic": true
         }
       ]
     },
@@ -39,41 +40,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Las Noticias",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "bold": true,
+          "textSize": "heading-four",
+          "text": "Las Noticias: The Death of César Chávez"
+        },
         {
-          "text": "\nNews anchor Vidal Guzman leads with Latino disappointment over President Clinton's nomination of Ruth Bader Ginsburg to the Supreme Court. The Hispanic National Bar Association and MALDEF had both lobbied hard for a Latino nominee, with MALDEF president Antonio Hernandez warning that Ginsburg's record on Latino constitutional rights is not self-evident. The International Ladies Garment Workers Union launches a nationwide series of meetings called Acceso to involve its Latino retirees, who make up 40% of the membership, in the healthcare reform debate, with a focus on linguistic access to care. Section 936 of the tax code, which benefits U.S. companies operating in Puerto Rico, comes under new pressure as Clinton moves to eliminate it; Puerto Rico's governor has formed a task force to lobby the Senate, warning of severe economic consequences for the island."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Santería and the First Amendment",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nMaria Hinojosa speaks with anthropologist Mercedes Sandoval, an expert on Afro-Cuban religions, about the U.S. Supreme Court's ruling that Santería's practice of animal sacrifice is protected under the First Amendment's freedom of religion clause. The ruling overturned a 1987 ban in Hialeah, Florida. Sandoval explains that Santería, whose followers seek guidance from deities called Orishas, has long suffered from misconceptions linking it to black magic and satanism, partly due to its African origins and the secretive nature of some rituals. She sees the ruling as a legitimizing moment that should redirect law enforcement attention away from religious practitioners and toward actual criminal activity."
+          "text": "\nThe news segment opens with an extended tribute to César Chávez, who died at 66 at his home in Arizona near where he was born. News anchor Maria Martin traces his journey from a 10-year-old field worker to the organizer who built the United Farm Workers and inspired a generation of Chicano activists. Voices from Father Virgil Elizondo, UFW's Rebecca Flores Harrington, and former colleague Osvaldo Jaurechi paint a portrait of a man who, despite setbacks in his later years, remained a towering symbol of the campesino struggle. The news also covers a Supreme Court case threatening minority-based redistricting districts that could jeopardize 26 Black and Latino majority districts nationwide, and touches on the debate over whether President Clinton's forthcoming healthcare plan will cover undocumented immigrants, a question on which the White House is sending mixed signals."
         }
       ]
     },
@@ -89,41 +61,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Profile: Comedian Marga Gomez",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "NAFTA and the Latino Community",
+          "bold": true,
+          "textSize": "heading-four"
+        },
         {
-          "text": "\nReporter Mandalit Del Barco profiles Marga Gomez, a San Francisco-based comedian and performance artist whose off-Broadway one-woman show Memory Tricks earned rave reviews. The daughter of a Puerto Rican exotic dancer and a Cuban theatrical impresario, Gomez grew up in New York watching her parents perform alongside Tito Puente and Celia Cruz. Memory Tricks is a warm, funny tribute to her flamboyant mother, a belly dancer known as Margo the Exotic who could never quite remember song lyrics. Gomez also discusses her second show, which deals openly with her sexuality and jealousy in relationships. She is writing a screenplay adaptation of Memory Tricks for PBS."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "NAFTA: Debate and Performance",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nReporter Brian Shields covers a Dallas meeting between Mexican president Carlos Salinas de Gortari and Latino business leaders, where opposition from Ross Perot and grassroots groups like San Antonio's Fuerza Unida is pitted against the enthusiasm of Hispanic entrepreneurs already trading across the border. Salinas argues NAFTA will raise wages in Mexico over time, while skeptics worry about U.S. manufacturing jobs moving south. Performance artist Guillermo Gomez-Pena follows with a satirical piece in which he plays an Aztec salesman pitching NAFTA as a cultural and economic spectacle, before breaking down mid-pitch into an identity crisis and offering to do gardening, translation, and community outreach in exchange for a job."
+          "text": "\nThe same panel of journalists from Episode 1, Sandra Marquez, Zita Arocha, and José Carreño, return to dig into NAFTA, whose trade talks are now formally underway. The conversation reveals deep divisions within the Latino community: working-class Latinos fear losing low-skilled jobs to Mexico, while bicultural Latino entrepreneurs see real opportunity in cross-border commerce. Carreño notes that geography matters as Latinos in Texas tend to favor NAFTA while those in California are more skeptical. Arocha adds a counterintuitive argument: if NAFTA reduces immigration, it could actually protect low-wage jobs already held by U.S. Latinos."
         }
       ]
     },
@@ -139,16 +82,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Indigenous Roots, Human Rights, and the Environment",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Two Years After the Mount Pleasant Riots",
+          "bold": true,
+          "textSize": "heading-four"
+        },
         {
-          "text": "\nReporters Lillie Rodulfo and Lucy Edwards cover the 17th Encuentro of the National Chicano Human Rights Council in Brownsville, Texas, where Chicanos and Indigenous elders from both sides of the border gather for ceremony and testimony. Mexican shaman Andre Segura leads participants in the Danza Conchera, a sacred Aztec tradition, as part of a broader movement reconnecting Mexican Americans with their Indigenous roots. Community organizer Susana Renteria of Austin's PODER describes the injection of toxic chemicals into the earth as a form of contamination of the planet's bloodstream. Elders warn that the loss of the relationship between people and the earth is at the root of the modern environmental and social crisis. Testimony from the gathering will be presented to the United Nations Commission on Human Rights."
+          "text": "\nThe centerpiece report, filed by William Troop from Washington D.C., revisits the May 1991 uprising in the city's predominantly Central American Latino neighborhood. The riots were sparked when a Salvadoran immigrant, Daniel Gomez, was shot by a police officer during a public drinking stop. Three days of looting and burning followed. Legal advocate Juan Milanés reflects that, in a painful way, the riots were the best thing that ever happened to D.C.'s Latino community: \"Overnight, Latinos were an issue in Washington DC.\" Two years on, the city has made incremental progress, including bilingual 911 operators, Spanish language police training, and more Latino officers on the beat, but the Latino Civil Rights Task Force says much remains undone, with police brutality cases continuing. The report also explores a deeper tension: over half of D.C.'s 60,000 Latinos are undocumented, making political organizing difficult, while African American council member Frank Smith argues bluntly that representation requires citizenship and voter registration. The episode notes that Daniel Gomez, whose shooting ignited the riots, recovered and was later acquitted of assaulting the officer."
         }
       ]
     },
@@ -157,6 +96,53 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Profile: Mario Bauzá, Pioneer of Afro-Cuban Jazz",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Emilio San Pedro profiles 81-year-old Mario Bauzá, one of the last living architects of Afro-Cuban jazz. A native of Havana who arrived in New York in 1930, Bauzá helped launch Ella Fitzgerald's career at the Apollo, played with the Cab Calloway Orchestra, and, alongside Dizzy Gillespie, helped fuse Afro-Cuban rhythms with American jazz. He co-founded the legendary band Machito and His Afro-Cubans in the early 1940s. Bauzá is particular about terminology, as he insists the music be called \"Afro-Cuban jazz,\" not \"Latin jazz,\" to honor its specific cultural roots. At 81, he's still active, planning a tour and a new album, "
+        },
+        {
+          "text": "Explosión 93",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Commentary: A Hike in the Sierra",
+          "bold": true,
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe episode closes on a quiet, meditative note. Texas artist Luis Guerra, who left Austin to live in the mountains of San Luis Potosí, shares a personal essay about a hike in the Sierra, during which he encounters shepherds, wild herbs, small shrines, and a campesino who catches him taking firewood from his ranchito. Rather than accept payment, the man sends him off with bread, goat cheese, and homemade candy. \"Here on top of the earth, we have everything a man can need,\" the farmer tells him. It's a gentle reminder, Guerra suggests, of what gets left behind in modern life and what draws many Latinos back to their roots."
         }
       ]
     },
@@ -170,7 +156,7 @@
     },
     {
       "type": "event",
-      "uuid": "c979597f-a569-4cf8-a650-b5a777328223",
+      "uuid": "51c02208-0d45-468e-ae23-610806e36229",
       "includes": [
         "media",
         "annotations",
