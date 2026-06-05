@@ -1,5 +1,242 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 27",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: October 31, 1993 - November 6, 1993",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noticias",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A newly formed bipartisan coalition launched an effort to win Latino/a congressional support for NAFTA ahead of the November 17th House vote, with the Congressional Hispanic Caucus roughly split on the agreement. President Clinton, speaking on Spanish-language television, voiced support for continuing public services for undocumented immigrants and said he would back Puerto Rican statehood if island voters chose it. Operation Blockade continued drawing criticism from Mexican officials, with the Consul General in El Paso calling it a source of unnecessary tension between the two countries. California Senator Barbara Boxer introduced legislation to deploy National Guard members to assist the Border Patrol along the border, drawing opposition from Hispanic civil rights groups who called it a further militarization of the border. Congress voted to restore 21 million dollars in funding for TV Marti. And the National Hispanic Leadership Agenda downgraded the Clinton administration's record on Latino/a appointments from a C-minus to a D, with coalition director Frank Newton saying that despite hundreds of new appointments since May, Latino/a representation had actually moved backward."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "New York Puerto Rican Plebiscite Results",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With roughly a third of the ballots counted, New York City's parallel Puerto Rican plebiscite showed 59 percent favoring commonwealth status, 37 percent favoring statehood, and 4 percent favoring independence. Nearly 32,000 Nuyoricans turned out, many bringing worn birth certificates to prove eligibility. Bronx Borough President Fernando Ferez called the turnout historic, and coalition leader Manny Mirabal emphasized the goal was never to advocate for a particular outcome but to demonstrate that mainland Puerto Ricans demanded a place in the process. Similar votes were planned in Orlando, Springfield, and Chicago ahead of the island's November 14th plebiscite."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Hispanic Heritage Month Debate",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jane Delgado, former executive director of the Association of Hispanic Arts, joined Maria Hinojosa to argue against Hispanic Heritage Month. Delgado said the month-long commemoration diminishes Latino/a communities by confining interest in their culture and contributions to a single window each year. She traced the celebration's origins to a federal initiative that expanded from a week to a month and was later adopted by corporations, whose spending she argued would be better directed to community-based nonprofits. She concluded that no survey had shown any measurable advancement for Latino/as attributable to the celebration."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Teotihuacan at the de Young Museum",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A sweeping exhibit of art from the ancient city of Teotihuacan opened at San Francisco's M. H. de Young Museum, featuring murals, masks, and ritual objects spanning the civilization's 800-year history. The museum made the unusual decision to return most of a looted collection to Mexico despite no legal obligation to do so. Linda Ronstadt hosted the audio tour, and the exhibit drew a strong response from Latino/a visitors who found personal and cultural connections to the ancient imagery."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La eMe and the Los Angeles Gang Truce",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Community activist Javier Rodriguez, whose son was killed in a gang-related incident, offered commentary on reports that the Mexican Mafia had been calling on Latino gangs across Los Angeles to halt drive-by shootings. Rodriguez acknowledged possible criminal motives but argued that dismissing the effort was irresponsible, given the real reduction in violence many communities were experiencing. He framed it as a symptom of a broader leadership vacuum and warned that any truce would ultimately fail without addressing the root causes of gang violence: poverty, racism, and inequality."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "c91daeaa-c9cc-41a6-8afd-9d285f9fc833",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T18:47:45.320Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 12",
