@@ -1,5 +1,116 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Latino USA started at the Center for Mexican American Studies (CMAS) at the University of Texas at Austin in 1993. The goal of the half-hour radio program was to share the full Latino/a experience in the United States, which was largely excluded from traditional American broadcast media. Gilberto Cardenas, the director of CMAS at the time, along with staff from NPR and KUT, the Austin NPR affiliate, began researching and planning the radio program in 1990. Maria Hinojosa and Maria Martin, two well-respected and established radio journalists, joined Latino USA as host and executive producer, respectively. Christina Cuevas also served as executive director from 1995 to 1998 and played a key role in continuing the program's development. The show aired on various National Public Radio stations across the country before the program was moved to Futuro Media Group in 2010, where Hinojosa continues to serve as a host. Each episode of Latino USA follows a similar format. The first five minutes are a compilation of current events in a segment called "
+                },
+                {
+                  "text": "Las Noticias",
+                  "italic": true
+                },
+                {
+                  "text": ". Following the news roundup, the program transitions to three to five longer segments that offer more in-depth discussion of a subject. These segments also include various formats, such as one-on-one interviews, panel interviews (interviews with at least three people), and radio packages. Radio packages are typically pre-recorded and pre-edited radio stories that include a reporter voice-over, interviewees, and natural sounds from the environment where the story is recorded. Radio packages are often recorded on location.  A myriad of topics are discussed on the program, including immigration, economic policy, music, popular culture, history, and the arts. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The original Latino USA collection was processed in 2009, and digital reformatting of the audiotapes is ongoing. In 2025, approximately 160 episodes of Latino USA were made available online via the University of Texas Digital Collections. The annotations in this project cover programs released in 1993, the first year of the program. Annotations featured include speakers and referenced people, places, organizations, subjects, communities, journalistic approaches, sounds, referenced dates, and referenced works, such as names of songs, plays, or shows."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Citation: "
+                },
+                {
+                  "text": "Latino USA Records Preliminary Inventory, Nettie Lee Benson Latin American Collection, University of Texas Libraries, the University of Texas at Austin. ",
+                  "link": "https://txarchives.org/utlac/finding_aids/00344.xml"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "table-of-contents",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-06-11T14:41:14.069Z",
   "created_by": "llilasbenson",
   "title": "Latino USA",
