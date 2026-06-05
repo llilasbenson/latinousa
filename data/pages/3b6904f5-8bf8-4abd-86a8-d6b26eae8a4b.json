@@ -1,5 +1,168 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Latino USA - Episode 7",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Date range: June 13, 1993 - June 19, 1993",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Las Noticias",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nNews anchor Maria Martin leads with a United Nations quality of life report finding that U.S. Latinos rank 35th in the world, comparing their living standards to those in Latvia, Estonia, and Russia, while non-minority Americans rank first globally. In New York City, polls show Latino voters giving Mayor David Dinkins a 40% approval rating ahead of his race against Republican Rudolph Giuliani, with the Latino community expressing deep frustration about discrimination, education, crime, and the economy. A delegation from the Puerto Rican island of Vieques travels to Washington to ask Congress to close the U.S. naval base there, citing 50 years of bombing and environmental damage. Puerto Rico's governor lobbies to preserve Section 936 of the tax code, which exempts U.S. companies operating on the island from taxes for 10 years, arguing its elimination would push unemployment well above its current 18%. The segment closes with the announcement that HBO will launch HBO en Español in the top 10 Latino markets, and that Telemundo plans a new Spanish-language newscast."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chile Workers in West Texas and New Mexico",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Angelica Luevano covers a Cesar Chavez Day march in El Paso attended by nearly 3,000 people, using the occasion to spotlight the conditions facing chile field workers in the region. The Border Farm Workers Union reports that workers earn an average of just over $5,000 a year, well below the poverty line, despite the chile industry becoming the most profitable crop in New Mexico and salsa overtaking ketchup as the most popular condiment in the U.S. in 1992. Workers spend four to five hours a day riding old school buses to fields in 100 to 110-degree heat, picking chile on a piece rate that often falls below minimum wage, and many sleep in El Paso streets to secure daily work. A lawyer with Texas Rural Legal Aid describes it as likely the worst labor situation anywhere in the country."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Repeal of English-Only in Miami",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nMaria Hinojosa convenes a panel of three Miami journalists to discuss the repeal of Dade County's 13-year English-only ordinance, originally enacted in 1980 following the Mariel boatlift and the arrival of Haitian refugees. The panelists describe the repeal as largely symbolic but politically significant, made possible by a newly diverse county commission with six Hispanics, four Black members, and three non-Hispanic whites. They note that for the first time, Hispanic and Haitian communities found themselves on the same side of a political fight. Misunderstanding drove much of the opposition, with many residents fearing they would be forced to learn Spanish, when in reality the law simply allows government services and documents to be offered in multiple languages."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Youth Poets at El Centro De La Raza, Seattle",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nReporter Ingrid Lobet visits a twice-weekly poetry workshop for young people aged 8 to 20 at El Centro De La Raza in South Seattle. Some participants are one step away from gang life; all come by choice. Director Roberto Maestas, who has run El Centro for 20 years, says poetry builds a sense of worth and somebodiness that no other intervention quite replicates. The workshop's youth poets, known as Hope for Youth, have published a book called Words Up and received an invitation from the government of Chile to travel there that summer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Commentary: NAFTA and the New Continent",
+          "bold": true,
+          "textSize": "heading-four"
+        },
+        {
+          "text": "\nMacArthur Fellow and performance artist Guillermo Gomez-Pena offers a sharp, satirical commentary on NAFTA, questioning whether the agreement will turn Mexico into a cultural and environmental dumping ground, whether indigenous traditions will survive a flood of U.S. media culture, and whether future generations will become, as he puts it, brown-skinned gringos or upside-down Chicanos. He argues the neoliberal model at the heart of NAFTA sidesteps basic labor, environmental, and cultural responsibilities, and that a new era has arrived, whether people are ready for it or not."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "0cb18a16-676e-46c3-a823-92bdb048e21d",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-20T19:25:20.471Z",
   "created_by": "amtellez16",
   "title": "Latino USA Episode 7",
