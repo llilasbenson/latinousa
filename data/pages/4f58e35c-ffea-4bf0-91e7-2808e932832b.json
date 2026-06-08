@@ -175,10 +175,10 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 08",
   "slug": "latino-usa-episode-08",
-  "updated_at": "2026-06-08T22:31:03.924Z",
+  "updated_at": "2026-06-08T22:36:38.628Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "eee45f46-a468-4b4a-9b28-36d1068fbd0e"
   },
