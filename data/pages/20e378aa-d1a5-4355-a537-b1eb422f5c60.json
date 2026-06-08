@@ -232,11 +232,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 22",
   "slug": "latino-usa-episode-22",
-  "updated_at": "2026-04-20T18:47:45.563Z",
+  "updated_at": "2026-06-08T22:23:11.342Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "9b467d98-806f-4606-9f51-114a4e916743"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
