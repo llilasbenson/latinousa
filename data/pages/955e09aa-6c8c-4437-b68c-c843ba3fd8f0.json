@@ -175,10 +175,10 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 03",
   "slug": "latino-usa-episode-03",
-  "updated_at": "2026-06-08T22:32:08.370Z",
+  "updated_at": "2026-06-08T22:36:04.181Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "5b818837-1b7e-4c14-99f6-52ae1c280268"
   },
