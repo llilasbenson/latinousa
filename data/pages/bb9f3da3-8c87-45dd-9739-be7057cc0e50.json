@@ -224,11 +224,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 24",
   "slug": "latino-usa-episode-24",
-  "updated_at": "2026-04-20T18:47:45.656Z",
+  "updated_at": "2026-06-08T22:22:46.054Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "966293b2-b039-4ce6-a890-c52c8d1c13d1"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
