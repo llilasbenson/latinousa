@@ -181,11 +181,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 02",
   "slug": "latino-usa-episode-02",
-  "updated_at": "2026-04-20T18:47:45.119Z",
+  "updated_at": "2026-06-08T22:32:20.307Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "cc750c5a-4f96-4554-b17a-1812d6e402ed"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
