@@ -320,6 +320,7 @@
   "slug": "annotations",
   "created_at": "2026-06-02T21:59:31.807Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-06-02T21:59:58.043Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2026-06-08T22:33:14.325Z",
+  "updated_by": "amtellez16",
+  "parent": "6a9c0390-521b-42ab-a83d-fe5fb2737278"
 }
