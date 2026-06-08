@@ -71,7 +71,11 @@
         {
           "category": "As 6",
           "color": "#F2A7C3"
-        }
+        },
+                {
+                            "category": "_uncategorized_",
+                            "color": "#CCCCCC"
+                }
       ],
       "tags": [
         {
