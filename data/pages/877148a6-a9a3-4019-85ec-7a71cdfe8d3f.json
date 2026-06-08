@@ -195,10 +195,10 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 10",
   "slug": "latino-usa-episode-10",
-  "updated_at": "2026-06-08T22:28:07.904Z",
+  "updated_at": "2026-06-08T22:36:56.257Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d6aaf3a7-53b3-4057-90db-615d9cbce9bc"
   },
