@@ -214,11 +214,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 31",
   "slug": "latino-usa-episode-31",
-  "updated_at": "2026-04-20T18:47:45.837Z",
+  "updated_at": "2026-06-08T22:20:22.658Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "86438cfe-2a44-4e6e-b5f7-0c8498ffd63b"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
