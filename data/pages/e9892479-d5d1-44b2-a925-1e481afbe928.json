@@ -266,11 +266,12 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 18",
   "slug": "latino-usa-episode-18",
-  "updated_at": "2026-04-20T18:47:45.461Z",
+  "updated_at": "2026-06-08T22:23:59.048Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "e0f84e67-612d-417b-a5cb-47119b3842d7"
-  }
+  },
+  "parent": "72eadee0-8fd7-47ac-9586-8a4ed0e89a9c"
 }
