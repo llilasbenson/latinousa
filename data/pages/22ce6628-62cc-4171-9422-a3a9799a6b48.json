@@ -199,10 +199,10 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 32",
   "slug": "latino-usa-episode-32",
-  "updated_at": "2026-06-08T22:20:12.553Z",
+  "updated_at": "2026-06-12T18:40:52.081Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "9c779500-c613-45ea-8b04-58cdcdd3cebc"
   },
