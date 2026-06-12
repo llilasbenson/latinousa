@@ -231,10 +231,10 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 33",
   "slug": "latino-usa-episode-33",
-  "updated_at": "2026-06-08T22:19:54.071Z",
+  "updated_at": "2026-06-12T18:40:58.002Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "1c8ab6cf-46f4-4df7-a643-cc2516ba16eb"
   },
