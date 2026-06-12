@@ -265,10 +265,10 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 34",
   "slug": "latino-usa-episode-34",
-  "updated_at": "2026-06-08T22:19:39.510Z",
+  "updated_at": "2026-06-12T18:41:03.211Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d70ec0b5-6240-4c7e-b323-3b3f4f2bc7e7"
   },
