@@ -4,24 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "About",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Project Development",
           "textSize": "heading-two"
         }
@@ -155,7 +137,7 @@
   "slug": "about",
   "created_at": "2026-05-28T18:25:43.768Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-06-08T22:33:26.299Z",
+  "updated_at": "2026-06-13T20:42:49.350Z",
   "updated_by": "amtellez16",
   "parent": "6a9c0390-521b-42ab-a83d-fe5fb2737278"
 }
