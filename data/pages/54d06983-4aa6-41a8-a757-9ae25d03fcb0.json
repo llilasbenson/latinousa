@@ -4,24 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 9",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: June 27, 1993 - July 3, 1993",
           "bold": true
         }
@@ -42,9 +24,14 @@
           "text": "Las Noticias",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Maria Martin opens with a victory at UCLA: after nearly two weeks on a water-only hunger strike, Chicano students reach an accord with Chancellor Charles Young, winning the Cesar Chavez Center for Chicana and Chicano Studies, dropping charges against the 99 students arrested during earlier protests, and a two-year budget guarantee for ethnic and gender studies programs. It falls short of a full independent department, but is celebrated as a major step forward by students, Dolores Huerta, and State Senator Art Torres. In New York, Dominicans, Puerto Ricans, and Panamanians form the first-ever Latino chapter of the NAACP in the South Bronx, motivated less by discrimination concerns than by the despair of a community with no jobs and 30 young people killed in the streets since 1989. Los Angeles elects its first Republican mayor in over 30 years, Richard Riordan, with most Latino elected officials having backed the losing candidate. A political science professor notes that Latinos have now surpassed Black Angelinos in absolute numbers of elected officials, making them the dominant minority force in LA politics."
+          "text": "News anchor Maria Martin opens with a victory at UCLA: after nearly two weeks on a water-only hunger strike, Chicano students reach an accord with Chancellor Charles Young, winning the Cesar Chavez Center for Chicana and Chicano Studies, dropping charges against the 99 students arrested during earlier protests, and a two-year budget guarantee for ethnic and gender studies programs. It falls short of a full independent department, but is celebrated as a major step forward by students, Dolores Huerta, and State Senator Art Torres. In New York, Dominicans, Puerto Ricans, and Panamanians form the first-ever Latino chapter of the NAACP in the South Bronx, motivated less by discrimination concerns than by the despair of a community with no jobs and 30 young people killed in the streets since 1989. Los Angeles elects its first Republican mayor in over 30 years, Richard Riordan, with most Latino elected officials having backed the losing candidate. A political science professor notes that Latinos have now surpassed Black Angelinos in absolute numbers of elected officials, making them the dominant minority force in LA politics."
         }
       ]
     },
@@ -64,9 +51,14 @@
           "text": "Human Rights Along the U.S.-Mexico Border",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Patricia Guadalupe covers federal legislation introduced by Representative Xavier Becerra to create an independent commission overseeing the Border Patrol, INS, and Customs. The bill comes after a surge in documented abuse cases, including shootings and beatings of unarmed civilians. Human rights group Americas Watch reports conditions at the border have worsened, not improved, with zero Border Patrol agents prosecuted for shooting or killing undocumented civilians over the past decade."
+          "text": "Reporter Patricia Guadalupe covers federal legislation introduced by Representative Xavier Becerra to create an independent commission overseeing the Border Patrol, INS, and Customs. The bill comes after a surge in documented abuse cases, including shootings and beatings of unarmed civilians. Human rights group Americas Watch reports conditions at the border have worsened, not improved, with zero Border Patrol agents prosecuted for shooting or killing undocumented civilians over the past decade."
         }
       ]
     },
@@ -86,9 +78,14 @@
           "text": "Debate: Immigration at the San Diego-Tijuana Border",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nMaria Hinojosa moderates a pointed debate between Roberto Martinez of the American Friends Service Committee and Muriel Watson of Light Up the Border. Martinez describes receiving three to four new abuse cases daily, including people with split skulls requiring surgery. Watson argues the border must be secured and that existing immigration laws must be enforced. The two find no common ground: Martinez sees poverty and survival as the root cause of migration, while Watson frames unauthorized crossing as lawbreaking that invites anarchy. Their exchange captures the depth of the divide in border communities grappling with immigration daily."
+          "text": "Maria Hinojosa moderates a pointed debate between Roberto Martinez of the American Friends Service Committee and Muriel Watson of Light Up the Border. Martinez describes receiving three to four new abuse cases daily, including people with split skulls requiring surgery. Watson argues the border must be secured and that existing immigration laws must be enforced. The two find no common ground: Martinez sees poverty and survival as the root cause of migration, while Watson frames unauthorized crossing as lawbreaking that invites anarchy. Their exchange captures the depth of the divide in border communities grappling with immigration daily."
         }
       ]
     },
@@ -107,9 +104,14 @@
           "text": "Profile: Rosie Perez",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Mandalit Del Barco profiles Rosie Perez, the Puerto Rican dancer, actress, and now HBO producer from Brooklyn. Perez grew up in Bushwick, caught the dancing bug at family discos, moved to Los Angeles to study biochemistry, and ended up choreographing for Bobby Brown, LL Cool J, and Diana Ross before Spike Lee cast her in Do the Right Thing. She went on to choreograph the Fly Girls on In Living Color, bringing hip hop dance into mainstream American households. Perez fought hard against stereotyping, insisting on keeping her character Puerto Rican in White Men Can't Jump to counter the prevailing image of Latina women in Hollywood. She is now executive producing an HBO rap special called Society's Ride, and has upcoming roles alongside Jeff Bridges and Nicolas Cage."
+          "text": "Reporter Mandalit Del Barco profiles Rosie Perez, the Puerto Rican dancer, actress, and now HBO producer from Brooklyn. Perez grew up in Bushwick, caught the dancing bug at family discos, moved to Los Angeles to study biochemistry, and ended up choreographing for Bobby Brown, LL Cool J, and Diana Ross before Spike Lee cast her in Do the Right Thing. She went on to choreograph the Fly Girls on In Living Color, bringing hip hop dance into mainstream American households. Perez fought hard against stereotyping, insisting on keeping her character Puerto Rican in White Men Can't Jump to counter the prevailing image of Latina women in Hollywood. She is now executive producing an HBO rap special called Society's Ride, and has upcoming roles alongside Jeff Bridges and Nicolas Cage."
         }
       ]
     },
