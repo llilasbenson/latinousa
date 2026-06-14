@@ -4,24 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Annotations",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "The first year of the Latino USA radio program offers a wide range of information about the Latino/a experience in 1993. "
         },
         {
@@ -39,7 +21,7 @@
         {
           "text": "Speakers/Referenced People",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/people/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/people/"
         }
       ]
     },
@@ -57,7 +39,7 @@
         {
           "text": "Places",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/places/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/places/"
         }
       ]
     },
@@ -75,7 +57,7 @@
         {
           "text": "Subject Headings",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/subject-headings/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/subject-headings/"
         }
       ]
     },
@@ -93,7 +75,7 @@
         {
           "text": "Organizations",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/organizations/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/organizations/"
         }
       ]
     },
@@ -111,7 +93,7 @@
         {
           "text": "Communities",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/communities/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/communities/"
         }
       ]
     },
@@ -129,7 +111,7 @@
         {
           "text": "Journalistic Approaches",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/journalistic-approaches/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/journalistic-approaches/"
         }
       ]
     },
@@ -205,7 +187,7 @@
         {
           "text": "Sound clips",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/sounds/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/sounds/"
         }
       ]
     },
@@ -265,7 +247,7 @@
         {
           "text": "Works Cited",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/works-cited/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/works-cited/"
         }
       ]
     },
@@ -283,7 +265,7 @@
         {
           "text": "Referenced Dates",
           "textSize": "heading-three",
-          "link": "https://amtellez16.github.io/latinousa-config/tags/detail/dates/"
+          "link": "https://llilasbenson.github.io/latinousa/tags/detail/dates/"
         }
       ]
     },
@@ -320,7 +302,7 @@
   "slug": "annotations",
   "created_at": "2026-06-02T21:59:31.807Z",
   "created_by": "amtellez16",
-  "updated_at": "2026-06-08T22:33:14.325Z",
+  "updated_at": "2026-06-14T19:24:08.317Z",
   "updated_by": "amtellez16",
   "parent": "6a9c0390-521b-42ab-a83d-fe5fb2737278"
 }
