@@ -41,9 +41,14 @@
           "text": "Las Noticias/The News",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Maria Martin covers several stories: hearings on the North American Free Trade Agreement begin, with Latino organizations pushing for parallel agreements on immigration, the environment, and job retraining. In New York, school chancellor Joseph Fernandez, a Puerto Rican who rose from gang member and heroin addict to head the nation's largest school district, is ousted after controversy over condom distribution and an LGBTQ-inclusive curriculum. A U.S. Civil Rights Commission report finds widespread discrimination against Latinos in Washington, D.C. Reporter Alberto Aguilar files a moving tribute to Father Luis Olivares, the rebel priest who declared his Los Angeles parish a sanctuary for the undocumented and homeless, who died from AIDS. The segment closes with a sobering statistic: Latinos hold fewer than 1% of executive positions in Fortune 500 companies."
+          "text": "News anchor Maria Martin covers several stories: hearings on the North American Free Trade Agreement begin, with Latino organizations pushing for parallel agreements on immigration, the environment, and job retraining. In New York, school chancellor Joseph Fernandez, a Puerto Rican who rose from gang member and heroin addict to head the nation's largest school district, is ousted after controversy over condom distribution and an LGBTQ-inclusive curriculum. A U.S. Civil Rights Commission report finds widespread discrimination against Latinos in Washington, D.C. Reporter Alberto Aguilar files a moving tribute to Father Luis Olivares, the rebel priest who declared his Los Angeles parish a sanctuary for the undocumented and homeless, who died from AIDS. The segment closes with a sobering statistic: Latinos hold fewer than 1% of executive positions in Fortune 500 companies."
         }
       ]
     },
