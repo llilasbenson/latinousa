@@ -13,15 +13,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        },
-        {
           "text": "Las Noticias",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Maria Martin leads with the case of Army Sergeant Jose Zuñiga, the 1993 Sixth Army Soldier of the Year and decorated Gulf War veteran, who is facing administrative discharge after publicly coming out as gay at April's March on Washington. Reporter Franc Contreras notes that Zuñiga made the announcement deliberately, hoping his exemplary record would challenge opposition to gays in the military. The news also covers New York City Mayor David Dinkins calling for the release of more than 21 Puerto Rican political prisoners, a reversal from his earlier position calling them assassins. President Clinton himself makes a brief appearance in the newscast, recorded at the public radio conference in Washington, offering congratulations on the launch of Latino USA. A Kansas City Urban Peace and Justice Summit brings together Black and Latinx gang members and community activists who form a coalition to combat violence and pressure the White House for 500,000 new inner-city youth jobs. The segment closes with news that the Congressional Hispanic Caucus is demanding the removal of a federal judge in Florida after he reportedly referred to a Hispanic attorney as \"Speedy Gonzalez\" and asked whether his clients were part of a Colombian cocaine cartel.\n"
+          "text": "News anchor Maria Martin leads with the case of Army Sergeant Jose Zuñiga, the 1993 Sixth Army Soldier of the Year and decorated Gulf War veteran, who is facing administrative discharge after publicly coming out as gay at April's March on Washington. Reporter Franc Contreras notes that Zuñiga made the announcement deliberately, hoping his exemplary record would challenge opposition to gays in the military. The news also covers New York City Mayor David Dinkins calling for the release of more than 21 Puerto Rican political prisoners, a reversal from his earlier position calling them assassins. President Clinton himself makes a brief appearance in the newscast, recorded at the public radio conference in Washington, offering congratulations on the launch of Latino USA. A Kansas City Urban Peace and Justice Summit brings together Black and Latinx gang members and community activists who form a coalition to combat violence and pressure the White House for 500,000 new inner-city youth jobs. The segment closes with news that the Congressional Hispanic Caucus is demanding the removal of a federal judge in Florida after he reportedly referred to a Hispanic attorney as \"Speedy Gonzalez\" and asked whether his clients were part of a Colombian cocaine cartel.\n"
         }
       ]
     },
@@ -32,9 +34,14 @@
           "text": "Health in the Latino Community",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nMaria Hinojosa speaks with Wilma Montañez, director of the Latina Roundtable on Health and Reproductive Health in New York City, about the Clinton healthcare proposal and what it does or does not offer to Latinos. Montañez describes a community that in many cases has no healthcare access at all, where community clinics have been defunded for years. She raises pointed concerns about whether the plan's job-based structure will cover undocumented workers in informal industries, whether it will include reproductive health services for women, and whether people who have never navigated the formal healthcare system will even be able to use it if and when coverage arrives. She describes the overall effort to craft the plan as having been minimally inclusive of Latino voices."
+          "text": "Maria Hinojosa speaks with Wilma Montañez, director of the Latina Roundtable on Health and Reproductive Health in New York City, about the Clinton healthcare proposal and what it does or does not offer to Latinos. Montañez describes a community that in many cases has no healthcare access at all, where community clinics have been defunded for years. She raises pointed concerns about whether the plan's job-based structure will cover undocumented workers in informal industries, whether it will include reproductive health services for women, and whether people who have never navigated the formal healthcare system will even be able to use it if and when coverage arrives. She describes the overall effort to craft the plan as having been minimally inclusive of Latino voices."
         }
       ]
     },
@@ -53,9 +60,14 @@
           "text": "In Memory of Cesar Chavez: The Delano Memorial",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nThe second half of the episode is devoted entirely to the death of Cesar Chavez, founder of the United Farm Workers, who died on April 23 at age 66. Reporter Diana Martinez collects remembrances from the thousands who gathered at the 40-acre UFW ranch near Delano, California, for a procession that stretched over two miles. Press secretary and personal aide Marc Grossman recalls Chavez working 20-hour days, driving through the night to be at 11 a.m. events. California State Senator Art Torres remembers Chavez refusing to let anyone touch donated money without a full accounting, even when the gas tank was empty. Robert Kennedy Jr. recounts how Chavez mobilized hundreds of supporters and delivered Arizona to Senator Ted Kennedy's 1980 campaign. Co-founder Dolores Huerta and the Reverend Jesse Jackson both speak of a man who planted seeds of dignity that will keep sprouting as long as farmworkers fight for their rights."
+          "text": "The second half of the episode is devoted entirely to the death of Cesar Chavez, founder of the United Farm Workers, who died on April 23 at age 66. Reporter Diana Martinez collects remembrances from the thousands who gathered at the 40-acre UFW ranch near Delano, California, for a procession that stretched over two miles. Press secretary and personal aide Marc Grossman recalls Chavez working 20-hour days, driving through the night to be at 11 a.m. events. California State Senator Art Torres remembers Chavez refusing to let anyone touch donated money without a full accounting, even when the gas tank was empty. Robert Kennedy Jr. recounts how Chavez mobilized hundreds of supporters and delivered Arizona to Senator Ted Kennedy's 1980 campaign. Co-founder Dolores Huerta and the Reverend Jesse Jackson both speak of a man who planted seeds of dignity that will keep sprouting as long as farmworkers fight for their rights."
         }
       ]
     },
@@ -74,9 +86,14 @@
           "text": "The UFW After Chavez",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Alberto Aguilar examines what comes next for the union. He speaks with organizers who see Chavez's death not as an ending but as a rebirth, noting that disaffected and estranged former members have returned to the fold. California political consultant Richie Ross reflects on how Chavez ultimately concluded that farmworkers could not win through politicians, since agricultural money always outweighed political loyalty, and that the boycott was the only tool that truly worked. Arturo Rodriguez, Chavez's son-in-law, has been named the new UFW president. He inherits a union still waging the grape boycott, battling grower lawsuits, and fighting against toxic pesticides in the fields."
+          "text": "Reporter Alberto Aguilar examines what comes next for the union. He speaks with organizers who see Chavez's death not as an ending but as a rebirth, noting that disaffected and estranged former members have returned to the fold. California political consultant Richie Ross reflects on how Chavez ultimately concluded that farmworkers could not win through politicians, since agricultural money always outweighed political loyalty, and that the boycott was the only tool that truly worked. Arturo Rodriguez, Chavez's son-in-law, has been named the new UFW president. He inherits a union still waging the grape boycott, battling grower lawsuits, and fighting against toxic pesticides in the fields."
         }
       ]
     },
@@ -95,9 +112,14 @@
           "text": "Cesar Chavez in His Own Words",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nThe episode closes with a recording of Chavez's final major public speech, in which he explains why the boycott was the movement's only real weapon. Agricultural workers, he notes, had no protection under collective bargaining law, while courts handed out injunctions freely. The growers were powerful locally, but they could not reach Boston, Chicago, or Canada. The boycott leveled the playing field. His words carry a quiet power: \"It is a terrible irony that in our day and our age, our country produces more food than what it really needs, yet the men, women, and children whose labor harvests this food often go to bed hungry.\""
+          "text": "The episode closes with a recording of Chavez's final major public speech, in which he explains why the boycott was the movement's only real weapon. Agricultural workers, he notes, had no protection under collective bargaining law, while courts handed out injunctions freely. The growers were powerful locally, but they could not reach Boston, Chicago, or Canada. The boycott leveled the playing field. His words carry a quiet power: \"It is a terrible irony that in our day and our age, our country produces more food than what it really needs, yet the men, women, and children whose labor harvests this food often go to bed hungry.\""
         }
       ]
     },
