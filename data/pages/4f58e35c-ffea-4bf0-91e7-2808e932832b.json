@@ -4,24 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 8",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: June 20, 1993 - June 26, 1993",
           "bold": true
         }
@@ -42,9 +24,14 @@
           "text": "Las Noticias",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Maria Martin covers several stories. President Clinton meets with Latino leaders from major organizations, including the National Council of La Raza and LULAC, to discuss healthcare, education, and his economic plan. At UCLA, the months-long campaign for a Chicano Studies department escalates as six students and a professor begin a water-only hunger strike, with one student already in a wheelchair from physical weakness. Chancellor Charles Young holds firm, insisting the interdisciplinary structure will remain. In New York, veteran Democratic politician Herman Badillo shocks the city's political establishment by endorsing Republican mayoral candidate Rudolph Giuliani, forming what they call a Fusion Party and what critics call the Confusion Party. Salvadoran refugee advocates launch information campaigns to alert the estimated 200,000 Salvadorans in the U.S. that their Temporary Protected Status has been extended by 18 months, while pushing Congress for a path to permanent residency. The segment closes with a report that Latino students in Texas, who make up a third of the total student population, account for more than 40% of dropouts."
+          "text": "News anchor Maria Martin covers several stories. President Clinton meets with Latino leaders from major organizations, including the National Council of La Raza and LULAC, to discuss healthcare, education, and his economic plan. At UCLA, the months-long campaign for a Chicano Studies department escalates as six students and a professor begin a water-only hunger strike, with one student already in a wheelchair from physical weakness. Chancellor Charles Young holds firm, insisting the interdisciplinary structure will remain. In New York, veteran Democratic politician Herman Badillo shocks the city's political establishment by endorsing Republican mayoral candidate Rudolph Giuliani, forming what they call a Fusion Party and what critics call the Confusion Party. Salvadoran refugee advocates launch information campaigns to alert the estimated 200,000 Salvadorans in the U.S. that their Temporary Protected Status has been extended by 18 months, while pushing Congress for a path to permanent residency. The segment closes with a report that Latino students in Texas, who make up a third of the total student population, account for more than 40% of dropouts."
         }
       ]
     },
@@ -63,9 +50,14 @@
           "text": "Father Luis Barrios and St. Anne's Church",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Mandalit Del Barco covers the suspension of Father Luis Barrios, an Episcopalian priest in the South Bronx who practices liberation theology, from his parish at St. Anne's Church. The bishop suspended Barrios without explanation after he blessed same-sex unions, created programs for Puerto Rican political prisoners, started a needle exchange program to fight AIDS, and protested a medical waste incinerator in the neighborhood. Supporters rallied at St. John the Divine Cathedral, with some forcing a replacement priest to cancel mass. Other clergy argue that priests doing similar work elsewhere have not faced suspension, and suggest race is a factor. Barrios, who grew up in Puerto Rico, attended a church where the priest was a member of the Socialist Party, says he never saw politics and religion as separate."
+          "text": "Reporter Mandalit Del Barco covers the suspension of Father Luis Barrios, an Episcopalian priest in the South Bronx who practices liberation theology, from his parish at St. Anne's Church. The bishop suspended Barrios without explanation after he blessed same-sex unions, created programs for Puerto Rican political prisoners, started a needle exchange program to fight AIDS, and protested a medical waste incinerator in the neighborhood. Supporters rallied at St. John the Divine Cathedral, with some forcing a replacement priest to cancel mass. Other clergy argue that priests doing similar work elsewhere have not faced suspension, and suggest race is a factor. Barrios, who grew up in Puerto Rico, attended a church where the priest was a member of the Socialist Party, says he never saw politics and religion as separate."
         }
       ]
     },
@@ -84,9 +76,14 @@
           "text": "Profile: Eddie Palmieri",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Alfredo Cruz of WBGO in Newark profiles pianist Eddie Palmieri, one of the most innovative forces in Latin music over more than three decades. Palmieri originally wanted to be a drummer like his idol Tito Puente, but his slight frame made carrying drums impossible. His older brother Charlie, who played with Puente, helped launch Eddie's career. In the 1960s, Palmieri formed "
+          "text": "Reporter Alfredo Cruz of WBGO in Newark profiles pianist Eddie Palmieri, one of the most innovative forces in Latin music over more than three decades. Palmieri originally wanted to be a drummer like his idol Tito Puente, but his slight frame made carrying drums impossible. His older brother Charlie, who played with Puente, helped launch Eddie's career. In the 1960s, Palmieri formed "
         },
         {
           "text": "La Perfecta",
@@ -112,9 +109,14 @@
           "text": "How Latinos Feel About Clinton",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nThree reporters conduct informal street polls in Latino communities across the country to gauge satisfaction with President Clinton. In Clint, Texas, most residents are patient, saying it is too soon to judge. In the predominantly Puerto Rican Wynwood neighborhood of Miami, opinions are split, with some saying they have seen no tangible change in their community. In Monterey Park, California, most lean toward giving the president more time. The overall picture is one of cautious, uncertain goodwill rather than strong approval or disapproval."
+          "text": "Three reporters conduct informal street polls in Latino communities across the country to gauge satisfaction with President Clinton. In Clint, Texas, most residents are patient, saying it is too soon to judge. In the predominantly Puerto Rican Wynwood neighborhood of Miami, opinions are split, with some saying they have seen no tangible change in their community. In Monterey Park, California, most lean toward giving the president more time. The overall picture is one of cautious, uncertain goodwill rather than strong approval or disapproval."
         }
       ]
     },
@@ -134,9 +136,14 @@
           "text": "Black-Latino Relations and the Lozano Verdict",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nMiami journalists Ivan Roman, Nancy San Martin, and Emilio San Pedro join Maria Hinojosa to discuss the acquittal of police officer William Lozano in his second trial for the 1989 shooting deaths of two Black men, a case that originally sparked three days of riots. The verdict did not trigger new violence, which the panelists attribute to years of deliberate community-building work since 1989, including monthly meetings of a county Community Relations Board and changes in political representation for Black Floridians. The reporters suggest Miami, long seen as a place of ethnic tension, may be quietly becoming a national model for multicultural coexistence."
+          "text": "Miami journalists Ivan Roman, Nancy San Martin, and Emilio San Pedro join Maria Hinojosa to discuss the acquittal of police officer William Lozano in his second trial for the 1989 shooting deaths of two Black men, a case that originally sparked three days of riots. The verdict did not trigger new violence, which the panelists attribute to years of deliberate community-building work since 1989, including monthly meetings of a county Community Relations Board and changes in political representation for Black Floridians. The reporters suggest Miami, long seen as a place of ethnic tension, may be quietly becoming a national model for multicultural coexistence."
         }
       ]
     },
