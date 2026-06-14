@@ -4,23 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 1",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: May 5, 1993 - May 8, 1993",
           "bold": true
         }
@@ -227,7 +210,7 @@
   "created_by": "amtellez16",
   "title": "Latino USA Episode 1",
   "slug": "latino-usa-episode-1",
-  "updated_at": "2026-06-12T18:48:10.785Z",
+  "updated_at": "2026-06-14T19:26:04.070Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
