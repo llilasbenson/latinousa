@@ -4,23 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latino USA - Episode 6",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Date range: June 6, 1993 - June 12, 1993",
           "bold": true
         }
@@ -41,9 +24,14 @@
           "text": "Las Noticias",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Maria Martin covers several stories. The Hispanic National Bar Association is lobbying President Clinton to appoint the first-ever Latino to the U.S. Supreme Court, presenting a shortlist of seven candidates including a New Mexico Supreme Court justice, the Texas Attorney General, and a former leader of MALDEF. In Florida, Dade County's 13-year English-only law is repealed after a contentious five-hour hearing, meaning county services including AIDS information and child abuse resources will now be available in Spanish. A coalition of 28 Latino organizations gives the Clinton administration a C-minus for Latino appointments in its first 100 days, noting that four departments received failing grades for having no Latinos in Senate-confirmed positions. Three California Latino organizations take out a full-page ad in the New York Times urging Clinton to include undocumented immigrants in his healthcare plan, arguing it is both a public health necessity and a cost-saving measure. The segment closes with a note that farm workers were excluded from Washington State's new healthcare law, which advocates call unconstitutional."
+          "text": "News anchor Maria Martin covers several stories. The Hispanic National Bar Association is lobbying President Clinton to appoint the first-ever Latino to the U.S. Supreme Court, presenting a shortlist of seven candidates including a New Mexico Supreme Court justice, the Texas Attorney General, and a former leader of MALDEF. In Florida, Dade County's 13-year English-only law is repealed after a contentious five-hour hearing, meaning county services including AIDS information and child abuse resources will now be available in Spanish. A coalition of 28 Latino organizations gives the Clinton administration a C-minus for Latino appointments in its first 100 days, noting that four departments received failing grades for having no Latinos in Senate-confirmed positions. Three California Latino organizations take out a full-page ad in the New York Times urging Clinton to include undocumented immigrants in his healthcare plan, arguing it is both a public health necessity and a cost-saving measure. The segment closes with a note that farm workers were excluded from Washington State's new healthcare law, which advocates call unconstitutional."
         }
       ]
     },
@@ -62,9 +50,14 @@
           "text": "Audio Essay: \"Alien Nation\"",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nPerformance artist Guillermo Gomez-Pena, actress Yareli Arizmendi, and rock musician Sergio Arau contribute a sharp audio essay on the dehumanizing language used to describe undocumented immigrants. Playing on words like \"alien,\" \"wetback,\" and \"illegal,\" the piece uses humor, spoken word, and hip-hop to expose the absurdity and cruelty baked into everyday immigration discourse."
+          "text": "Performance artist Guillermo Gomez-Pena, actress Yareli Arizmendi, and rock musician Sergio Arau contribute a sharp audio essay on the dehumanizing language used to describe undocumented immigrants. Playing on words like \"alien,\" \"wetback,\" and \"illegal,\" the piece uses humor, spoken word, and hip-hop to expose the absurdity and cruelty baked into everyday immigration discourse."
         }
       ]
     },
@@ -83,9 +76,14 @@
           "text": "The Clave: Heartbeat of Latin Music",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Marta Valentin offers a rich music appreciation segment tracing the clave, a five-stroke rhythmic pattern played on two wooden sticks, as the foundational heartbeat of Cuban rumba, salsa, and Latin music broadly. Valentin explains how the pattern holds an entire performance together even when the physical claves are not present, and traces its presence across merengue, cha-cha-cha, guaracha, and bolero. The segment is built around a conversation Valentin had with an American coworker who was tapping to the wrong beat at a Latin club, and blooms into a warm invitation to listen differently."
+          "text": "Reporter Marta Valentin offers a rich music appreciation segment tracing the clave, a five-stroke rhythmic pattern played on two wooden sticks, as the foundational heartbeat of Cuban rumba, salsa, and Latin music broadly. Valentin explains how the pattern holds an entire performance together even when the physical claves are not present, and traces its presence across merengue, cha-cha-cha, guaracha, and bolero. The segment is built around a conversation Valentin had with an American coworker who was tapping to the wrong beat at a Latin club, and blooms into a warm invitation to listen differently."
         }
       ]
     },
@@ -104,9 +102,14 @@
           "text": "The CARA Art Exhibition",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Maria Martin covers the final stop of the CARA show, an acronym for Chicano Art Resistance and Affirmation, at the San Antonio Museum of Art. The two-year traveling exhibit is the first ever devoted specifically to Chicano art, and features posters, holograms, and altars from the Chicano art movement of the 1960s and 70s. Playwright Luis Valdez connects the show's title to the Aztec concept of acquiring a face through life, while art scholar Tomas Ybarra-Frausto argues that lumping Chicano identity under the broader label of Hispanic erases its Indigenous and African roots."
+          "text": "Reporter Maria Martin covers the final stop of the CARA show, an acronym for Chicano Art Resistance and Affirmation, at the San Antonio Museum of Art. The two-year traveling exhibit is the first ever devoted specifically to Chicano art, and features posters, holograms, and altars from the Chicano art movement of the 1960s and 70s. Playwright Luis Valdez connects the show's title to the Aztec concept of acquiring a face through life, while art scholar Tomas Ybarra-Frausto argues that lumping Chicano identity under the broader label of Hispanic erases its Indigenous and African roots."
         }
       ]
     },
@@ -125,9 +128,14 @@
           "text": "Interview: Ana Castillo",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nMaria Hinojosa speaks with Chicana novelist and poet Ana Castillo about her new novel \"So Far From God,\" set in New Mexico and following a woman named Sophie and her four daughters as they navigate themes of faith, women's rights, environmental racism, and Catholicism. Castillo rejects the label of magical realism, saying the book is better understood as rooted in faith, whether Catholic, Pueblo Indian, or otherwise. She reflects on nearly 20 years of writing through racism, sexism, and classism before reaching wide recognition, and closes with advice to young Latino writers: read everything, write constantly, and trust your voice."
+          "text": "Maria Hinojosa speaks with Chicana novelist and poet Ana Castillo about her new novel \"So Far From God,\" set in New Mexico and following a woman named Sophie and her four daughters as they navigate themes of faith, women's rights, environmental racism, and Catholicism. Castillo rejects the label of magical realism, saying the book is better understood as rooted in faith, whether Catholic, Pueblo Indian, or otherwise. She reflects on nearly 20 years of writing through racism, sexism, and classism before reaching wide recognition, and closes with advice to young Latino writers: read everything, write constantly, and trust your voice."
         }
       ]
     },
