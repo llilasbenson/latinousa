@@ -24,9 +24,14 @@
           "text": "Las Noticias",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nNews anchor Vidal Guzmán opens with a linguistic milestone: the Census Bureau officially reports that Spanish is now the most-spoken language in the U.S. after English, with 17 million people in 39 states using it daily. The news pivots to healthcare. Outgoing Surgeon General Dr. Antonia Novello publicly argues that undocumented immigrants should be covered under Clinton's healthcare plan, since \"viruses don't ask for green cards,\" putting her at odds with Hillary Rodham Clinton's position. Reporter Patricia Guadalupe covers a meeting between Mrs. Clinton and the Congressional Hispanic Caucus, where members press for universal coverage, note that one-third of all Hispanics have no medical insurance, and flag that Puerto Rican citizens are inexplicably excluded from Medicaid. The segment also highlights a round of new Latino appointments in the Clinton administration, reports on low Latino voter turnout (just 8%) in the Los Angeles mayoral primary, a sign, says Southwest Voter Registration's Richard Martinez, that candidates simply didn't earn Latino trust, and covers a humanitarian flotilla that sailed to Cuba with food and medical equipment, drawing opposition from some Miami exiles."
+          "text": "News anchor Vidal Guzmán opens with a linguistic milestone: the Census Bureau officially reports that Spanish is now the most-spoken language in the U.S. after English, with 17 million people in 39 states using it daily. The news pivots to healthcare. Outgoing Surgeon General Dr. Antonia Novello publicly argues that undocumented immigrants should be covered under Clinton's healthcare plan, since \"viruses don't ask for green cards,\" putting her at odds with Hillary Rodham Clinton's position. Reporter Patricia Guadalupe covers a meeting between Mrs. Clinton and the Congressional Hispanic Caucus, where members press for universal coverage, note that one-third of all Hispanics have no medical insurance, and flag that Puerto Rican citizens are inexplicably excluded from Medicaid. The segment also highlights a round of new Latino appointments in the Clinton administration, reports on low Latino voter turnout (just 8%) in the Los Angeles mayoral primary, a sign, says Southwest Voter Registration's Richard Martinez, that candidates simply didn't earn Latino trust, and covers a humanitarian flotilla that sailed to Cuba with food and medical equipment, drawing opposition from some Miami exiles."
         }
       ]
     },
@@ -45,9 +50,14 @@
           "text": "Being Latino/a and Gay",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Mandalit Del Barco speaks with gay and lesbian Latino/a activists in the wake of a major march on Washington. Hector Seda, a board member of LLEGÓ, the national organization of lesbian and gay Latinos, describes his identity as simultaneously \"very difficult\" and \"very beautiful.\" Gay Puerto Rican Juan Mendez, who documents hate crimes for New York's Gay and Lesbian Anti-Violence Project, pushes back on the stereotype that Latine culture is uniquely homophobic, calling that framing a \"racist slant.\" Both he and a New York City Latina who goes only by Terry express frustration with the mainstream gay rights movement's laser focus on gays in the military, a priority they see as a white, assimilationist agenda that excludes non-white queer people. The activists argue that gay and lesbian Latino/as must fight on two fronts simultaneously: within the broader gay movement for Latine concerns, and within Latine communities for queer rights."
+          "text": "Reporter Mandalit Del Barco speaks with gay and lesbian Latino/a activists in the wake of a major march on Washington. Hector Seda, a board member of LLEGÓ, the national organization of lesbian and gay Latinos, describes his identity as simultaneously \"very difficult\" and \"very beautiful.\" Gay Puerto Rican Juan Mendez, who documents hate crimes for New York's Gay and Lesbian Anti-Violence Project, pushes back on the stereotype that Latine culture is uniquely homophobic, calling that framing a \"racist slant.\" Both he and a New York City Latina who goes only by Terry express frustration with the mainstream gay rights movement's laser focus on gays in the military, a priority they see as a white, assimilationist agenda that excludes non-white queer people. The activists argue that gay and lesbian Latino/as must fight on two fronts simultaneously: within the broader gay movement for Latine concerns, and within Latine communities for queer rights."
         }
       ]
     },
@@ -66,9 +76,14 @@
           "text": "Interview: Dr. Loco and the Rockin' Jalapeño Band",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nMaria Hinojosa sits down with Professor José Cuéllar, Ph.D., known as Dr. Loco, chairman of La Raza Studies at San Francisco State University and leader of the nine-piece Dr. Loco's Rockin' Jalapeño Band. Dr. Loco describes his music as \"Chicano world music,\" a kaleidoscopic blend of Afro-Cuban rhythms, Germanic accordion traditions, indigenous instruments, doo-wop, R&B, nueva canción, and rap. He reclaims the term \"pocho,\" a historically a slur for Mexicans seen as too Americanized, as a badge of honor, celebrating bilingualism and multiculturalism as assets rather than flaws. The conversation moves through his Jalapeño remakes of James Brown and \"Cherry Pie,\" the deep influence of Black American music on Chicano culture, and the ongoing grape boycott that inspired his song \"El Picket Sign.\" The interview closes with his multilingual, soca-inflected version of \"We Shall Overcome,\" a song he sees as belonging to every movement for social justice from Tiananmen Square to the fields of California."
+          "text": "Maria Hinojosa sits down with Professor José Cuéllar, Ph.D., known as Dr. Loco, chairman of La Raza Studies at San Francisco State University and leader of the nine-piece Dr. Loco's Rockin' Jalapeño Band. Dr. Loco describes his music as \"Chicano world music,\" a kaleidoscopic blend of Afro-Cuban rhythms, Germanic accordion traditions, indigenous instruments, doo-wop, R&B, nueva canción, and rap. He reclaims the term \"pocho,\" a historically a slur for Mexicans seen as too Americanized, as a badge of honor, celebrating bilingualism and multiculturalism as assets rather than flaws. The conversation moves through his Jalapeño remakes of James Brown and \"Cherry Pie,\" the deep influence of Black American music on Chicano culture, and the ongoing grape boycott that inspired his song \"El Picket Sign.\" The interview closes with his multilingual, soca-inflected version of \"We Shall Overcome,\" a song he sees as belonging to every movement for social justice from Tiananmen Square to the fields of California."
         }
       ]
     },
@@ -87,9 +102,14 @@
           "text": "Commentary: Speaking for the Street",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nJohn Guardo, a 19-year-old former New York City gang member trying to leave that life behind, delivers a raw street-level commentary on the impossible bind he finds himself in. He can't call the police; they've rammed flashlights into his skull and frisked him in front of his neighbors. He can't rejoin his crew; he just got out. But without protection, his family has become vulnerable. He finds himself seriously considering buying a gun, then second-guessing himself, then coming back around again. \"What I mean is not that we lack police presence,\" he says, \"but that it doesn't matter if there's cops on every corner when they're going to be there to magnify the distrust we already have for them.\" It's a stark and unsettling portrait of life caught between gang violence and institutional failure."
+          "text": "John Guardo, a 19-year-old former New York City gang member trying to leave that life behind, delivers a raw street-level commentary on the impossible bind he finds himself in. He can't call the police; they've rammed flashlights into his skull and frisked him in front of his neighbors. He can't rejoin his crew; he just got out. But without protection, his family has become vulnerable. He finds himself seriously considering buying a gun, then second-guessing himself, then coming back around again. \"What I mean is not that we lack police presence,\" he says, \"but that it doesn't matter if there's cops on every corner when they're going to be there to magnify the distrust we already have for them.\" It's a stark and unsettling portrait of life caught between gang violence and institutional failure."
         }
       ]
     },
@@ -108,9 +128,14 @@
           "text": "Feature: Celebrate Youth, Mentorship in New Mexico",
           "bold": true,
           "textSize": "heading-four"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nReporter Debra Beagle visits Celebrate Youth, a six-year-old mentorship program in rural New Mexico that pairs talented Latino students with adult mentors, including artists, scientists, and musicians, for six months of intensive one-on-one work. Thirteen-year-old Miguel Atencio of Chama won the state middle school chess championship through the program. Program director Paquita Hernandez explains the philosophy: match talented but economically disadvantaged kids with mentors who open them to entirely new ways of experiencing the world. She argues that schools are failing young people across the nation, not just those who physically drop out, but those who \"drop out while sitting in the classroom.\" The episode ends on an upbeat note: nearly 400 students will gather at the University of New Mexico in June to showcase the dances, paintings, and research projects they've built through the program."
+          "text": "Reporter Debra Beagle visits Celebrate Youth, a six-year-old mentorship program in rural New Mexico that pairs talented Latino students with adult mentors, including artists, scientists, and musicians, for six months of intensive one-on-one work. Thirteen-year-old Miguel Atencio of Chama won the state middle school chess championship through the program. Program director Paquita Hernandez explains the philosophy: match talented but economically disadvantaged kids with mentors who open them to entirely new ways of experiencing the world. She argues that schools are failing young people across the nation, not just those who physically drop out, but those who \"drop out while sitting in the classroom.\" The episode ends on an upbeat note: nearly 400 students will gather at the University of New Mexico in June to showcase the dances, paintings, and research projects they've built through the program."
         }
       ]
     },
